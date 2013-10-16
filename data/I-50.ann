@@ -1,0 +1,19 @@
+T1	Mention 179 183	they
+T2	Mention 62 92	Logics of knowledge and belief
+T3	Mention 325 329	CTLK
+T4	Mention 331 368	computation tree logic with knowledge
+T7	Mention 458 502	The new logic CTLKP (CTLK with plausibility)
+T8	Mention 472 477	CTLKP
+T9	Mention 479 501	CTLK with plausibility
+T10	Mention 591 601	this logic
+T11	Mention 788 794	belief
+T12	Mention 798 813	a KD45 modality
+T5	Mention 290 292	We
+T6	Mention 672 674	we
+T13	Mention 743 745	we
+T14	Mention 815 817	We
+*	Coreference T2 T1
+*	Coreference T3 T4
+*	Coreference T7 T8 T9 T10
+*	Coreference T11 T12
+*	Coreference T5 T6 T13 T14

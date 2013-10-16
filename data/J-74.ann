@@ -1,0 +1,22 @@
+T1	Mention 80 85	their
+T2	Mention 60 75	online auctions
+T3	Mention 481 484	his
+T4	Mention 389 397	a bidder
+T5	Mention 146 154	cheating
+T6	Mention 587 595	cheating
+T7	Mention 519 595	equilibrium strategies when bidders are aware of the possibility of cheating
+T8	Mention 597 610	These results
+T9	Mention 158 177	sealed-bid auctions
+T10	Mention 633 652	sealed-bid auctions
+T11	Mention 676 684	cheating
+T12	Mention 408 429	a first-price auction
+T13	Mention 759 780	a first-price auction
+T14	Mention 206 208	we
+T15	Mention 509 511	we
+*	Coreference T2 T1
+*	Coreference T4 T3
+*	Coreference T6 T5 T11
+*	Coreference T8 T7
+*	Coreference T10 T9
+*	Coreference T13 T12
+*	Coreference T14 T15

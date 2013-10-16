@@ -1,0 +1,21 @@
+T1	Mention 434 464	their local learning processes
+T2	Mention 405 411	agents
+T3	Mention 434 439	their
+T4	Mention 526 541	these processes
+T5	Mention 367 464	an abstract architecture that enables agents to exchange models of their local learning processes
+T7	Mention 543 547	This
+T8	Mention 742 748	agents
+T9	Mention 783 788	their
+T11	Mention 822 839	this architecture
+T12	Mention 909 933	the conceptual framework
+T10	Mention 93 354	a framework for agent-based distributed machine learning and data mining based on (i) the exchange of meta-level descriptions of individual learning processes among agents and (ii) online reasoning about learning success and learning progress by learning agents
+T15	Mention 1113 1124	this system
+T16	Mention 1205 1218	the framework
+T6	Mention 356 358	We
+T13	Mention 813 815	We
+T14	Mention 1064 1066	We
+*	Coreference T2 T3 T8 T9
+*	Coreference T1 T4
+*	Coreference T5 T7 T11 T15
+*	Coreference T10 T12 T16
+*	Coreference T6 T13 T14

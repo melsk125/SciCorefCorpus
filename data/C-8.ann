@@ -1,0 +1,27 @@
+T1	Mention 63 89	Operational Transformation
+T2	Mention 91 93	OT
+T3	Mention 98 152	a technique for consistency maintenance and group undo
+T4	Mention 261 263	OT
+T5	Mention 290 293	its
+T6	Mention 367 372	those
+T7	Mention 314 339	existing and new problems
+T8	Mention 461 463	it
+T9	Mention 384 407	The theory of causality
+T11	Mention 1058 1074	Context-based OT
+T12	Mention 1087 1104	The COT algorithm
+T13	Mention 1049 1085	the COT (Context-based OT) algorithm
+T14	Mention 1308 1325	The COT algorithm
+T15	Mention 610 662	increasingly intricate and complicated OT algorithms
+T16	Mention 1370 1397	prior OT control algorithms
+T17	Mention 1479 1496	the COT algorithm
+T18	Mention 1540 1542	it
+T19	Mention 749 751	we
+T20	Mention 970 972	we
+T21	Mention 1459 1461	We
+*	Coreference T1 T2 T3 T4 T5
+*	Coreference T7 T6
+*	Coreference T9 T8
+*	Coreference T11 T12 T14 T17 T18 T13 T10
+*	Coreference T15 T16
+*	Coreference T19 T20 T21
+T10	Mention 1053 1056	COT

@@ -1,0 +1,42 @@
+T1	Mention 154 159	grids
+T2	Mention 271 276	grids
+T3	Mention 290 294	UDDI
+T4	Mention 304 361	the de facto industry standard for web-services discovery
+T5	Mention 475 478	its
+T6	Mention 531 545	grid computing
+T7	Mention 115 129	grid computing
+T8	Mention 571 575	UDDI
+T9	Mention 636 641	grids
+T10	Mention 668 768	our distributed web-service discovery architecture, called DUDE (Distributed UDDI Deployment Engine)
+T11	Mention 727 731	DUDE
+T12	Mention 733 767	Distributed UDDI Deployment Engine
+T13	Mention 770 774	DUDE
+T14	Mention 785 788	DHT
+T15	Mention 790 813	Distributed Hash Tables
+T16	Mention 818 873	a rendezvous mechanism between multiple UDDI registries
+T18	Mention 411 421	registries
+T19	Mention 875 879	DUDE
+T22	Mention 1006 1011	their
+T23	Mention 960 973	organizations
+T24	Mention 1085 1102	DUDE architecture
+T25	Mention 1141 1156	UDDI registries
+T26	Mention 1172 1176	UDDI
+T27	Mention 1209 1212	its
+T28	Mention 1209 1227	its scaling issues
+T29	Mention 546 575	the scalability issue of UDDI
+T30	Mention 1242 1263	The DUDE architecture
+T31	Mention 1312 1316	UDDI
+T32	Mention 618 621	its
+T33	Mention 41 45	UDDI
+T34	Mention 657 659	we
+T35	Mention 668 671	our
+T17	Mention 1069 1071	we
+*	Coreference T1 T2 T9
+*	Coreference T3 T4 T5 T8 T26 T27 T31 T32 T33
+*	Coreference T7 T6
+*	Coreference T10 T11 T12 T13 T19 T24 T30
+*	Coreference T14 T15 T16
+*	Coreference T18 T25
+*	Coreference T22 T23
+*	Coreference T29 T28
+*	Coreference T34 T35 T17

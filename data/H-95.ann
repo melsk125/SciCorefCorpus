@@ -1,0 +1,13 @@
+T3	Mention 95 136	place references in search engine queries
+T4	Mention 263 279	place references
+T5	Mention 293 297	them
+T6	Mention 354 361	a query
+T7	Mention 450 459	the query
+T8	Mention 431 459	documents matching the query
+T9	Mention 513 528	these documents
+T1	Mention 197 199	We
+T2	Mention 396 398	we
+*	Coreference T3 T4 T5
+*	Coreference T6 T7
+*	Coreference T8 T9
+*	Coreference T2 T1

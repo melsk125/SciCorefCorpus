@@ -1,0 +1,23 @@
+T1	Mention 99 183	a multiagent system where each (distributed) agent locally perceives its environment
+T3	Mention 125 149	each (distributed) agent
+T4	Mention 168 171	its
+T5	Mention 225 235	each agent
+T6	Mention 253 256	its
+T7	Mention 300 302	it
+T8	Mention 253 276	its favoured hypothesis
+T9	Mention 551 563	such systems
+T10	Mention 532 590	the convergence of such systems towards global consistency
+T11	Mention 736 765	the convergence of the system
+T2	Mention 66 68	We
+T12	Mention 395 397	we
+T13	Mention 510 512	we
+T14	Mention 592 594	We
+T15	Mention 647 649	we
+T16	Mention 1002 1004	we
+T17	Mention 1165 1167	We
+*	Coreference T1 T9
+*	Coreference T3 T4
+*	Coreference T5 T6
+*	Coreference T8 T7
+*	Coreference T10 T11
+*	Coreference T2 T12 T13 T14 T15 T16 T17

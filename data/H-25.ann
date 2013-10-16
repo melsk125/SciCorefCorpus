@@ -1,0 +1,11 @@
+T1	Mention 533 547	Our algorithms
+T2	Mention 440 531	effective algorithms for constructing refined query language models from user term feedback
+T3	Mention 701 705	They
+T4	Mention 170 183	term feedback
+T5	Mention 84 103	term-based feedback
+T6	Mention 75 77	we
+T7	Mention 338 340	We
+T8	Mention 533 536	Our
+*	Coreference T2 T1 T3
+*	Coreference T5 T4
+*	Coreference T6 T7 T8

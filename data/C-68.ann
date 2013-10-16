@@ -1,0 +1,21 @@
+T1	Mention 81 166	On-demand delivery of audio and video clips in peer-to-peer vehicular ad-hoc networks
+T2	Mention 170 198	an emerging area of research
+T3	Mention 228 379	data carriers, termed zebroids, where a mobile device carries a data item on behalf of a server to a client thereby minimizing its availability latency
+T4	Mention 250 258	zebroids
+T5	Mention 355 358	its
+T6	Mention 290 301	a data item
+T8	Mention 451 459	zebroids
+T7	Mention 597 605	zebroids
+T9	Mention 771 779	zebroids
+T10	Mention 714 749	Significant improvements in latency
+T11	Mention 815 833	These improvements
+T12	Mention 1012 1020	zebroids
+T13	Mention 1125 1133	zebroids
+T14	Mention 200 203	Our
+T15	Mention 396 398	we
+T16	Mention 649 651	we
+*	Coreference T1 T2
+*	Coreference T3 T4 T8 T7 T9 T12 T13
+*	Coreference T6 T5
+*	Coreference T10 T11
+*	Coreference T14 T15 T16

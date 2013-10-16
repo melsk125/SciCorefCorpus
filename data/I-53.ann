@@ -1,0 +1,19 @@
+T1	Mention 83 135	one of the key solution concepts for coalition games
+T2	Mention 62 79	The Shapley value
+T3	Mention 137 140	Its
+T4	Mention 164 166	it
+T5	Mention 208 211	its
+T6	Mention 260 277	the Shapley value
+T7	Mention 357 367	this value
+T10	Mention 334 387	the problem of finding this value for the voting game
+T11	Mention 520 531	the problem
+T12	Mention 754 765	this method
+T13	Mention 660 729	a new randomized method for determining the approximate Shapley value
+T14	Mention 873 892	the proposed method
+T8	Mention 460 462	we
+T9	Mention 594 596	we
+T15	Mention 802 804	We
+*	Coreference T3 T4 T5 T6 T2 T1 T7
+*	Coreference T10 T11
+*	Coreference T13 T12 T14
+*	Coreference T8 T9 T15

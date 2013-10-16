@@ -1,0 +1,32 @@
+T1	Mention 178 195	general documents
+T2	Mention 156 173	general documents
+T5	Mention 205 363	documents that can belong to any one of a number of specific genres, including presentations, book chapters, technical papers, brochures, reports, and letters
+T6	Mention 134 150	title extraction
+T7	Mention 415 431	title extraction
+T8	Mention 516 542	automatic title extraction
+T9	Mention 548 565	general documents
+T10	Mention 754 758	them
+T11	Mention 679 685	titles
+T12	Mention 820 836	title extraction
+T13	Mention 783 806	machine learning models
+T14	Mention 843 861	the trained models
+T15	Mention 863 873	Our method
+T16	Mention 653 665	our approach
+T17	Mention 966 976	the models
+T18	Mention 1073 1090	general documents
+T3	Mention 92 94	we
+T4	Mention 197 199	we
+T19	Mention 584 586	we
+T20	Mention 667 669	we
+T21	Mention 892 894	we
+T22	Mention 1361 1363	we
+T23	Mention 1451 1453	we
+T24	Mention 1538 1540	we
+T25	Mention 653 656	our
+T26	Mention 863 866	Our
+*	Coreference T1 T2 T5 T9 T18
+*	Coreference T6 T7 T8 T12
+*	Coreference T11 T10
+*	Coreference T13 T14 T17
+*	Coreference T16 T15
+*	Coreference T3 T4 T19 T20 T21 T22 T23 T24 T25 T26

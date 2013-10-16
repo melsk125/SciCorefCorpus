@@ -1,0 +1,28 @@
+T1	Mention 96 200	Dynamics Based Control (DBC), an approach to planning and control of an agent in stochastic environments
+T2	Mention 120 123	DBC
+T3	Mention 126 200	an approach to planning and control of an agent in stochastic environments
+T4	Mention 280 325	Partially Observable Markov Decision Problems
+T5	Mention 327 333	POMDPs
+T6	Mention 337 340	DBC
+T7	Mention 467 491	Extended Markov Tracking
+T8	Mention 493 496	EMT
+T9	Mention 415 497	a recently developed planning and control approach, Extended Markov Tracking (EMT)
+T10	Mention 501 524	an instantiation of DBC
+T11	Mention 526 529	EMT
+T12	Mention 573 603	an efficient control algorithm
+T13	Mention 642 657	this efficiency
+T14	Mention 793 806	such problems
+T15	Mention 714 778	a class of area-sweeping problems (searching for moving targets)
+T16	Mention 861 878	the DBC framework
+T17	Mention 884 887	its
+T18	Mention 888 891	EMT
+T19	Mention 83 85	we
+T20	Mention 402 404	We
+T21	Mention 631 633	We
+T22	Mention 780 782	We
+*	Coreference T1 T2 T3 T6 T16 T17
+*	Coreference T4 T5
+*	Coreference T9 T7 T8 T10 T11 T18
+*	Coreference T12 T13
+*	Coreference T15 T14
+*	Coreference T19 T20 T21 T22

@@ -1,0 +1,4 @@
+T1	Mention 103 177	a new class of mechanisms based on negotiation between market participants
+T2	Mention 179 189	This model
+T3	Mention 429 450	The underlying scheme
+*	Coreference T2 T1 T3

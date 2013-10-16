@@ -1,0 +1,10 @@
+T1	Mention 256 277	information retrieval
+T2	Mention 279 281	IR
+T3	Mention 256 289	information retrieval (IR) system
+T4	Mention 301 304	its
+T5	Mention 134 159	domain-specific knowledge
+T6	Mention 390 415	domain-specific knowledge
+T7	Mention 518 543	domain-specific knowledge
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T5 T6 T7

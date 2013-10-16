@@ -1,0 +1,49 @@
+T1	Mention 144 154	The agents
+T2	Mention 109 142	self-interested autonomous agents
+T3	Mention 317 327	The issues
+T4	Mention 245 267	issues for negotiation
+T9	Mention 589 599	the issues
+T10	Mention 552 562	the agents
+T11	Mention 608 618	themselves
+T12	Mention 637 642	their
+T13	Mention 750 776	the issues for negotiation
+T14	Mention 799 810	the parties
+T15	Mention 704 730	the equilibrium strategies
+T16	Mention 829 834	their
+T17	Mention 980 1009	this computational complexity
+T18	Mention 829 850	their time complexity
+T19	Mention 1027 1110	negotiation strategies that are approximately optimal but computationally efficient
+T21	Mention 1126 1130	they
+T22	Mention 1194 1253	the difference between the true optimum and the approximate
+T23	Mention 1168 1186	the relative error
+T24	Mention 1279 1317	the approximate equilibrium strategies
+T25	Mention 1426 1578	online negotiation where different issues become available at different time points and the agents are uncertain about their valuations for these issues
+T27	Mention 1545 1550	their
+T28	Mention 1514 1524	the agents
+T29	Mention 1566 1578	these issues
+T30	Mention 1451 1467	different issues
+T31	Mention 1645 1663	online negotiation
+T32	Mention 1726 1741	the approximate
+T33	Mention 1607 1633	an approximate equilibrium
+T34	Mention 1755 1783	These approximate strategies
+T5	Mention 406 416	each issue
+T6	Mention 438 441	its
+T7	Mention 688 690	we
+T8	Mention 818 820	we
+T20	Mention 1011 1013	we
+T26	Mention 1152 1154	We
+T35	Mention 1400 1402	we
+T36	Mention 1594 1596	we
+*	Coreference T1 T2
+*	Coreference T3 T4 T9 T13
+*	Coreference T10 T11 T12 T14
+*	Coreference T15 T16
+*	Coreference T18 T17
+*	Coreference T19 T21 T24 T34
+*	Coreference T23 T22
+*	Coreference T25 T31
+*	Coreference T27 T28
+*	Coreference T29 T30
+*	Coreference T33 T32
+*	Coreference T5 T6
+*	Coreference T7 T8 T20 T26 T35 T36

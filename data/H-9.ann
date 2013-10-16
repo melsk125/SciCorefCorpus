@@ -1,0 +1,20 @@
+T1	Mention 155 180	Clustering search results
+T2	Mention 184 292	an effective way to organize search results, which allows a user to navigate into relevant documents quickly
+T4	Mention 323 336	this approach
+T5	Mention 342 344	it
+T9	Mention 303 336	two deficiencies of this approach
+T10	Mention 640 662	these two deficiencies
+T11	Mention 746 760	search results
+T12	Mention 213 227	search results
+T14	Mention 877 889	our proposed
+T15	Mention 1005 1015	our method
+T16	Mention 989 1003	search results
+T3	Mention 618 620	we
+T6	Mention 865 867	We
+T7	Mention 877 880	our
+T8	Mention 1005 1008	our
+*	Coreference T1 T2 T4 T5
+*	Coreference T9 T10
+*	Coreference T12 T11 T16
+*	Coreference T14 T15
+*	Coreference T3 T6 T7 T8

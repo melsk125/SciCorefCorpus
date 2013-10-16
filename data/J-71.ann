@@ -1,0 +1,26 @@
+T1	Mention 161 189	a dynamic pari-mutuel market
+T2	Mention 191 194	DPM
+T3	Mention 90 195	a new mechanism for risk allocation and information speculation called a dynamic pari-mutuel market (DPM)
+T4	Mention 197 202	A DPM
+T5	Mention 251 278	a continuous double auction
+T6	Mention 280 283	CDA
+T7	Mention 334 354	a pari-mutuel market
+T8	Mention 226 246	a pari-mutuel market
+T9	Mention 356 361	a DPM
+T10	Mention 442 447	a CDA
+T11	Mention 449 454	a DPM
+T12	Mention 750 798	an addition variable called the payoff per share
+T13	Mention 778 798	the payoff per share
+T14	Mention 967 980	the mechanism
+T15	Mention 1020 1022	it
+T16	Mention 1096 1135	a number of variations on the basic DPM
+T17	Mention 1202 1207	their
+T18	Mention 804 807	DPM
+T19	Mention 80 81	I
+T20	Mention 1086 1087	I
+*	Coreference T5 T6 T10
+*	Coreference T8 T7
+*	Coreference T12 T13
+*	Coreference T14 T15 T1 T2 T3 T4 T9 T11 T18
+*	Coreference T16 T17
+*	Coreference T19 T20

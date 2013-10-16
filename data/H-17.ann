@@ -1,0 +1,40 @@
+T1	Mention 106 213	large-scale inverted indexes which are queried thousands of times per second by users eager for information
+T3	Mention 270 284	search engines
+T4	Mention 74 96	The Web search engines
+T5	Mention 291 296	their
+T6	Mention 291 302	their index
+T7	Mention 503 512	the index
+T8	Mention 528 543	the top results
+T9	Mention 355 366	top results
+T10	Mention 554 570	the pruned index
+T12	Mention 661 676	the top results
+T13	Mention 701 717	the pruned index
+T14	Mention 719 721	it
+T15	Mention 637 647	a document
+T16	Mention 770 786	the pruned index
+T17	Mention 585 632	a significant degradation in the result quality
+T18	Mention 846 861	this phenomenon
+T19	Mention 968 1010	the pruning-based performance optimization
+T20	Mention 1042 1045	its
+T21	Mention 1161 1368	a new result computation algorithm that guarantees that the top-matching pages are always placed at the top search results, even though we are computing the first batch from the pruned index most of the time
+T23	Mention 1466 1480	our algorithms
+T2	Mention 376 393	this pruned index
+T11	Mention 571 573	we
+T24	Mention 517 519	we
+T25	Mention 901 903	we
+T26	Mention 914 916	we
+T27	Mention 1055 1058	Our
+T22	Mention 1297 1299	we
+T28	Mention 1370 1372	We
+T29	Mention 1439 1441	we
+T30	Mention 1466 1469	our
+*	Coreference T1 T6 T7
+*	Coreference T4 T3 T5
+*	Coreference T9 T8 T12
+*	Coreference T10 T13 T16 T2
+*	Coreference T15 T14
+*	Coreference T17 T18
+*	Coreference T20 T19
+*	Coreference T21 T23
+*	Coreference T24 T11 T26 T22
+*	Coreference T25 T27 T28 T29 T30

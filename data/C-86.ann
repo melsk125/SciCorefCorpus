@@ -1,0 +1,10 @@
+T1	Mention 304 396	Mirage, a microeconomic resource allocation system based on a repeated combinatorial auction
+T2	Mention 312 396	a microeconomic resource allocation system based on a repeated combinatorial auction
+T3	Mention 398 404	Mirage
+T6	Mention 818 828	the system
+T7	Mention 264 266	we
+T8	Mention 495 497	we
+T4	Mention 661 663	we
+T5	Mention 792 794	we
+*	Coreference T1 T2 T3 T6
+*	Coreference T7 T8 T4 T5

@@ -1,0 +1,64 @@
+T1	Mention 113 134	Vickrey-Clarke-Groves
+T2	Mention 136 139	VCG
+T3	Mention 243 260	the VCG mechanism
+T4	Mention 98 150	the well-known Vickrey-Clarke-Groves (VCG) mechanism
+T5	Mention 365 403	an auctioneer who is selling the items
+T7	Mention 483 497	the auctioneer
+T8	Mention 511 520	the items
+T9	Mention 593 602	the items
+T10	Mention 546 556	the agents
+T11	Mention 621 631	themselves
+T12	Mention 677 679	it
+T13	Mention 633 652	any surplus payment
+T14	Mention 705 725	the system of agents
+T15	Mention 757 934	a mechanism that redistributes some of the VCG payment back to the agents, while maintaining efficiency, strategy-proofness, individual rationality, and the non-deficit property
+T18	Mention 1007 1121	allocation settings where there are multiple indistinguishable units of a single good, and agents have unit demand
+T17	Mention 976 996	a restricted setting
+T20	Mention 1128 1149	this specific setting
+T21	Mention 1151 1170	Cavallo's mechanism
+T22	Mention 1247 1330	a family of mechanisms that redistribute some of the VCG payment back to the agents
+T24	Mention 1098 1104	agents
+T25	Mention 1320 1330	the agents
+T26	Mention 1332 1360	All mechanisms in the family
+T27	Mention 1259 1269	mechanisms
+T28	Mention 1350 1360	the family
+T29	Mention 1442 1452	The family
+T30	Mention 1462 1490	the Bailey-Cavallo mechanism
+T31	Mention 1494 1508	a special case
+T32	Mention 1560 1583	the optimal mechanism -
+T33	Mention 1594 1657	the mechanism that maximizes redistribution in the worst case -
+T35	Mention 1666 1676	the family
+T36	Mention 1526 1547	an optimization model
+T37	Mention 1699 1709	this model
+T38	Mention 1782 1801	this linear program
+T39	Mention 1713 1729	a linear program
+T40	Mention 1875 1903	the Bailey-Cavallo mechanism
+T41	Mention 1948 1970	the obtained mechanism
+T42	Mention 1807 1839	the (unique) resulting mechanism
+T45	Mention 247 250	VCG
+T6	Mention 736 743	Cavallo
+T16	Mention 1151 1158	Cavallo
+T19	Mention 951 953	we
+T23	Mention 998 1000	We
+T34	Mention 1236 1238	we
+T43	Mention 1510 1512	We
+T44	Mention 1731 1733	We
+T46	Mention 1934 1936	we
+*	Coreference T1 T2 T45
+*	Coreference T4 T3
+*	Coreference T5 T7
+*	Coreference T8 T9
+*	Coreference T10 T11 T14
+*	Coreference T13 T12
+*	Coreference T15 T21
+*	Coreference T18 T17 T20
+*	Coreference T22 T28 T29 T35
+*	Coreference T24 T25
+*	Coreference T26 T27
+*	Coreference T30 T31 T40
+*	Coreference T32 T33
+*	Coreference T36 T37
+*	Coreference T39 T38
+*	Coreference T42 T41
+*	Coreference T6 T16
+*	Coreference T19 T23 T34 T43 T44 T46

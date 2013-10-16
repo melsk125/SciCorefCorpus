@@ -1,0 +1,22 @@
+T1	Mention 0 38	Live Data Center Migration across WANs
+T2	Mention 320 353	data center migration across WANs
+T3	Mention 492 556	both planned and unanticipated outages of data center facilities
+T4	Mention 367 374	outages
+T5	Mention 456 476	data center services
+T6	Mention 651 667	server functions
+T7	Mention 712 770	server migration and replication across wide area networks
+T8	Mention 618 667	the replication and migration of server functions
+T9	Mention 938 945	outages
+T10	Mention 214 221	outages
+T11	Mention 267 269	we
+T12	Mention 403 405	We
+T13	Mention 558 560	We
+T14	Mention 110 118	Internet
+T15	Mention 778 790	the Internet
+T16	Mention 669 671	We
+*	Coreference T2 T1
+*	Coreference T3 T4 T9 T10
+*	Coreference T6 T5
+*	Coreference T7 T8
+*	Coreference T11 T12 T13 T16
+*	Coreference T15 T14

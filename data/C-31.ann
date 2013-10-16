@@ -1,0 +1,13 @@
+T3	Mention 113 122	documents
+T4	Mention 307 322	these documents
+T8	Mention 822 832	a document
+T9	Mention 911 923	the document
+T10	Mention 974 1049	Apocrita, a revolutionary distributed P2P file sharing system for Intranets
+T11	Mention 984 1049	a revolutionary distributed P2P file sharing system for Intranets
+T1	Mention 149 163	such documents
+T2	Mention 854 860	a user
+T5	Mention 875 884	that user
+*	Coreference T3 T4 T1
+*	Coreference T8 T9
+*	Coreference T11 T10
+*	Coreference T2 T5

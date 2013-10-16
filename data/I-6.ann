@@ -1,0 +1,16 @@
+T1	Mention 94 123	agent communication languages
+T2	Mention 125 129	ACLs
+T3	Mention 134 251	a method for tackling some of the fundamental problems associated with agent communication in open multiagent systems
+T4	Mention 72 130	dynamic semantics for agent communication languages (ACLs)
+T5	Mention 284 329	alternative semantic variants for speech acts
+T6	Mention 359 363	them
+T7	Mention 413 426	our framework
+T8	Mention 853 858	their
+T9	Mention 790 816	concrete dynamic semantics
+T10	Mention 413 416	our
+T11	Mention 661 663	We
+*	Coreference T1 T2
+*	Coreference T4 T3 T7
+*	Coreference T5 T6
+*	Coreference T9 T8
+*	Coreference T11 T10

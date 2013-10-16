@@ -1,0 +1,31 @@
+T1	Mention 52 79	Air traffic flow management
+T2	Mention 83 171	one of the fundamental challenges facing the Federal Aviation Administration (FAA) today
+T3	Mention 124 159	the Federal Aviation Administration
+T4	Mention 161 164	FAA
+T5	Mention 173 180	The FAA
+T6	Mention 356 383	the flow management problem
+T7	Mention 549 561	This problem
+T8	Mention 589 591	it
+T9	Mention 918 1022	FACET -- an air traffic flow simulator developed at NASA and used extensively by the FAA and industry --
+T10	Mention 927 1019	an air traffic flow simulator developed at NASA and used extensively by the FAA and industry
+T11	Mention 999 1006	the FAA
+T12	Mention 1059 1082	traffic flow management
+T13	Mention 1156 1159	its
+T14	Mention 1084 1092	An agent
+T15	Mention 1112 1117	a fix
+T16	Mention 1119 1150	a specific location in 2D space
+T17	Mention 1244 1252	that fix
+T18	Mention 1254 1260	Agents
+T19	Mention 1187 1201	the separation
+T20	Mention 1295 1310	this separation
+T21	Mention 1315 1320	their
+T22	Mention 1385 1390	FACET
+T23	Mention 911 913	we
+T24	Mention 1381 1384	Our
+*	Coreference T1 T2 T6 T7 T8 T12
+*	Coreference T3 T4 T5 T11
+*	Coreference T9 T10 T22
+*	Coreference T14 T13 T18 T21
+*	Coreference T15 T16 T17
+*	Coreference T19 T20
+*	Coreference T23 T24

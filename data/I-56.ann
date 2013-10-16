@@ -1,0 +1,23 @@
+T1	Mention 189 236	The Distributed Constraint Satisfaction Problem
+T2	Mention 238 242	DCSP
+T3	Mention 247 415	one that entails several agents to search for an agreement, which is a consistent combination of actions that satisfies their mutual constraints in a shared environment
+T8	Mention 344 351	actions
+T9	Mention 367 372	their
+T12	Mention 587 610	Belief-Desire-Intention
+T13	Mention 612 615	BDI
+T14	Mention 682 700	this BDI framework
+T15	Mention 709 711	it
+T16	Mention 905 909	DCSP
+T17	Mention 94 187	a novel, unified distributed constraint satisfaction framework based on automated negotiation
+T18	Mention 924 977	a new strategy called Unsolicited Mutual Advice (UMA)
+T19	Mention 946 971	Unsolicited Mutual Advice
+T20	Mention 973 976	UMA
+T21	Mention 1025 1041	the UMA strategy
+T4	Mention 434 438	DCSP
+T5	Mention 504 508	DCSP
+T6	Mention 779 783	DCSP
+*	Coreference T1 T2 T3 T16 T4 T5 T6
+*	Coreference T8 T9
+*	Coreference T12 T13
+*	Coreference T14 T15 T17
+*	Coreference T18 T19 T20 T21

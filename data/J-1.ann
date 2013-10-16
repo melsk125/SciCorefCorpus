@@ -1,0 +1,29 @@
+T1	Mention 125 148	incentive compatibility
+T2	Mention 150 152	IC
+T3	Mention 155 177	individual rationality
+T4	Mention 179 181	IR
+T5	Mention 188 202	budget balance
+T6	Mention 204 206	BB
+T7	Mention 54 65	a mechanism
+T8	Mention 257 268	a mechanism
+T12	Mention 405 407	BB
+T13	Mention 545 727	a procedure called a Generalized Trade Reduction (GTR) for single-value players, which given an IR and IC mechanism, outputs a mechanism which is IR, IC and BB with a loss of welfare
+T9	Mention 762 775	our procedure
+T10	Mention 927 946	distributed markets
+T11	Mention 462 482	distributed markets 
+T17	Mention 820 831	our results
+T18	Mention 996 1008	our solution
+T14	Mention 641 643	IR
+T15	Mention 648 650	IC
+T16	Mention 534 536	we
+T19	Mention 729 731	We
+T20	Mention 762 765	our
+T21	Mention 820 823	our
+T22	Mention 996 999	our
+*	Coreference T1 T2 T15
+*	Coreference T3 T4 T14
+*	Coreference T5 T6 T12
+*	Coreference T7 T8
+*	Coreference T13 T9 T17
+*	Coreference T11 T10 T18
+*	Coreference T16 T19 T20 T21 T22

@@ -1,0 +1,11 @@
+T1	Mention 69 99	query biased document snippets
+T2	Mention 332 353	query biased snippets
+T5	Mention 887 991	a scheme that increases the number of document cache hits with only a marginal affect on snippet quality
+T7	Mention 993 1004	This scheme
+T3	Mention 217 219	we
+T4	Mention 355 357	We
+T8	Mention 737 739	we
+T9	Mention 818 820	we
+*	Coreference T1 T2
+*	Coreference T5 T7
+*	Coreference T3 T4 T8 T9

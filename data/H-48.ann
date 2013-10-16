@@ -1,0 +1,36 @@
+T1	Mention 97 118	information retrieval
+T2	Mention 120 122	IR
+T3	Mention 97 131	information retrieval (IR) systems
+T4	Mention 314 324	IR systems
+T5	Mention 326 341	Query Expansion
+T6	Mention 343 345	QE
+T7	Mention 221 276	Query-document term mismatch, whether partial or total,
+T8	Mention 280 324	a fact that must be dealt with by IR systems
+T9	Mention 350 391	one method for dealing with term mismatch
+T10	Mention 393 403	IR systems
+T11	Mention 417 432	query expansion
+T12	Mention 568 572	this
+T13	Mention 616 618	it
+T14	Mention 666 676	IR systems
+T15	Mention 645 676	the effectiveness of IR systems
+T16	Mention 76 131	The effectiveness of information retrieval (IR) systems
+T17	Mention 713 767	term mismatch between the query and relevant documents
+T18	Mention 778 780	it
+T19	Mention 810 822	such systems
+T20	Mention 855 883	query-document term mismatch
+T21	Mention 941 967	query expansion techniques
+T22	Mention 969 990	The proposed approach
+T23	Mention 911 967	a new approach for evaluating query expansion techniques
+T24	Mention 1013 1015	it
+T25	Mention 1084 1112	query-document term mismatch
+T26	Mention 1114 1116	it
+T27	Mention 1170 1172	it
+T28	Mention 314 316	IR
+T29	Mention 666 668	IR
+*	Coreference T1 T2 T28 T29
+*	Coreference T3 T4 T10 T14 T19
+*	Coreference T5 T6 T9 T11 T21
+*	Coreference T7 T8 T17 T20 T25
+*	Coreference T12 T13 T18
+*	Coreference T16 T15
+*	Coreference T23 T22 T24 T26 T27

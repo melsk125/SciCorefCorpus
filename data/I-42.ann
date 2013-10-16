@@ -1,0 +1,25 @@
+T1	Mention 98 133	Distributed Constraint Optimization
+T2	Mention 135 139	DCOP
+T3	Mention 144 218	a general framework that can model complex problems in multi-agent systems
+T7	Mention 377 467	an extension to the DPOP algorithm that handles an extended set of pseudotree arrangements
+T9	Mention 469 482	Our algorithm
+T12	Mention 586 599	The algorithm
+T13	Mention 302 306	DPOP
+T14	Mention 393 411	the DPOP algorithm
+T15	Mention 691 695	DPOP
+T17	Mention 708 721	our algorithm
+T18	Mention 727 731	DPOP
+T23	Mention 1317 1321	DPOP
+T4	Mention 266 270	DCOP
+T5	Mention 500 504	DCOP
+T6	Mention 364 366	We
+T8	Mention 697 699	We
+T10	Mention 918 920	We
+T11	Mention 1094 1096	We
+T16	Mention 1236 1238	we
+T19	Mention 469 472	Our
+T20	Mention 708 711	our
+*	Coreference T1 T2 T3 T4 T5
+*	Coreference T7 T9 T12 T17
+*	Coreference T13 T14 T15 T18 T23
+*	Coreference T6 T19 T8 T20 T10 T11 T16

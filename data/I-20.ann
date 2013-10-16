@@ -1,0 +1,29 @@
+T1	Mention 229 318	power indices (which reflect how much real power a voter has in a weighted voting system)
+T3	Mention 371 375	they
+T4	Mention 462 485	one of the most popular
+T5	Mention 435 458	The Banzhaf power index
+T6	Mention 487 489	it
+T7	Mention 614 637	the Banzhaf power index
+T8	Mention 645 696	a particular multiagent domain, a network flow game
+T9	Mention 677 696	a network flow game
+T10	Mention 755 757	it
+T11	Mention 735 746	a coalition
+T12	Mention 831 868	The relative power of each edge/agent
+T13	Mention 878 881	its
+T14	Mention 1022 1033	the network
+T15	Mention 927 946	real-world networks
+T16	Mention 1060 1083	the Banzhaf power index
+T19	Mention 1258 1279	Banzhaf power indices
+T2	Mention 767 829	a flow of a given size from a source vertex to a target vertex
+T17	Mention 907 918	such a flow
+T18	Mention 559 561	we
+T20	Mention 1035 1037	We
+T21	Mention 1142 1144	We
+*	Coreference T1 T3
+*	Coreference T5 T4 T6 T7 T16 T19
+*	Coreference T9 T8
+*	Coreference T11 T10
+*	Coreference T12 T13
+*	Coreference T14 T15
+*	Coreference T2 T17
+*	Coreference T20 T18 T21

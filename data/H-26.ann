@@ -1,0 +1,20 @@
+T1	Mention 232 254	mean average precision
+T2	Mention 256 259	MAP
+T3	Mention 270 273	its
+T4	Mention 102 126	ranked retrieval systems
+T5	Mention 308 315	systems
+T6	Mention 348 351	MAP
+T7	Mention 458 580	a general SVM learning algorithm that efficiently finds a globally optimal solution to a straightforward relaxation of MAP
+T11	Mention 577 580	MAP
+T12	Mention 594 606	our approach
+T13	Mention 744 754	our method
+T14	Mention 808 818	MAP scores
+T9	Mention 447 449	we
+T8	Mention 582 584	We
+T10	Mention 594 597	our
+T15	Mention 736 738	we
+T16	Mention 744 747	our
+*	Coreference T1 T2 T3 T6 T11 T14
+*	Coreference T4 T5
+*	Coreference T7 T12 T13
+*	Coreference T9 T8 T10 T15 T16

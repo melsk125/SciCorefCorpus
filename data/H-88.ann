@@ -1,0 +1,6 @@
+T1	Mention 633 683	the INitiative for the Evaluation of XML Retrieval
+T2	Mention 685 689	INEX
+T3	Mention 190 324	a result set in which the top ranks are dominated by a large number of elements taken from a small number of highly relevant documents
+T5	Mention 387 402	this result set
+*	Coreference T1 T2
+*	Coreference T3 T5

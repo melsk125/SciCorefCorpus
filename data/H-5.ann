@@ -1,0 +1,19 @@
+T1	Mention 95 171	a new approach to information distillation over temporally ordered documents
+T2	Mention 216 232	such a framework
+T3	Mention 234 236	It
+T4	Mention 447 459	Our approach
+T5	Mention 469 495	fine-grained user feedback
+T6	Mention 555 571	such information
+T9	Mention 1114 1130	the new approach
+T10	Mention 743 754	Answer keys
+T11	Mention 756 763	nuggets
+T12	Mention 888 895	nuggets
+T13	Mention 640 642	we
+T14	Mention 922 924	We
+T15	Mention 447 450	Our
+T16	Mention 623 626	our
+T17	Mention 1058 1061	Our
+*	Coreference T1 T2 T3 T4 T9
+*	Coreference T5 T6
+*	Coreference T10 T11 T12
+*	Coreference T15 T16 T13 T14 T17

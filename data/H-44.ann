@@ -1,0 +1,31 @@
+T1	Mention 48 89	temporally versioned document collections
+T2	Mention 237 254	such a collection
+T3	Mention 261 279	a specified time t
+T4	Mention 278 279	t
+T5	Mention 31 110	Text search over temporally versioned document collections such as web archives
+T6	Mention 361 384	time-travel text search
+T7	Mention 430 432	it
+T8	Mention 398 421	the inverted file index
+T9	Mention 443 458	temporal search
+T10	Mention 535 549	the index size
+T11	Mention 726 736	index size
+T12	Mention 741 744	its
+T13	Mention 687 712	two principled techniques
+T14	Mention 758 774	These techniques
+T17	Mention 473 504	approximate temporal coalescing
+T18	Mention 866 878	our approach
+T19	Mention 1005 1016	our methods
+T20	Mention 1081 1113	large versioned text collections
+T21	Mention 295 297	we
+T22	Mention 460 462	We
+T23	Mention 674 676	we
+T24	Mention 866 869	our
+T25	Mention 1005 1008	our
+*	Coreference T1 T2 T20
+*	Coreference T3 T4
+*	Coreference T5 T6 T9
+*	Coreference T8 T7
+*	Coreference T10 T11 T12
+*	Coreference T13 T14
+*	Coreference T17 T18 T19
+*	Coreference T21 T22 T23 T24 T25

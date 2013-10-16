@@ -1,0 +1,16 @@
+T1	Mention 135 162	the communicating endpoints
+T2	Mention 168 181	the endpoints
+T3	Mention 38 56	multi-hop networks
+T4	Mention 848 858	the system
+T7	Mention 922 940	hidden-information
+T8	Mention 976 994	hidden-information
+T9	Mention 486 511	the hidden-action problem
+T10	Mention 999 1012	hidden-action
+T5	Mention 474 476	we
+T6	Mention 718 720	We
+T11	Mention 873 875	we
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T7 T8
+*	Coreference T9 T10
+*	Coreference T5 T6 T11

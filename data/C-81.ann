@@ -1,0 +1,25 @@
+T1	Mention 207 380	an adaptive duty cycling algorithm that allows energy harvesting sensor nodes to autonomously adjust their duty cycle according to the energy availability in the environment
+T3	Mention 365 380	the environment
+T4	Mention 75 90	the environment
+T5	Mention 382 395	The algorithm
+T6	Mention 537 552	the environment
+T7	Mention 601 629	an application utility model
+T8	Mention 759 766	a model
+T9	Mention 780 803	harvesting sensor nodes
+T10	Mention 254 284	energy harvesting sensor nodes
+T11	Mention 717 734	the energy source
+T12	Mention 993 1010	the energy source
+T13	Mention 1012 1023	Our methods
+T14	Mention 1125 1138	our algorithm
+T2	Mention 196 198	we
+T15	Mention 748 750	We
+T16	Mention 869 871	We
+T17	Mention 1112 1114	we
+T18	Mention 1012 1015	Our
+T19	Mention 1125 1128	our
+*	Coreference T1 T5 T13 T14
+*	Coreference T4 T3 T6
+*	Coreference T7 T8
+*	Coreference T10 T9
+*	Coreference T11 T12
+*	Coreference T2 T15 T16 T18 T17 T19

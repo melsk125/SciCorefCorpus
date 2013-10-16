@@ -1,0 +1,37 @@
+T1	Mention 173 184	peerto-peer
+T2	Mention 185 188	P2P
+T3	Mention 196 217	information retrieval
+T4	Mention 218 220	IR
+T5	Mention 266 282	these approaches
+T6	Mention 234 261	similarity-based approaches
+T7	Mention 353 358	their
+T8	Mention 284 290	agents
+T9	Mention 437 453	such a heuristic
+T10	Mention 472 494	the neighboring agents
+T11	Mention 353 377	their direct neighboring
+T12	Mention 678 692	P2P IR systems
+T13	Mention 173 229	peerto-peer(P2P) based information retrieval(IR) systems
+T14	Mention 781 877	estimates on the downstream agents' abilities to provide relevant documents for incoming queries
+T15	Mention 879 894	These estimates
+T16	Mention 934 997	the feedback information returned from previous search sessions
+T17	Mention 711 749	information about past search sessions
+T18	Mention 1008 1024	this information
+T19	Mention 765 771	agents
+T20	Mention 1026 1036	the agents
+T21	Mention 1088 1100	these agents
+T22	Mention 1160 1173	the estimates
+T23	Mention 1044 1074	corresponding routing policies
+T24	Mention 1187 1207	new routing policies
+T25	Mention 1247 1269	the learning algorithm
+T26	Mention 556 603	an online reinforcement-learning based approach
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T6 T5 T9
+*	Coreference T8 T7
+*	Coreference T11 T10
+*	Coreference T13 T12
+*	Coreference T14 T15
+*	Coreference T17 T16 T18 T22
+*	Coreference T19 T20 T21
+*	Coreference T23 T24
+*	Coreference T26 T25

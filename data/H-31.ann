@@ -1,0 +1,26 @@
+T1	Mention 467 491	the new family of models
+T2	Mention 352 421	a new family of query generation models based on Poisson distribution
+T3	Mention 496 527	the existing multinomial models
+T5	Mention 544 548	they
+T6	Mention 445 450	their
+T7	Mention 609 626	the Poisson model
+T8	Mention 655 676	the multinomial model
+T9	Mention 814 827	the new model
+T10	Mention 887 891	them
+T11	Mention 794 827	several variants of the new model
+T13	Mention 1005 1022	the Poisson model
+T14	Mention 1038 1055	multinomial model
+T15	Mention 712 730	per-term smoothing
+T16	Mention 1061 1079	per-term smoothing
+T4	Mention 147 167	Most existing models
+T17	Mention 331 333	we
+T18	Mention 423 425	We
+T19	Mention 596 598	We
+T20	Mention 783 785	We
+T12	Mention 966 971	their
+*	Coreference T1 T2 T7 T9 T13 T12
+*	Coreference T3 T8 T14 T4
+*	Coreference T6 T5
+*	Coreference T11 T10
+*	Coreference T15 T16
+*	Coreference T17 T18 T19 T20

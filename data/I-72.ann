@@ -1,0 +1,30 @@
+T2	Mention 115 124	consumers
+T4	Mention 154 167	the providers
+T1	Mention 183 218	the service consumers and providers
+T3	Mention 232 237	their
+T5	Mention 320 331	the parties
+T6	Mention 466 477	the parties
+T7	Mention 341 356	service content
+T8	Mention 492 516	the content of a service
+T9	Mention 533 693	a negotiation approach in which the parties can understand the semantics of their requests and offers and learn each other's preferences incrementally over time
+T11	Mention 565 576	the parties
+T12	Mention 609 614	their
+T15	Mention 440 516	an approach through which the parties can negotiate the content of a service
+T17	Mention 749 758	consumers
+T18	Mention 763 772	producers
+T19	Mention 852 864	the provider
+T20	Mention 872 881	consumers
+T21	Mention 1043 1045	it
+T22	Mention 1001 1030	an extension to Version Space
+T23	Mention 1191 1203	our approach
+T10	Mention 708 710	we
+T13	Mention 990 992	we
+T14	Mention 1081 1083	We
+T16	Mention 1191 1194	our
+*	Coreference T1 T3 T5 T6 T11 T12
+*	Coreference T7 T8
+*	Coreference T15 T9 T23
+*	Coreference T2 T17 T20
+*	Coreference T18 T4 T19
+*	Coreference T22 T21
+*	Coreference T10 T13 T14 T16

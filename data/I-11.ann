@@ -1,0 +1,33 @@
+T1	Mention 178 189	the agent's
+T2	Mention 64 99	agents that we observe in the world
+T3	Mention 178 207	the agent's external behavior
+T4	Mention 247 260	these actions
+T5	Mention 280 291	the agent's
+T7	Mention 280 418	the agent's internal state, which includes not only rational elements (such as intentions and plans), but also emotive ones (such as fear)
+T8	Mention 458 469	the agent's
+T10	Mention 458 622	the agent's future actions, which are constrained not only by these inward characteristics, but also by the dynamics of the agent's interaction with its environment
+T11	Mention 520 548	these inward characteristics
+T12	Mention 578 589	the agent's
+T13	Mention 578 622	the agent's interaction with its environment
+T14	Mention 624 627	BEE
+T15	Mention 629 665	Behavior Evolution and Extrapolation
+T16	Mention 607 610	its
+T17	Mention 749 755	agents
+T18	Mention 749 771	agents' internal state
+T19	Mention 793 810	observed behavior
+T20	Mention 829 834	their
+T21	Mention 829 850	their future behavior
+T22	Mention 562 622	the dynamics of the agent's interaction with its environment
+T23	Mention 872 926	the dynamics of their interaction with the environment
+T24	Mention 888 893	their
+T25	Mention 888 926	their interaction with the environment
+T26	Mention 717 732	the environment
+T27	Mention 607 622	its environment
+T28	Mention 911 926	the environment
+*	Coreference T2 T1 T5 T8 T12 T16 T17 T20 T24
+*	Coreference T3 T4 T13 T19 T25
+*	Coreference T7 T11 T18
+*	Coreference T10 T21
+*	Coreference T14 T15
+*	Coreference T23 T22
+*	Coreference T27 T26 T28

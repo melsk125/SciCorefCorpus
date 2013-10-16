@@ -1,0 +1,29 @@
+T1	Mention 328 385	a correlation of user trouble reports concerning services
+T2	Mention 412 416	This
+T5	Mention 534 560	such a type of correlation
+T6	Mention 564 598	service-oriented event correlation
+T7	Mention 621 651	this kind of event correlation
+T8	Mention 692 726	service-oriented event correlation
+T9	Mention 900 925	IT Infrastructure Library
+T10	Mention 927 931	ITIL
+T11	Mention 937 968	enhanced Telecom Operations Map
+T12	Mention 970 974	eTOM
+T15	Mention 1151 1189	the service-oriented event correlation
+T16	Mention 1195 1318	MNM Service Model, which is a generic model for IT service management proposed by the Munich Network Management (MNM) Team,
+T18	Mention 1281 1306	Munich Network Management
+T19	Mention 1308 1311	MNM
+T20	Mention 1422 1455	the Leibniz Supercomputing Center
+T21	Mention 1457 1460	LRZ
+T22	Mention 1505 1539	service-oriented event correlation
+T23	Mention 1223 1317	a generic model for IT service management proposed by the Munich Network Management (MNM) Team
+T3	Mention 522 524	We
+T4	Mention 855 857	we
+T13	Mention 1079 1081	we
+T14	Mention 1090 1093	our
+*	Coreference T1 T2 T5 T6 T7 T8 T15 T22
+*	Coreference T9 T10
+*	Coreference T11 T12
+*	Coreference T16 T23
+*	Coreference T18 T19
+*	Coreference T20 T21
+*	Coreference T3 T4 T13 T14

@@ -1,0 +1,25 @@
+T3	Mention 136 145	dialogues
+T4	Mention 200 209	dialogues
+T5	Mention 247 256	dialogues
+T8	Mention 344 353	dialogues
+T9	Mention 418 424	agents
+T10	Mention 303 309	agents
+T12	Mention 459 566	the rhetorical manoeuvring that they use to navigate through the space defined by the rules of the dialogue
+T13	Mention 491 495	they
+T14	Mention 554 566	the dialogue
+T15	Mention 598 619	the idea of relevance
+T16	Mention 568 594	Key in such considerations
+T17	Mention 655 661	agents
+T18	Mention 694 706	the dialogue
+T19	Mention 795 799	they
+T20	Mention 753 781	several notions of relevance
+T21	Mention 541 550	the rules
+T22	Mention 823 832	the rules
+T23	Mention 850 859	dialogues
+T24	Mention 867 889	rhetorical manoeuvring
+*	Coreference T3 T4 T5 T8 T14 T18 T23
+*	Coreference T10 T9 T13 T17
+*	Coreference T12 T24
+*	Coreference T16 T15
+*	Coreference T20 T19
+*	Coreference T21 T22

@@ -1,0 +1,37 @@
+T8	Mention 442 451	estimates
+T12	Mention 324 334	a contract
+T13	Mention 505 517	the contract
+T16	Mention 657 825	a formalism based on the Dirichlet distribution that allows an agent to calculate these probabilities and correlations from their direct experience of contract outcomes
+T18	Mention 625 644	these probabilities
+T19	Mention 739 758	these probabilities
+T20	Mention 609 621	correlations
+T21	Mention 763 775	correlations
+T22	Mention 781 786	their
+T23	Mention 717 725	an agent
+T24	Mention 844 848	this
+T25	Mention 867 876	estimates
+T26	Mention 1021 1048	this Dirichlet distribution
+T27	Mention 1091 1124	a decentralised reputation system
+T28	Mention 1207 1219	such systems
+T29	Mention 1221 1234	This solution
+T30	Mention 1146 1219	a novel solution to the problem of rumour propagation within such systems
+T31	Mention 977 983	agents
+T32	Mention 1394 1404	the agents
+T1	Mention 467 548	the probability that any dimension of the contract will be successfully fulfilled
+T2	Mention 114 116	we
+T3	Mention 340 342	we
+T4	Mention 646 648	We
+T5	Mention 831 833	we
+T6	Mention 960 962	We
+T7	Mention 1135 1137	we
+T9	Mention 243 246	Our
+*	Coreference T8 T25
+*	Coreference T13 T12
+*	Coreference T16 T24 T26
+*	Coreference T18 T19 T1
+*	Coreference T20 T21
+*	Coreference T23 T22
+*	Coreference T27 T28
+*	Coreference T30 T29
+*	Coreference T31 T32
+*	Coreference T2 T9 T3 T4 T5 T6 T7

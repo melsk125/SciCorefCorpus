@@ -1,0 +1,15 @@
+T1	Mention 64 381	a Scalable Distributed Information Management System (SDIMS) that aggregates information about large-scale networked systems and that can serve as a basic building block for a broad range of large-scale distributed applications by providing detailed views of nearby information and summary views of global information
+T2	Mention 118 123	SDIMS
+T5	Mention 419 426	a SDIMS
+T6	Mention 691 1136	a SDIMS that (1) leverages Distributed Hash Tables (DHT) to create scalable aggregation trees, (2) provides flexibility through a simple API that lets applications control propagation of reads and writes, (3) provides administrative isolation through simple extensions to current DHT algorithms, and (4) achieves robustness to node and network reconfigurations through lazy reaggregation, on-demand reaggregation, and tunable spatial replication
+T8	Mention 718 741	Distributed Hash Tables
+T9	Mention 743 746	DHT
+T12	Mention 1217 1227	our system
+T13	Mention 53 55	We
+T3	Mention 657 659	We
+T4	Mention 1217 1220	our
+T7	Mention 1201 1203	we
+*	Coreference T8 T9
+*	Coreference T5 T2 T1
+*	Coreference T12 T6
+*	Coreference T13 T3 T4 T7

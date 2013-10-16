@@ -1,0 +1,11 @@
+T1	Mention 135 206	protocol frameworks -- tools for implementing modular network protocols
+T2	Mention 158 206	tools for implementing modular network protocols
+T5	Mention 181 206	modular network protocols
+T6	Mention 428 445	modular protocols
+T7	Mention 502 511	protocols
+T8	Mention 92 94	we
+T9	Mention 319 321	We
+T3	Mention 562 564	We
+*	Coreference T2 T1
+*	Coreference T5 T6 T7
+*	Coreference T8 T9 T3

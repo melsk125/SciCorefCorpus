@@ -1,0 +1,28 @@
+T3	Mention 187 339	the worst-case competitive framework defined by [9, 5] that compares the profit of an auction to that of an optimal single-price sale of least two items
+T5	Mention 509 539	the competitive framework used
+T6	Mention 559 646	a schema for converting a given limited-supply auction into an unlimited supply auction
+T7	Mention 657 671	this technique
+T8	Mention 739 848	a competitive ratio of 3.25, which improves upon the previously best-known competitive ratio of 3.39 from [7]
+T10	Mention 937 968	the optimal competitive auction
+T11	Mention 985 1016	the optimal competitive auction
+T1	Mention 372 390	an optimal auction
+T2	Mention 478 490	this auction
+T4	Mention 762 766	3.25
+T9	Mention 788 848	the previously best-known competitive ratio of 3.39 from [7]
+T12	Mention 835 839	3.39
+T13	Mention 50 52	We
+T14	Mention 178 180	We
+T15	Mention 356 358	we
+T16	Mention 453 455	we
+T17	Mention 548 550	we
+T18	Mention 712 714	we
+T19	Mention 859 861	we
+T20	Mention 675 678	our
+T21	Mention 902 905	our
+*	Coreference T3 T5
+*	Coreference T6 T7
+*	Coreference T10 T11
+*	Coreference T1 T2
+*	Coreference T8 T4
+*	Coreference T9 T12
+*	Coreference T20 T21 T13 T14 T15 T16 T17 T18 T19

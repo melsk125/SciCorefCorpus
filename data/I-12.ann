@@ -1,0 +1,38 @@
+T3	Mention 141 367	the value of probabilistic parameters needed for decision making in environments in which an agent, operating within a multi-agent system, has no a priori information about the structure of the distribution of parameter values
+T4	Mention 351 367	parameter values
+T5	Mention 369 378	The agent
+T6	Mention 231 239	an agent
+T7	Mention 425 427	it
+T8	Mention 495 497	it
+T9	Mention 560 738	a mechanism that enables the agent to significantly improve its estimation by augmenting its direct observations with those obtained by other agents with which it is coordinating
+T11	Mention 585 594	the agent
+T12	Mention 620 623	its
+T13	Mention 620 634	its estimation
+T14	Mention 403 414	estimations
+T15	Mention 649 652	its
+T16	Mention 465 484	direct observations
+T17	Mention 649 672	its direct observations
+T20	Mention 720 722	it
+T22	Mention 915 927	other agents
+T19	Mention 678 708	those obtained by other agents
+T23	Mention 915 941	other agents' observations
+T24	Mention 873 886	the mechanism
+T26	Mention 1017 1029	these agents
+T27	Mention 1034 1040	itself
+T25	Mention 856 859	its
+T28	Mention 1201 1223	the proposed mechanism
+T29	Mention 1269 1279	an agent's
+T30	Mention 1269 1296	an agent's own observations
+T32	Mention 1360 1372	other agents
+T31	Mention 1356 1386	all other agents' observations
+T1	Mention 856 871	its estimations
+T2	Mention 91 101	This paper
+T10	Mention 540 549	The paper
+*	Coreference T3 T4
+*	Coreference T6 T5 T7 T8 T11 T12 T15 T20 T25 T27 T29
+*	Coreference T9 T24 T28
+*	Coreference T14 T13 T1
+*	Coreference T16 T17 T30
+*	Coreference T22 T26 T32
+*	Coreference T19 T23 T31
+*	Coreference T2 T10

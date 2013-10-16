@@ -1,0 +1,37 @@
+T1	Mention 87 108	Vickrey-Clarke-Groves
+T2	Mention 110 113	VCG
+T3	Mention 209 223	VCG mechanisms
+T4	Mention 73 125	The family of Vickrey-Clarke-Groves (VCG) mechanisms
+T5	Mention 229 234	their
+T6	Mention 248 252	They
+T7	Mention 344 349	their
+T8	Mention 294 338	a utilitarian (or affine) objective function
+T9	Mention 373 395	the objective function
+T10	Mention 500 514	VCG mechanisms
+T13	Mention 562 582	the optimal solution
+T14	Mention 437 455	the optimal output
+T19	Mention 991 1022	a truthful mechanism M = (O, P)
+T20	Mention 1012 1022	M = (O, P)
+T21	Mention 1035 1060	a proper payment method P
+T22	Mention 1059 1060	P
+T23	Mention 1065 1086	the allocation rule O
+T24	Mention 1085 1086	O
+T25	Mention 1176 1177	P
+T26	Mention 1254 1255	P
+T27	Mention 1324 1325	P
+T11	Mention 491 493	we
+T12	Mention 697 699	we
+T15	Mention 825 827	we
+T16	Mention 977 979	we
+T17	Mention 1130 1132	We
+T18	Mention 1179 1181	We
+T28	Mention 1312 1314	we
+T29	Mention 834 837	our
+*	Coreference T1 T2
+*	Coreference T4 T3 T5 T6 T7 T10
+*	Coreference T8 T9
+*	Coreference T14 T13
+*	Coreference T19 T20
+*	Coreference T21 T22 T25 T26 T27
+*	Coreference T23 T24
+*	Coreference T11 T12 T15 T16 T17 T18 T28 T29

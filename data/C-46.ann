@@ -1,0 +1,22 @@
+T1	Mention 92 103	sensor data
+T2	Mention 164 173	such data
+T4	Mention 523 707	TSAR, a fundamentally different storage architecture that envisions separation of data from metadata by employing local archiving at the sensors and distributed indexing at the proxies
+T6	Mention 728 732	TSAR
+T11	Mention 910 914	TSAR
+T12	Mention 741 827	a novel multi-resolution ordered distributed index structure, the Interval Skip Graph,
+T13	Mention 803 826	the Interval Skip Graph
+T16	Mention 615 623	metadata
+T17	Mention 1004 1012	metadata
+T18	Mention 1016 1027	the proxies
+T19	Mention 1122 1126	TSAR
+T20	Mention 1280 1321	our energy-efficient storage architecture
+T5	Mention 211 213	We
+T21	Mention 512 514	We
+T3	Mention 523 527	TSAR
+T7	Mention 696 707	the proxies
+*	Coreference T1 T2
+*	Coreference T4 T6 T11 T19 T20 T3
+*	Coreference T12 T13
+*	Coreference T16 T17
+*	Coreference T5 T21
+*	Coreference T7 T18

@@ -1,0 +1,25 @@
+T1	Mention 264 280	word transcripts
+T2	Mention 282 297	the transcripts
+T5	Mention 314 325	query terms
+T6	Mention 200 252	large vocabulary continuous speech recognition tools
+T7	Mention 402 414	recognizer's
+T8	Mention 504 530	the output word transcript
+T9	Mention 562 582	phonetic transcripts
+T10	Mention 592 597	which
+T11	Mention 598 609	query terms
+T12	Mention 644 664	phonetic transcripts
+T13	Mention 724 740	word transcripts
+T14	Mention 753 912	a vocabulary independent system that can handle arbitrary queries, exploiting the information provided by having both word transcripts and phonetic transcripts
+T16	Mention 871 887	word transcripts
+T17	Mention 892 912	phonetic transcripts
+T18	Mention 1074 1093	the proposed method
+T19	Mention 1146 1156	our system
+T3	Mention 45 47	We
+T4	Mention 742 744	We
+T15	Mention 1146 1149	our
+*	Coreference T1 T2 T8 T13 T16
+*	Coreference T5 T11
+*	Coreference T6 T7
+*	Coreference T9 T10 T12 T17
+*	Coreference T14 T18 T19
+*	Coreference T3 T4 T15

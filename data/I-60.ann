@@ -1,0 +1,26 @@
+T1	Mention 329 334	their
+T2	Mention 289 306	car manufacturers
+T3	Mention 172 279	systems that will allow cars to interact autonomously with each other, e.g., regarding traffic on the roads
+T5	Mention 377 390	these systems
+T8	Mention 448 466	agent applications
+T9	Mention 596 614	agent applications
+T10	Mention 572 591	this new technology
+T11	Mention 489 506	vehicular systems
+T12	Mention 644 753	self-interested car owners, who will care more about their own welfare than the social welfare of their peers
+T14	Mention 697 702	their
+T15	Mention 742 747	their
+T16	Mention 755 771	These car owners
+T17	Mention 795 800	their
+T18	Mention 818 822	they
+T19	Mention 846 851	their
+T20	Mention 846 857	their peers
+T21	Mention 742 753	their peers
+T4	Mention 410 412	we
+T6	Mention 951 953	we
+*	Coreference T2 T1
+*	Coreference T3 T5
+*	Coreference T9 T8
+*	Coreference T11 T10
+*	Coreference T12 T14 T15 T16 T17 T18 T19
+*	Coreference T21 T20
+*	Coreference T4 T6

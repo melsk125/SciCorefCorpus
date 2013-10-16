@@ -1,0 +1,6 @@
+T1	Mention 130 154	a crucial success factor
+T2	Mention 77 126	the careful choice of suitable proximity measures
+T4	Mention 698 754	the distance measures recommended in the MPEG-7-standard
+T3	Mention 338 369	Eight visual MPEG-7 descriptors
+*	Coreference T2 T1
+*	Coreference T3 T4

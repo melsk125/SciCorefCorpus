@@ -1,0 +1,32 @@
+T1	Mention 110 218	an effective alternative to IP multicast for efficient point to multipoint communication across the Internet
+T2	Mention 81 97	overlay networks
+T3	Mention 276 301	an efficient overlay tree
+T4	Mention 303 392	one that meets performance targets without placing undue burden on the underlying network
+T5	Mention 587 605	these applications
+T6	Mention 505 517	Applications
+T9	Mention 774 916	Bullet, a scalable and distributed algorithm that enables nodes spread across the Internet to self-organize into a high bandwidth overlay mesh
+T10	Mention 782 916	a scalable and distributed algorithm that enables nodes spread across the Internet to self-organize into a high bandwidth overlay mesh
+T12	Mention 887 916	a high bandwidth overlay mesh
+T13	Mention 621 636	an overlay mesh
+T14	Mention 931 937	Bullet
+T15	Mention 1209 1338	an algorithm that sends data to different points in the overlay such that any data object is equally likely to appear at any node
+T17	Mention 1261 1272	the overlay
+T18	Mention 1344 1441	a scalable and decentralized algorithm that allows nodes to locate and recover missing data items
+T20	Mention 1496 1502	Bullet
+T22	Mention 1719 1725	Bullet
+T24	Mention 1889 1895	Bullet
+T25	Mention 206 218	the Internet
+T26	Mention 1518 1530	the Internet
+T7	Mention 852 864	the Internet
+T8	Mention 409 411	we
+T11	Mention 607 609	we
+T21	Mention 918 920	We
+T23	Mention 1671 1673	we
+T27	Mention 1057 1063	Bullet
+*	Coreference T2 T1
+*	Coreference T3 T4
+*	Coreference T6 T5
+*	Coreference T13 T12 T17
+*	Coreference T18 T9 T10 T14 T15 T20 T22 T24 T27
+*	Coreference T25 T26 T7
+*	Coreference T8 T11 T21 T23

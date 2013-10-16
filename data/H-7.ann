@@ -1,0 +1,6 @@
+T1	Mention 181 183	it
+T2	Mention 73 123	A content-based personalized recommendation system
+T3	Mention 827 849	the proposed algorithm
+T4	Mention 713 794	a new fast learning technique to learn a large number of individual user profiles
+*	Coreference T2 T1
+*	Coreference T4 T3

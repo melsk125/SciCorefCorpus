@@ -1,0 +1,30 @@
+T1	Mention 109 170	a fully accredited fouryear college of visual arts and design
+T2	Mention 68 105	The Ringling School of Art and Design
+T3	Mention 228 247	the Ringling School
+T4	Mention 286 289	its
+T5	Mention 396 404	Mac OS X
+T6	Mention 408 471	the best operating system to train future artists and designers
+T7	Mention 857 870	the computers
+T8	Mention 927 940	the computers
+T9	Mention 1056 1179	Xgrid, a suite of Mac OS X applications recently developed by Apple for parallel and distributed high-performance computing
+T10	Mention 1063 1179	a suite of Mac OS X applications recently developed by Apple for parallel and distributed high-performance computing
+T11	Mention 1305 1310	Xgrid
+T12	Mention 1789 1815	the implementation process
+T13	Mention 1383 1425	our implementation of an Xgrid environment
+T14	Mention 377 379	We
+T15	Mention 483 485	we
+T16	Mention 810 813	our
+T17	Mention 1074 1082	Mac OS X
+T18	Mention 1041 1043	we
+T19	Mention 1408 1413	Xgrid
+T20	Mention 1323 1325	we
+T21	Mention 1431 1434	our
+T22	Mention 1462 1464	we
+T23	Mention 1450 1453	our
+T24	Mention 1710 1712	we
+*	Coreference T2 T1 T3 T4
+*	Coreference T5 T6 T17
+*	Coreference T7 T8
+*	Coreference T9 T10 T11 T19
+*	Coreference T13 T12
+*	Coreference T14 T15 T16 T18 T20 T21 T23 T22 T24

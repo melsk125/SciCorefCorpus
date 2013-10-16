@@ -1,0 +1,21 @@
+T1	Mention 631 690	individuals who may genuinely want to protect their privacy
+T3	Mention 677 682	their
+T4	Mention 718 788	psychological distortions well documented in the behavioral literature
+T5	Mention 803 820	these distortions
+T6	Mention 910 914	this
+T7	Mention 935 946	individuals
+T8	Mention 986 991	their
+T9	Mention 677 690	their privacy
+T10	Mention 986 999	their privacy
+T11	Mention 417 429	this context
+T12	Mention 329 348	electronic commerce
+T2	Mention 190 192	We
+T13	Mention 350 352	We
+T14	Mention 619 621	we
+T15	Mention 790 792	we
+T16	Mention 896 898	we
+*	Coreference T1 T3 T7 T8
+*	Coreference T4 T5 T6
+*	Coreference T9 T10
+*	Coreference T12 T11
+*	Coreference T2 T13 T14 T15 T16

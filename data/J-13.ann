@@ -1,0 +1,26 @@
+T1	Mention 159 281	the problem of determining the allocation of the items among the bidders that maximizes the sum of the accepted bid prices
+T2	Mention 97 155	The winner determination problem in combinatorial auctions
+T5	Mention 289 301	this problem
+T8	Mention 396 418	associated item graphs
+T9	Mention 450 472	structured item graphs
+T10	Mention 485 498	an item graph
+T13	Mention 627 629	it
+T14	Mention 599 602	bid
+T15	Mention 998 1010	this problem
+T16	Mention 1044 1067	a structured item graph
+T19	Mention 1333 1386	a recently introduced measure of hypergraph cyclicity
+T20	Mention 1308 1387	hypertree decomposition, a recently introduced measure of hypergraph cyclicity,
+T24	Mention 1775 1798	a structured item graph
+T3	Mention 502 657	a graph whose nodes are in one-to-one correspondence with items, and edges are such that for any bid, the items occurring in it induce a connected subgraph
+T4	Mention 989 991	we
+T6	Mention 1150 1152	we
+T7	Mention 1281 1283	We
+T11	Mention 1430 1432	we
+T12	Mention 1645 1647	we
+T17	Mention 1714 1717	our
+*	Coreference T1 T2 T5 T15
+*	Coreference T8 T9 T16 T24
+*	Coreference T14 T13
+*	Coreference T20 T19
+*	Coreference T10 T3
+*	Coreference T4 T6 T7 T11 T12 T17

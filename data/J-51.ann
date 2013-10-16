@@ -1,0 +1,25 @@
+T3	Mention 111 129	iterated dominance
+T4	Mention 364 382	iterated dominance
+T11	Mention 1326 1382	a limit on the support size of the dominating strategies
+T12	Mention 1480 1496	this restriction
+T13	Mention 1263 1288	iterated strict dominance
+T14	Mention 1448 1496	iterated strict dominance under this restriction
+T15	Mention 1717 1732	a Bayesian game
+T16	Mention 1578 1592	Bayesian games
+T1	Mention 2085 2100	a Bayesian game
+T2	Mention 35 37	We
+T5	Mention 131 133	We
+T6	Mention 345 347	We
+T7	Mention 384 386	We
+T8	Mention 985 987	We
+T9	Mention 1120 1122	we
+T10	Mention 1250 1252	we
+T17	Mention 1569 1571	we
+T18	Mention 1594 1596	We
+T19	Mention 1980 1982	we
+T20	Mention 526 528	us
+*	Coreference T4 T3
+*	Coreference T11 T12
+*	Coreference T13 T14
+*	Coreference T16 T15 T1
+*	Coreference T2 T5 T6 T7 T8 T9 T10 T17 T18 T19 T20

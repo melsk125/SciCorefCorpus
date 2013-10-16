@@ -1,0 +1,32 @@
+T1	Mention 47 157	a key problem in electronic communication, including large-scale email systems and the growing number of blogs
+T2	Mention 39 43	Spam
+T3	Mention 186 251	one reliable method of combating this threat in its various forms
+T4	Mention 159 182	Content-based filtering
+T5	Mention 219 230	this threat
+T6	Mention 234 237	its
+T7	Mention 257 282	some academic researchers
+T8	Mention 349 359	The former
+T9	Mention 386 409	Support Vector Machines
+T10	Mention 411 415	SVMs
+T11	Mention 421 444	content-based filtering
+T12	Mention 287 311	industrial practitioners
+T13	Mention 647 660	practitioners
+T14	Mention 683 687	SVMs
+T15	Mention 610 631	online spam filtering
+T16	Mention 913 934	online spam filtering
+T17	Mention 1035 1055	a Relaxed Online SVM
+T18	Mention 1057 1062	ROSVM
+T19	Mention 343 347	spam
+T20	Mention 449 482	this machine learning methodology
+T21	Mention 779 781	we
+T22	Mention 829 831	we
+T23	Mention 973 975	we
+T24	Mention 1103 1106	Our
+*	Coreference T4 T3 T11
+*	Coreference T5 T6 T2 T1 T19
+*	Coreference T7 T8
+*	Coreference T9 T10 T14 T20
+*	Coreference T12 T13
+*	Coreference T15 T16
+*	Coreference T17 T18
+*	Coreference T21 T22 T23 T24

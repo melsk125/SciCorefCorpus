@@ -1,0 +1,19 @@
+T1	Mention 147 188	a search and rescue system called CenWits
+T2	Mention 181 188	CenWits
+T3	Mention 190 197	CenWits
+T4	Mention 309 311	It
+T5	Mention 418 425	CenWits
+T6	Mention 434 436	it
+T7	Mention 513 515	It
+T8	Mention 612 614	It
+T9	Mention 203 253	several small, commonly-available RF-based sensors
+T10	Mention 675 682	sensors
+T11	Mention 762 769	sensors
+T12	Mention 785 795	the system
+T13	Mention 943 950	CenWits
+T14	Mention 1085 1087	it
+T15	Mention 1020 1039	this implementation
+T16	Mention 498 501	its
+*	Coreference T1 T2 T3 T4 T5 T6 T7 T8 T12 T13 T16
+*	Coreference T9 T10 T11
+*	Coreference T15 T14

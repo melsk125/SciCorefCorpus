@@ -1,0 +1,45 @@
+T1	Mention 45 114	a reliable entity, which can play on behalf of agents in a given game
+T2	Mention 31 41	A mediator
+T4	Mention 116 126	A mediator
+T5	Mention 162 165	its
+T8	Mention 102 114	a given game
+T9	Mention 217 225	the game
+T10	Mention 263 321	a study of mediators for games with incomplete information
+T11	Mention 333 335	it
+T12	Mention 354 411	position auctions, a central topic in electronic commerce
+T13	Mention 373 411	a central topic in electronic commerce
+T14	Mention 413 477	VCG position auctions, which are currently not used in practice,
+T16	Mention 595 611	These properties
+T17	Mention 486 518	some nice theoretical properties
+T18	Mention 725 816	mediators that will allow to transform current position auctions into VCG position auctions
+T20	Mention 636 661	current position auctions
+T21	Mention 666 671	their
+T22	Mention 764 789	current position auctions
+T23	Mention 795 816	VCG position auctions
+T29	Mention 1205 1227	such desired mediators
+T30	Mention 1389 1420	the self-price position auction
+T31	Mention 1507 1518	the auction
+T3	Mention 848 856	mediator
+T6	Mention 893 905	the mediator
+T7	Mention 1097 1109	the mediator
+T15	Mention 1165 1177	the mediator
+T19	Mention 844 865	the mediator services
+T24	Mention 1097 1120	the mediator's services
+T25	Mention 1452 1465	such mediator
+T26	Mention 250 252	we
+T27	Mention 682 684	We
+T28	Mention 818 820	We
+T32	Mention 1179 1181	We
+T33	Mention 1422 1424	we
+*	Coreference T2 T1 T4 T5
+*	Coreference T8 T9
+*	Coreference T10 T11
+*	Coreference T12 T13
+*	Coreference T14 T23
+*	Coreference T17 T16
+*	Coreference T18 T29 T25
+*	Coreference T20 T21 T22
+*	Coreference T30 T31
+*	Coreference T3 T6 T7 T15
+*	Coreference T19 T24
+*	Coreference T26 T27 T28 T32 T33

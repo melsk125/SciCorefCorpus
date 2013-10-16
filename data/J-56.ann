@@ -1,0 +1,23 @@
+T1	Mention 249 254	their
+T2	Mention 176 183	bidders
+T5	Mention 536 568	the Bid-taker's Exposure Problem
+T6	Mention 886 917	the Bidtaker's Exposure Problem
+T7	Mention 1073 1098	A weighted super solution
+T8	Mention 939 963	Weighted Super Solutions
+T12	Mention 1301 1387	a form of leveled commitment contract [26, 27], which we have called mutual bid bonds,
+T13	Mention 1370 1386	mutual bid bonds
+T14	Mention 1731 1747	robust solutions
+T15	Mention 1821 1837	Robust solutions
+T3	Mention 516 518	We
+T4	Mention 849 851	we
+T9	Mention 928 930	we
+T10	Mention 1261 1263	we
+T11	Mention 1484 1486	We
+T16	Mention 1355 1357	we
+T17	Mention 1661 1663	We
+*	Coreference T2 T1
+*	Coreference T5 T6
+*	Coreference T7 T8
+*	Coreference T12 T13
+*	Coreference T15 T14
+*	Coreference T3 T4 T9 T10 T16 T11 T17

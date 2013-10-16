@@ -1,0 +1,16 @@
+T1	Mention 192 213	a challenging problem
+T2	Mention 87 182	The problem of localization in wireless sensor networks where nodes do not use ranging hardware
+T3	Mention 352 458	a framework, called StarDust, for wireless sensor network localization based on passive optical components
+T4	Mention 372 380	StarDust
+T5	Mention 463 485	the StarDust framework
+T6	Mention 584 611	the deployed sensor network
+T7	Mention 732 744	sensor nodes
+T8	Mention 1083 1096	our framework
+T13	Mention 341 343	we
+T14	Mention 783 785	we
+T15	Mention 841 843	We
+T16	Mention 1021 1023	We
+*	Coreference T2 T1
+*	Coreference T4 T3 T5 T8
+*	Coreference T6 T7
+*	Coreference T13 T14 T15 T16

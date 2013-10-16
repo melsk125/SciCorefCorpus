@@ -1,0 +1,15 @@
+T3	Mention 169 242	websites frequently visited by other users with similar information needs
+T4	Mention 244 270	These popular destinations
+T5	Mention 385 397	Destinations
+T6	Mention 466 476	many users
+T7	Mention 507 512	whose
+T8	Mention 640 652	destinations
+T9	Mention 799 810	destination
+T1	Mention 419 505	the history of search and browsing behavior of many users over an extended time period
+T2	Mention 507 532	whose collective behavior
+T10	Mention 582 584	We
+T11	Mention 75 77	We
+*	Coreference T3 T4 T5 T8 T9
+*	Coreference T6 T7
+*	Coreference T1 T2
+*	Coreference T11 T10

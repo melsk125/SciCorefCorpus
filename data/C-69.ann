@@ -1,0 +1,19 @@
+T1	Mention 111 131	mobile wireless PDAs
+T2	Mention 149 162	these systems
+T3	Mention 263 452	pTHINC, a PDA thinclient solution that leverages more powerful servers to run full-function web browsers and other application logic, then sends simple screen updates to the PDA for display
+T4	Mention 271 452	a PDA thinclient solution that leverages more powerful servers to run full-function web browsers and other application logic, then sends simple screen updates to the PDA for display
+T5	Mention 454 460	pTHINC
+T6	Mention 661 667	pTHINC
+T7	Mention 826 832	pTHINC
+T8	Mention 865 868	its
+T9	Mention 933 955	local PDA web browsers
+T10	Mention 133 162	web browsers on these systems
+T11	Mention 1006 1012	pTHINC
+T12	Mention 1063 1172	the only PDA thin client that effectively supports crucial browser helper applications such as video playback
+T13	Mention 245 247	We
+T14	Mention 806 808	We
+T15	Mention 909 912	Our
+*	Coreference T1 T2
+*	Coreference T3 T4 T5 T6 T7 T8 T11 T12
+*	Coreference T10 T9
+*	Coreference T13 T14 T15

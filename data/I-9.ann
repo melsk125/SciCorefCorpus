@@ -1,0 +1,22 @@
+T1	Mention 177 228	A crucial aspect of the development of such methods
+T2	Mention 232 337	the notion of commitments, which provides a mechanism for coordinating interactive behaviors among agents
+T4	Mention 331 337	agents
+T5	Mention 86 92	agents
+T6	Mention 390 401	commitments
+T7	Mention 514 531	protocols actions
+T8	Mention 430 446	protocol actions
+T9	Mention 549 560	commitments
+T10	Mention 610 621	commitments
+T11	Mention 635 641	agents
+T12	Mention 659 670	commitments
+T13	Mention 675 691	protocol actions
+T16	Mention 891 905	this framework
+T17	Mention 369 446	an approach to model commitments with tight integration with protocol actions
+T3	Mention 354 356	we
+T14	Mention 623 625	We
+T15	Mention 856 858	We
+*	Coreference T1 T2 T6 T9 T10 T12
+*	Coreference T5 T4 T11
+*	Coreference T8 T7 T13
+*	Coreference T17 T16
+*	Coreference T3 T14 T15

@@ -1,0 +1,39 @@
+T1	Mention 218 228	the agents
+T2	Mention 172 189	a group of agents
+T3	Mention 144 189	the preferences reported by a group of agents
+T4	Mention 240 257	their preferences
+T5	Mention 240 245	their
+T6	Mention 315 325	themselves
+T7	Mention 347 496	the art of designing the rules of the game so that the agents are motivated to report their preferences truthfully, and a desirable outcome is chosen
+T8	Mention 327 343	Mechanism design
+T9	Mention 398 408	the agents
+T10	Mention 433 450	their preferences
+T11	Mention 433 438	their
+T12	Mention 501 531	a recently proposed approach -
+T13	Mention 540 568	automated mechanism design -
+T14	Mention 886 959	automated mechanism design problems where the designer is self-interested
+T18	Mention 975 985	the center
+T19	Mention 928 940	the designer
+T21	Mention 1057 1059	it
+T22	Mention 1122 1132	the center
+T23	Mention 1158 1168	each agent
+T24	Mention 1193 1202	the agent
+T20	Mention 1386 1396	the center
+T25	Mention 1440 1442	it
+T26	Mention 1264 1276	this setting
+T27	Mention 1615 1627	this setting
+T15	Mention 1223 1225	it
+T16	Mention 877 879	we
+T17	Mention 1536 1538	We
+T28	Mention 1659 1661	we
+T29	Mention 1872 1874	We
+T30	Mention 1278 1280	we
+*	Coreference T1 T2 T5 T6 T9 T11
+*	Coreference T3 T4 T10
+*	Coreference T8 T7
+*	Coreference T12 T13
+*	Coreference T14 T26 T27
+*	Coreference T19 T18 T22 T21
+*	Coreference T23 T24 T15
+*	Coreference T25 T20
+*	Coreference T16 T17 T30 T28 T29

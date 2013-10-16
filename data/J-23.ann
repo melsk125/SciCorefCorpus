@@ -1,0 +1,39 @@
+T1	Mention 101 136	several overlapping teams of agents
+T2	Mention 181 192	these teams
+T3	Mention 70 89	set-system auctions
+T4	Mention 277 289	this setting
+T5	Mention 433 445	this problem
+T6	Mention 459 478	the frugality ratio
+T7	Mention 413 428	frugality ratio
+T8	Mention 482 554	the ratio of the total payment of a mechanism to a desired payment bound
+T9	Mention 556 565	The ratio
+T12	Mention 595 608	the mechanism
+T13	Mention 516 527	a mechanism
+T14	Mention 700 767	a new truthful polynomial-time auction for the vertex cover problem
+T15	Mention 778 781	its
+T16	Mention 874 893	the frugality ratio
+T17	Mention 778 797	its frugality ratio
+T18	Mention 393 445	a new definition of frugality ratio for this problem
+T19	Mention 1193 1224	the definition of Karlin et al.
+T20	Mention 1580 1601	these new definitions
+T21	Mention 1164 1224	two natural modifications of the definition of Karlin et al.
+T22	Mention 1550 1571	vertex-cover auctions
+T23	Mention 1638 1659	vertex-cover auctions
+T10	Mention 689 691	we
+T11	Mention 799 800	W
+T24	Mention 1040 1042	we
+T25	Mention 1152 1154	we
+T26	Mention 1230 1232	we
+T27	Mention 1392 1394	We
+T28	Mention 1573 1575	We
+T29	Mention 1618 1621	our
+*	Coreference T1 T2
+*	Coreference T3 T4 T5
+*	Coreference T7 T6 T9 T8
+*	Coreference T12 T13
+*	Coreference T14 T15
+*	Coreference T17 T16
+*	Coreference T18 T19
+*	Coreference T21 T20
+*	Coreference T22 T23
+*	Coreference T10 T11 T24 T25 T26 T27 T28 T29

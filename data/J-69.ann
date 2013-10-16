@@ -1,0 +1,21 @@
+T1	Mention 91 149	one of the key problems that confronts today's P2P systems
+T3	Mention 54 73	Lack of cooperation
+T4	Mention 75 86	free riding
+T5	Mention 162 174	this problem
+T6	Mention 235 246	P2P systems
+T7	Mention 138 149	P2P systems
+T8	Mention 367 383	these challenges
+T9	Mention 201 355	the unique set of challenges that P2P systems pose: large populations, high turnover, asymmetry of interest, collusion, zero-cost identities, and traitors
+T12	Mention 414 448	the Generalized Prisoner's Dilemma
+T13	Mention 450 453	GPD
+T14	Mention 520 553	a family of incentives techniques
+T15	Mention 555 571	These techniques
+T16	Mention 742 758	these techniques
+T2	Mention 384 386	we
+T10	Mention 729 731	we
+*	Coreference T3 T4 T1 T5
+*	Coreference T7 T6
+*	Coreference T9 T8
+*	Coreference T12 T13
+*	Coreference T14 T15 T16
+*	Coreference T2 T10

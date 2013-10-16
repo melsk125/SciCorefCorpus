@@ -1,0 +1,25 @@
+T3	Mention 255 378	web search environments where collections are significantly more heterogeneous and different types of retrieval tasks exist
+T5	Mention 515 538	web search environments
+T6	Mention 406 450	three techniques to address these challenges
+T7	Mention 663 673	our models
+T8	Mention 678 702	the two types of queries
+T9	Mention 491 511	two types of queries
+T10	Mention 775 799	the two types of queries
+T12	Mention 970 1009	our prediction of web query performance
+T13	Mention 1131 1177	a practical approach to performance prediction
+T14	Mention 1181 1204	real-world web settings
+T1	Mention 395 397	we
+T2	Mention 452 454	We
+T4	Mention 715 717	we
+T15	Mention 578 581	Our
+T16	Mention 970 973	our
+T17	Mention 1112 1115	our
+T18	Mention 663 666	our
+T11	Mention 1155 1177	performance prediction
+T19	Mention 464 486	performance prediction
+*	Coreference T3 T5 T14
+*	Coreference T6 T7
+*	Coreference T9 T8 T10
+*	Coreference T12 T13
+*	Coreference T1 T2 T15 T18 T4 T16 T17
+*	Coreference T19 T11

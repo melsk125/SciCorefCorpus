@@ -1,0 +1,17 @@
+T1	Mention 119 175	distributed techniques for efficient resource allocation
+T2	Mention 177 193	These techniques
+T3	Mention 358 460	a distributed algorithm that solves the resource allocation problem in distributed multi-agent systems
+T5	Mention 462 474	Our solution
+T8	Mention 607 617	the system
+T9	Mention 429 460	distributed multi-agent systems
+T10	Mention 580 617	The resource allocation in the system
+T11	Mention 621 645	a purely emergent effect
+T12	Mention 669 772	the proposed resource allocation mechanism in the simulated static and dynamic multi-server environment
+T4	Mention 347 349	we
+T6	Mention 647 649	We
+T7	Mention 462 465	Our
+*	Coreference T1 T2
+*	Coreference T3 T5 T12
+*	Coreference T9 T8
+*	Coreference T10 T11
+*	Coreference T4 T7 T6

@@ -1,0 +1,16 @@
+T1	Mention 78 292	a key technology to achieve the semantic alignment of ontological entities used by knowledge-based applications, and therefore to enable their interoperability in distributed environments such as multiagent systems
+T2	Mention 47 64	Ontology matching
+T3	Mention 215 220	their
+T4	Mention 161 189	knowledge-based applications
+T9	Mention 632 637	their
+T10	Mention 601 619	two or more agents
+T11	Mention 689 693	they
+T5	Mention 482 484	we
+T6	Mention 791 793	We
+T7	Mention 493 707	a formal model for a semantic alignment procedure that incrementally aligns differing conceptualisations of two or more agents relative to their respective perception of the environment or domain they are acting in
+T8	Mention 780 789	the model
+*	Coreference T2 T1
+*	Coreference T4 T3
+*	Coreference T10 T9 T11
+*	Coreference T5 T6
+*	Coreference T7 T8

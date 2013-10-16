@@ -1,0 +1,30 @@
+T3	Mention 154 157	his
+T4	Mention 144 148	each
+T7	Mention 370 383	such settings
+T8	Mention 292 319	such computational settings
+T12	Mention 471 556	a combinatorial variant of the classical principal-agent problem from economic theory
+T13	Mention 458 467	Our model
+T14	Mention 652 655	his
+T15	Mention 573 584	a principal
+T16	Mention 668 673	their
+T17	Mention 599 625	a team of strategic agents
+T18	Mention 698 701	him
+T21	Mention 770 780	the agents
+T22	Mention 755 780	the efforts of the agents
+T23	Mention 635 648	costly effort
+T24	Mention 804 817	The principal
+T25	Mention 828 838	the agents
+T26	Mention 854 858	them
+T29	Mention 898 908	the agents
+T30	Mention 983 995	this setting
+T1	Mention 954 956	We
+T2	Mention 458 461	Our
+T5	Mention 561 564	our
+T6	Mention 703 706	Our
+*	Coreference T4 T3
+*	Coreference T7 T8 T30
+*	Coreference T13 T12
+*	Coreference T15 T14 T18 T24
+*	Coreference T17 T16 T21 T25 T26 T29
+*	Coreference T23 T22
+*	Coreference T2 T5 T6 T1

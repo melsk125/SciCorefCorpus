@@ -1,0 +1,18 @@
+T1	Mention 43 243	coalitional games where the value of cooperation among the agents are solely determined by the attributes the agents possess, with no assumption as to how these attributes jointly determine this value
+T3	Mention 98 108	the agents
+T4	Mention 149 159	the agents
+T5	Mention 198 214	these attributes
+T6	Mention 134 167	the attributes the agents possess
+T7	Mention 67 108	the value of cooperation among the agents
+T8	Mention 233 243	this value
+T9	Mention 245 259	This framework
+T10	Mention 421 432	these games
+T2	Mention 34 36	We
+T11	Mention 342 344	We
+T12	Mention 468 470	We
+T13	Mention 267 269	us
+*	Coreference T1 T9 T10
+*	Coreference T3 T4
+*	Coreference T6 T5
+*	Coreference T7 T8
+*	Coreference T2 T11 T12 T13

@@ -1,0 +1,35 @@
+T1	Mention 280 291	These pages
+T2	Mention 246 278	the pages from certain Web sites
+T3	Mention 384 404	the Hidden Web pages
+T4	Mention 317 331	the Hidden Web
+T5	Mention 335 347	the Deep Web
+T6	Mention 447 457	such pages
+T7	Mention 481 485	them
+T10	Mention 789 803	the Hidden Web
+T11	Mention 837 847	Hidden Web
+T12	Mention 147 164	search interfaces
+T13	Mention 856 873	a query interface
+T15	Mention 1095 1109	the Hidden Web
+T16	Mention 1182 1194	Our policies
+T17	Mention 1125 1180	effective policies for generating queries automatically
+T18	Mention 1310 1324	these policies
+T19	Mention 1428 1440	our policies
+T8	Mention 569 579	Hidden Web
+T9	Mention 715 725	Hidden Web
+T20	Mention 901 911	Hidden Web
+T14	Mention 835 852	a Hidden Web site
+T21	Mention 996 1004	the site
+T22	Mention 676 678	we
+T23	Mention 689 691	we
+T24	Mention 1114 1116	we
+T25	Mention 1012 1014	we
+T26	Mention 1262 1264	We
+T27	Mention 1182 1185	Our
+T28	Mention 1356 1359	our
+T29	Mention 1428 1431	our
+T30	Mention 1471 1481	Hidden Web
+*	Coreference T2 T1 T4 T5 T3 T6 T7 T10 T11 T15 T8 T9 T20 T30
+*	Coreference T12 T13
+*	Coreference T17 T16 T18 T19
+*	Coreference T14 T21
+*	Coreference T23 T22 T25 T24 T27 T26 T28 T29

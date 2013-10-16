@@ -1,0 +1,13 @@
+T3	Mention 643 660	a certain feature
+T4	Mention 709 721	that feature
+T5	Mention 244 255	user biases
+T6	Mention 968 977	user bias
+T1	Mention 323 325	we
+T2	Mention 411 413	We
+T7	Mention 590 592	We
+T8	Mention 731 733	we
+T9	Mention 979 982	Our
+T10	Mention 890 892	us
+*	Coreference T3 T4
+*	Coreference T5 T6
+*	Coreference T1 T2 T7 T8 T9 T10

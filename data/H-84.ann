@@ -1,0 +1,46 @@
+T1	Mention 272 284	news stories
+T2	Mention 288 293	their
+T3	Mention 359 387	a flat collection of stories
+T4	Mention 306 322	a flat hierarchy
+T5	Mention 343 355	a news topic
+T7	Mention 448 457	the topic
+T6	Mention 525 531	events
+T8	Mention 536 541	their
+T9	Mention 605 661	the process of recognizing events and their dependencies
+T10	Mention 662 677	event threading
+T11	Mention 632 638	events
+T12	Mention 643 648	their
+T13	Mention 643 661	their dependencies
+T14	Mention 536 554	their dependencies
+T15	Mention 735 742	a topic
+T16	Mention 774 777	its
+T17	Mention 793 824	a flat list of on-topic stories
+T18	Mention 845 862	the novel problem
+T19	Mention 932 943	the problem
+T20	Mention 903 943	a few techniques for solving the problem
+T21	Mention 987 1001	our approaches
+T22	Mention 1126 1138	dependencies
+T23	Mention 1198 1208	our models
+T24	Mention 1230 1240	the events
+T25	Mention 1272 1276	them
+T26	Mention 1253 1276	dependencies among them
+T27	Mention 324 326	We
+T28	Mention 481 483	we
+T29	Mention 597 599	We
+T30	Mention 679 681	We
+T31	Mention 826 828	We
+T32	Mention 579 582	our
+T33	Mention 690 693	our
+T34	Mention 1140 1143	Our
+T35	Mention 987 990	our
+T36	Mention 1198 1201	our
+*	Coreference T1 T2
+*	Coreference T4 T3 T17
+*	Coreference T5 T7
+*	Coreference T6 T8 T11 T12 T24 T25
+*	Coreference T9 T10
+*	Coreference T14 T13 T22 T26
+*	Coreference T15 T16
+*	Coreference T18 T19
+*	Coreference T20 T21 T23
+*	Coreference T27 T28 T32 T29 T30 T33 T31 T35 T34 T36

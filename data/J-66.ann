@@ -1,0 +1,32 @@
+T1	Mention 74 99	a (say, charitable) cause
+T2	Mention 211 222	the charity
+T3	Mention 284 380	matching offers, where one party promises to pay a certain amount if others pay a certain amount
+T5	Mention 414 429	matching offers
+T6	Mention 533 548	matching offers
+T7	Mention 851 866	matching offers
+T10	Mention 1031 1046	matching offers
+T11	Mention 1215 1249	the corresponding clearing problem
+T12	Mention 1338 1340	it
+T13	Mention 1465 1485	the clearing problem
+T14	Mention 1426 1485	a mixed-integer program formulation of the clearing problem
+T15	Mention 1519 1530	the program
+T16	Mention 1724 1744	the clearing problem
+T17	Mention 1799 1810	the problem
+T18	Mention 1848 1868	payment maximization
+T19	Mention 1933 1952	this latter problem
+T4	Mention 394 399	their
+T8	Mention 1092 1094	we
+T9	Mention 1202 1204	We
+T20	Mention 1418 1420	We
+T21	Mention 1560 1562	We
+T22	Mention 1711 1713	we
+T23	Mention 2036 2038	we
+T24	Mention 2076 2078	We
+T25	Mention 2198 2200	We
+*	Coreference T1 T2
+*	Coreference T3 T5 T6 T7 T10 T4
+*	Coreference T11 T12 T13
+*	Coreference T14 T15
+*	Coreference T16 T17
+*	Coreference T19 T18
+*	Coreference T8 T9 T20 T21 T22 T23 T24 T25

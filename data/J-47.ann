@@ -1,0 +1,14 @@
+T1	Mention 274 285	the bidders
+T2	Mention 290 295	their
+T3	Mention 232 238	prices
+T4	Mention 309 321	these prices
+T5	Mention 116 148	iterative combinatorial auctions
+T6	Mention 408 429	auctions of this kind
+T7	Mention 49 51	We
+T8	Mention 323 325	We
+T9	Mention 431 433	We
+T10	Mention 515 517	we
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T5 T6
+*	Coreference T7 T8 T9 T10

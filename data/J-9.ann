@@ -1,0 +1,15 @@
+T1	Mention 218 230	the security
+T2	Mention 155 175	a financial security
+T3	Mention 255 430	the computational process on the path toward equilibrium, where information distributed among traders is revealed step-by-step over time and incorporated into the market price
+T5	Mention 573 584	the process
+T10	Mention 999 1000	n
+T11	Mention 1004 1049	the number of bits of distributed information
+T12	Mention 983 984	n
+T4	Mention 240 242	We
+T6	Mention 432 434	We
+T7	Mention 586 588	We
+T8	Mention 1051 1053	We
+*	Coreference T2 T1
+*	Coreference T3 T5
+*	Coreference T12 T10 T11
+*	Coreference T4 T6 T7 T8

@@ -1,0 +1,29 @@
+T1	Mention 72 85	Context Match
+T2	Mention 87 89	CM
+T3	Mention 46 68	Contextual advertising
+T4	Mention 200 216	Sponsored Search
+T5	Mention 218 220	SS
+T6	Mention 305 308	ads
+T7	Mention 254 257	ads
+T8	Mention 345 347	CM
+T9	Mention 365 409	an intermediary commercial ad-network entity
+T10	Mention 530 540	ad-network
+T11	Mention 456 469	the twin goal
+T12	Mention 582 593	these goals
+T13	Mention 920 922	CM
+T14	Mention 961 963	SS
+T15	Mention 1011 1033	the given page content
+T16	Mention 643 659	the page content
+T17	Mention 1050 1053	ads
+T18	Mention 986 1005	one or more phrases
+T19	Mention 1083 1096	these phrases
+T20	Mention 101 192	the placement of commercial textual advertisements within the content of a generic web page
+T21	Mention 690 692	SS
+T22	Mention 727 729	CM
+*	Coreference T3 T1 T2 T8 T13 T20 T22
+*	Coreference T4 T5 T14 T21
+*	Coreference T7 T6 T17
+*	Coreference T9 T10
+*	Coreference T11 T12
+*	Coreference T16 T15
+*	Coreference T18 T19

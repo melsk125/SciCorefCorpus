@@ -1,0 +1,15 @@
+T1	Mention 172 182	the agents
+T2	Mention 120 126	agents
+T3	Mention 211 216	their
+T4	Mention 289 291	We
+T5	Mention 455 457	we
+T6	Mention 723 725	we
+T7	Mention 923 925	we
+T8	Mention 1189 1191	we
+T9	Mention 1204 1209	their
+T10	Mention 1119 1130	Our results
+T11	Mention 417 420	Our
+T12	Mention 1119 1122	Our
+*	Coreference T2 T1 T3
+*	Coreference T10 T9
+*	Coreference T11 T12 T4 T5 T6 T7 T8

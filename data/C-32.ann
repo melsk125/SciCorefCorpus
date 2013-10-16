@@ -1,0 +1,16 @@
+T1	Mention 103 129	Collaborative applications
+T2	Mention 228 232	They
+T3	Mention 430 440	BuddyCache
+T4	Mention 444 632	a new transactional caching approach that improves the latency of access to shared persistent objects for collaborative strong-consistency applications in high-latency network environments
+T6	Mention 839 861	a BuddyCache prototype
+T7	Mention 876 879	its
+T8	Mention 942 966	the BuddyCache prototype
+T9	Mention 1138 1148	BuddyCache
+T5	Mention 241 331	strong consistency for shared persistent data and efficient access to fine-grained objects
+T10	Mention 333 349	These properties
+T11	Mention 841 851	BuddyCache
+T12	Mention 946 956	BuddyCache
+*	Coreference T1 T2
+*	Coreference T3 T4 T11 T12
+*	Coreference T6 T7 T8 T9
+*	Coreference T10 T5

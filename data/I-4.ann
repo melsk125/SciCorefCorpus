@@ -1,0 +1,33 @@
+T1	Mention 269 278	the chain
+T2	Mention 95 114	A negotiation chain
+T3	Mention 239 255	the negotiations
+T4	Mention 130 159	multiple related negotiations
+T5	Mention 417 529	semi-cooperative multi-agent systems, where each agent has its own goals and works to maximize its local utility
+T7	Mention 461 471	each agent
+T8	Mention 476 479	its
+T10	Mention 633 643	the system
+T13	Mention 765 781	this information
+T14	Mention 735 757	meta-level information
+T15	Mention 783 792	the agent
+T16	Mention 716 722	agents
+T17	Mention 828 843	the negotiation
+T18	Mention 922 946	This more accurate model
+T19	Mention 803 824	a more accurate model
+T20	Mention 953 962	the agent
+T21	Mention 1046 1055	The agent
+T22	Mention 1069 1085	this information
+T23	Mention 1229 1245	these mechanisms
+T24	Mention 330 393	an extension to a single-agent concurrent negotiation framework
+T25	Mention 1254 1264	the agents
+T26	Mention 1270 1280	the system
+T6	Mention 319 321	we
+T9	Mention 667 669	We
+*	Coreference T2 T1
+*	Coreference T4 T3 T17
+*	Coreference T5 T10 T26
+*	Coreference T7 T8
+*	Coreference T14 T13 T22
+*	Coreference T16 T15 T20 T21 T25
+*	Coreference T19 T18
+*	Coreference T24 T23
+*	Coreference T6 T9

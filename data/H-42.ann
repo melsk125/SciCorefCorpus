@@ -1,0 +1,15 @@
+T1	Mention 81 188	a novel method of analysing data gathered from TREC or similar information retrieval evaluation experiments
+T2	Mention 472 483	this method
+T3	Mention 128 132	TREC
+T4	Mention 774 778	TREC
+T5	Mention 70 72	We
+T6	Mention 190 192	We
+T7	Mention 251 253	we
+T8	Mention 326 328	We
+T9	Mention 463 465	We
+T10	Mention 301 305	TREC
+T11	Mention 534 536	we
+T12	Mention 502 506	TREC
+*	Coreference T1 T2
+*	Coreference T3 T4 T10 T12
+*	Coreference T5 T6 T7 T8 T9 T11

@@ -1,0 +1,26 @@
+T1	Mention 158 163	these
+T2	Mention 117 148	location-dependent applications
+T3	Mention 198 219	wireless sensor nodes
+T4	Mention 313 327	sensor devices
+T11	Mention 1327 1339	sensor nodes
+T12	Mention 1413 1426	physical cost
+T13	Mention 1428 1435	anchors
+T14	Mention 1441 1450	soft cost
+T15	Mention 1452 1458	events
+T5	Mention 389 415	Multi-Sequence Positioning
+T6	Mention 417 420	MSP
+T9	Mention 376 378	we
+T10	Mention 528 531	MSP
+T16	Mention 757 760	MSP
+T17	Mention 769 771	we
+T18	Mention 859 861	We
+T7	Mention 990 992	we
+T8	Mention 1000 1002	We
+T19	Mention 1022 1025	MSP
+T20	Mention 1234 1237	MSP
+*	Coreference T2 T1
+*	Coreference T3 T4 T11
+*	Coreference T12 T13
+*	Coreference T14 T15
+*	Coreference T5 T6 T10 T16 T19 T20
+*	Coreference T9 T17 T18 T7 T8

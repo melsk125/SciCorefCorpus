@@ -1,0 +1,6 @@
+T1	Mention 59 132	on-board planning for a satellite swarm via communication and negotiation
+T2	Mention 283 294	the problem
+T3	Mention 134 136	We
+T4	Mention 246 248	We
+*	Coreference T1 T2
+*	Coreference T3 T4

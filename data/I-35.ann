@@ -1,0 +1,41 @@
+T1	Mention 92 135	a means of coordinating multi-agent systems
+T2	Mention 61 66	Norms
+T3	Mention 167 172	norms
+T4	Mention 137 172	The distributed management of norms
+T5	Mention 176 195	a challenging issue
+T6	Mention 402 560	a normative model, the Normative Structure (NS), an artifact that is based on the propagation of normative positions (obligations, prohibitions, permissions),
+T7	Mention 421 444	the Normative Structure
+T8	Mention 446 448	NS
+T11	Mention 325 342	autonomous agents
+T12	Mention 580 587	agents'
+T13	Mention 604 608	a NS
+T14	Mention 663 666	MAS
+T15	Mention 116 135	multi-agent systems
+T16	Mention 690 697	agents'
+T17	Mention 580 595	agents' actions
+T18	Mention 690 705	agents' actions
+T19	Mention 745 749	a NS
+T20	Mention 610 619	conflicts
+T21	Mention 839 847	conflict
+T22	Mention 872 875	NSs
+T23	Mention 881 900	Coloured Petri Nets
+T24	Mention 951 961	that field
+T25	Mention 1097 1111	this algorithm
+T26	Mention 1020 1041	a tractable algorithm
+T27	Mention 1158 1162	a NS
+T10	Mention 564 595	consequences of agents' actions
+T9	Mention 200 202	we
+T28	Mention 391 393	we
+T29	Mention 797 799	We
+T30	Mention 1009 1011	we
+T31	Mention 1072 1074	We
+*	Coreference T2 T1 T3
+*	Coreference T4 T5
+*	Coreference T6 T7 T8 T13 T19 T22 T27 T10
+*	Coreference T11 T12 T16
+*	Coreference T15 T14
+*	Coreference T17 T18
+*	Coreference T21 T20
+*	Coreference T23 T24
+*	Coreference T26 T25
+*	Coreference T9 T28 T29 T30 T31

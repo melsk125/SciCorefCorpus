@@ -1,0 +1,26 @@
+T1	Mention 186 226	huge amounts of continuous media content
+T2	Mention 325 337	such content
+T3	Mention 399 420	live continuous media
+T4	Mention 482 494	this content
+T5	Mention 868 906	the Spectrum content management system
+T7	Mention 165 292	an environment where huge amounts of continuous media content is routinely stored and exchanged between network enabled devices
+T8	Mention 959 975	this environment
+T9	Mention 925 943	rich media content
+T10	Mention 977 985	Spectrum
+T13	Mention 1025 1028	its
+T14	Mention 1113 1121	Spectrum
+T15	Mention 1130 1132	it
+T16	Mention 1228 1238	the system
+T17	Mention 1345 1347	it
+T18	Mention 1288 1347	Content that no longer has a retention policy applied to it
+T19	Mention 1371 1381	the system
+T20	Mention 1537 1545	Spectrum
+T23	Mention 1651 1672	live continuous media
+T24	Mention 1722 1747	the Spectrum architecture
+T6	Mention 824 826	we
+T11	Mention 1686 1688	We
+*	Coreference T3 T4 T1 T2 T9 T23
+*	Coreference T5 T10 T13 T14 T15 T16 T19 T20 T24
+*	Coreference T7 T8
+*	Coreference T18 T17
+*	Coreference T6 T11

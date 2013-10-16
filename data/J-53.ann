@@ -1,0 +1,18 @@
+T1	Mention 280 292	their budget
+T2	Mention 294 298	bids
+T3	Mention 337 342	their
+T4	Mention 240 254	Multiple users
+T5	Mention 280 285	their
+T6	Mention 378 383	their
+T9	Mention 439 578	the fairness of the allocation at the equilibrium, where fairness is evaluated through the measures of utility uniformity and envy-freeness
+T10	Mention 496 504	fairness
+T7	Mention 185 238	a distributed market-based resource allocation system
+T8	Mention 666 679	such a system
+T11	Mention 97 99	we
+T12	Mention 404 406	We
+T13	Mention 580 582	We
+*	Coreference T1 T2
+*	Coreference T4 T5 T3 T6
+*	Coreference T9 T10
+*	Coreference T7 T8
+*	Coreference T11 T12 T13

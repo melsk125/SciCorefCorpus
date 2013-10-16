@@ -1,0 +1,21 @@
+T1	Mention 142 152	each agent
+T2	Mention 178 181	its
+T3	Mention 178 191	its beliefs B
+T4	Mention 190 191	B
+T5	Mention 193 219	the concept representation
+T7	Mention 265 295	the whole set of information K
+T8	Mention 294 295	K
+T9	Mention 297 309	the examples
+T10	Mention 311 315	that
+T11	Mention 316 318	he
+T6	Mention 229 231	it
+T12	Mention 395 406	consistency
+T13	Mention 411 420	soundness
+T14	Mention 644 649	SMILE
+T15	Mention 623 649	The resulting method SMILE
+T16	Mention 664 702	Sound Multi-agent Incremental LEarning
+*	Coreference T1 T2 T11
+*	Coreference T3 T4 T5 T6
+*	Coreference T7 T8 T9 T10
+*	Coreference T12 T13
+*	Coreference T15 T14 T16

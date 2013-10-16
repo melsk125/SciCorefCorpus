@@ -1,0 +1,9 @@
+T1	Mention 205 226	Vickrey-Clarke-Groves
+T2	Mention 228 231	VCG
+T3	Mention 575 577	We
+T4	Mention 737 739	We
+T5	Mention 1077 1079	we
+T6	Mention 1086 1089	our
+T7	Mention 870 872	us
+*	Coreference T1 T2
+*	Coreference T3 T4 T5 T6 T7

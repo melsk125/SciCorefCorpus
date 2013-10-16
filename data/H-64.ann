@@ -1,0 +1,9 @@
+T3	Mention 290 298	our goal
+T4	Mention 423 431	The goal
+T5	Mention 587 663	a necessary precondition for realworld deployment of many dynamic interfaces
+T6	Mention 530 582	automatically derived document-concept relationships
+T1	Mention 290 293	our
+T2	Mention 468 470	we
+*	Coreference T3 T4
+*	Coreference T6 T5
+*	Coreference T1 T2

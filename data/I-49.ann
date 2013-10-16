@@ -1,0 +1,14 @@
+T1	Mention 332 377	relevant information on a proposal assessment
+T2	Mention 379 395	This information
+T3	Mention 74 161	a new protocol to address multilateral multi-issue negotiation in a cooperative context
+T4	Mention 407 419	the protocol
+T5	Mention 252 262	the agents
+T6	Mention 479 501	the cooperative agents
+T7	Mention 614 624	our agents
+T8	Mention 63 65	we
+T9	Mention 163 165	We
+T10	Mention 614 617	our
+*	Coreference T2 T1
+*	Coreference T3 T4
+*	Coreference T5 T6 T7
+*	Coreference T8 T9 T10

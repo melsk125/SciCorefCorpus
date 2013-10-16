@@ -1,0 +1,18 @@
+T1	Mention 124 140	these attributes
+T2	Mention 104 114	attributes
+T8	Mention 566 614	Our distributed index for multi-dimensional data
+T10	Mention 619 622	DIM
+T9	Mention 835 839	DIMs
+T13	Mention 1203 1207	DIMs
+T3	Mention 218 248	a multidimensional range query
+T4	Mention 372 384	Such queries
+T5	Mention 490 564	a distributed index that scalably supports multi-dimensional range queries
+T6	Mention 464 466	we
+T7	Mention 566 569	Our
+T14	Mention 752 755	Our
+T11	Mention 1088 1092	DIMs
+T12	Mention 951 953	we
+*	Coreference T2 T1
+*	Coreference T8 T10 T9 T13 T5 T11
+*	Coreference T4 T3
+*	Coreference T6 T7 T14 T12

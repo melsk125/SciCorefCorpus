@@ -1,0 +1,24 @@
+T1	Mention 52 132	Query expansion, in the form of pseudo-relevance feedback or relevance feedback,
+T2	Mention 136 194	a common technique used to improve retrieval effectiveness
+T3	Mention 357 456	a robust query expansion technique based on the Markov random field model for information retrieval
+T4	Mention 458 505	The technique, called latent concept expansion,
+T5	Mention 480 504	latent concept expansion
+T6	Mention 303 329	modeling term dependencies
+T7	Mention 531 557	modeling term dependencies
+T10	Mention 788 801	our technique
+T11	Mention 828 890	a state-of-the-art language modeling query expansion technique
+T12	Mention 810 890	relevance models, a state-of-the-art language modeling query expansion technique
+T13	Mention 892 901	Our model
+T14	Mention 626 635	the model
+T15	Mention 1034 1047	our technique
+T8	Mention 346 348	we
+T9	Mention 776 778	We
+T16	Mention 1013 1015	We
+T17	Mention 788 791	our
+T18	Mention 892 895	Our
+T19	Mention 1034 1037	our
+*	Coreference T1 T2
+*	Coreference T3 T4 T5 T10 T14 T13 T15
+*	Coreference T6 T7
+*	Coreference T12 T11
+*	Coreference T8 T9 T17 T18 T16 T19

@@ -1,0 +1,30 @@
+T1	Mention 59 66	demands
+T2	Mention 164 175	the demands
+T3	Mention 256 265	the price
+T4	Mention 48 54	prices
+T5	Mention 198 218	the utility function
+T6	Mention 102 265	a concave, continuous and monotone utility function such that the demands are the maximizers of the utility function over the budget set corresponding to the price
+T7	Mention 485 491	demand
+T8	Mention 423 440	this line of work
+T9	Mention 700 721	this line of research
+T12	Mention 622 668	a general degree of confidence in the forecast
+T13	Mention 879 918	a degree of confidence in the forecasts
+T14	Mention 656 668	the forecast
+T15	Mention 905 918	the forecasts
+T18	Mention 1153 1256	a learning algorithm that is an adaptation of a new proof of Afriat's theorem due to Teo and Vohra [17]
+T20	Mention 1182 1256	an adaptation of a new proof of Afriat's theorem due to Teo and Vohra [17]
+T21	Mention 180 194	the maximizers
+T10	Mention 267 273	Afriat
+T11	Mention 1214 1220	Afriat
+T16	Mention 799 801	we
+T17	Mention 1137 1139	We
+T19	Mention 920 923	Our
+*	Coreference T1 T2 T7 T21
+*	Coreference T4 T3
+*	Coreference T6 T5
+*	Coreference T8 T9
+*	Coreference T12 T13
+*	Coreference T14 T15
+*	Coreference T18 T20
+*	Coreference T10 T11
+*	Coreference T16 T19 T17

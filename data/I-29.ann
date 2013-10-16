@@ -1,0 +1,28 @@
+T1	Mention 159 179	collaborative agents
+T2	Mention 414 424	all agents
+T3	Mention 63 137	the problem of managing schedules in an uncertain, distributed environment
+T4	Mention 613 625	this problem
+T7	Mention 802 812	The former
+T8	Mention 665 754	a flexible times representation of the agent's schedule (using a Simple Temporal Network)
+T9	Mention 920 930	the latter
+T10	Mention 763 800	an incremental rescheduling procedure
+T11	Mention 946 966	the agent's schedule
+T12	Mention 700 720	the agent's schedule
+T13	Mention 887 914	a set of feasible solutions
+T14	Mention 1003 1024	this set of solutions
+T15	Mention 1079 1105	this feasible solution set
+T16	Mention 1131 1143	other agents
+T17	Mention 1200 1212	those agents
+T5	Mention 51 53	We
+T6	Mention 139 141	We
+T18	Mention 567 569	We
+T19	Mention 1511 1513	we
+T20	Mention 1541 1544	our
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T8 T7
+*	Coreference T10 T9
+*	Coreference T12 T11
+*	Coreference T13 T14 T15
+*	Coreference T16 T17
+*	Coreference T5 T6 T18 T19 T20

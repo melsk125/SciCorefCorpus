@@ -1,0 +1,17 @@
+T1	Mention 145 247	a setting in which pairwise interactions are restricted to the edges of an undirected graph or network
+T3	Mention 281 312	an evolutionary stable strategy
+T4	Mention 314 317	ESS
+T7	Mention 404 415	our setting
+T8	Mention 512 521	the graph
+T9	Mention 595 604	the graph
+T10	Mention 681 737	natural strengthenings of our generalized ESS definition
+T11	Mention 799 803	them
+T2	Mention 75 77	We
+T5	Mention 249 251	We
+T6	Mention 670 672	We
+T12	Mention 404 407	our
+*	Coreference T1 T7
+*	Coreference T3 T4
+*	Coreference T9 T8
+*	Coreference T10 T11
+*	Coreference T2 T5 T6 T12

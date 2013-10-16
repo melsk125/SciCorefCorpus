@@ -1,0 +1,23 @@
+T1	Mention 104 109	their
+T2	Mention 41 86	Enterprises in the public and private sectors
+T5	Mention 176 239	interactive work with such large volumes of online spatial data
+T6	Mention 243 261	a challenging task
+T7	Mention 809 816	APPOINT
+T8	Mention 818 870	an Approach for Peer-to-Peer Offloading the INTernet
+T9	Mention 873 877	This
+T10	Mention 881 992	a centralized peer-to-peer approach that helps Internet users transfer large volumes of online data efficiently
+T12	Mention 997 1004	APPOINT
+T3	Mention 263 265	We
+T4	Mention 346 348	we
+T13	Mention 535 537	We
+T14	Mention 796 798	we
+T11	Mention 1024 1054	the client-server architecture
+T15	Mention 359 533	a client-server architecture where the work is distributed between the server and the individual clients for spatial query evaluation, data visualization, and data management
+T16	Mention 1103 1113	each other
+T17	Mention 1006 1054	active clients of the client-server architecture
+*	Coreference T2 T1
+*	Coreference T5 T6
+*	Coreference T7 T8 T9 T10 T12
+*	Coreference T3 T4 T13 T14
+*	Coreference T15 T11
+*	Coreference T17 T16

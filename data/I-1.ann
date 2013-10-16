@@ -1,0 +1,24 @@
+T1	Mention 29 97	Intelligent agents that are intended to work in dynamic environments
+T3	Mention 175 186	such agents
+T6	Mention 333 344	the agent's
+T8	Mention 462 468	aborts
+T12	Mention 620 635	such a decision
+T13	Mention 843 849	aborts
+T16	Mention 1082 1256	the presence of parallel execution threads and of sub-tasks, which require the agent to ensure that the abort methods for each plan are carried out in an appropriate sequence
+T17	Mention 1042 1078	A key technical challenge we address
+T19	Mention 663 687	an optional abort-method
+T20	Mention 1182 1199	the abort methods
+T21	Mention 1157 1166	the agent
+T22	Mention 648 657	each plan
+T23	Mention 1204 1213	each plan
+T2	Mention 426 428	we
+T4	Mention 500 502	We
+T5	Mention 637 639	We
+T7	Mention 764 766	We
+T9	Mention 1068 1070	we
+*	Coreference T1 T3 T6 T21
+*	Coreference T8 T12 T13
+*	Coreference T17 T16
+*	Coreference T19 T20
+*	Coreference T22 T23
+*	Coreference T2 T4 T5 T7 T9

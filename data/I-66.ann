@@ -1,0 +1,21 @@
+T1	Mention 86 143	Distributed Partially Observable Markov Decision Problems
+T2	Mention 145 163	Distributed POMDPs
+T3	Mention 169 248	a popular approach for modeling multi-agent systems acting in uncertain domains
+T4	Mention 294 312	distributed POMDPs
+T5	Mention 431 444	this approach
+T6	Mention 365 385	one popular approach
+T7	Mention 481 494	this approach
+T8	Mention 782 875	SPIDER, a novel combination of three key features for policy generation in distributed POMDPs
+T9	Mention 790 875	a novel combination of three key features for policy generation in distributed POMDPs
+T10	Mention 881 883	it
+T11	Mention 998 1004	agents
+T12	Mention 940 946	agents
+T13	Mention 1012 1014	it
+T14	Mention 1084 1086	it
+T15	Mention 546 576	A second less popular approach
+T16	Mention 1282 1316	previous global optimal algorithms
+*	Coreference T1 T2 T3 T4
+*	Coreference T6 T5 T7
+*	Coreference T8 T9 T10 T13 T14
+*	Coreference T12 T11
+*	Coreference T15 T16

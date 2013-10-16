@@ -1,0 +1,18 @@
+T1	Mention 165 170	which
+T2	Mention 133 148	many approaches
+T3	Mention 77 110	Collaborative document processing
+T4	Mention 238 248	this issue
+T5	Mention 317 365	a pervasive document editing and managing system
+T6	Mention 367 369	It
+T7	Mention 555 558	his
+T8	Mention 485 494	Each user
+T9	Mention 646 659	such a system
+T11	Mention 672 674	it
+T12	Mention 227 229	We
+T10	Mention 603 605	we
+T13	Mention 614 617	our
+*	Coreference T2 T1
+*	Coreference T3 T4
+*	Coreference T5 T6 T9 T11
+*	Coreference T8 T7
+*	Coreference T12 T10 T13

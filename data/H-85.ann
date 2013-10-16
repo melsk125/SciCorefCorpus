@@ -1,0 +1,21 @@
+T1	Mention 89 127	user preferences of web search results
+T2	Mention 285 314	web search result preferences
+T3	Mention 241 273	the behavior of web search users
+T4	Mention 356 369	user behavior
+T5	Mention 641 681	our model of clickthrough interpretation
+T6	Mention 769 781	our approach
+T7	Mention 791 804	user behavior
+T9	Mention 886 932	models based on clickthrough information alone
+T10	Mention 716 753	state-of-the-art clickthrough methods
+T8	Mention 199 201	We
+T11	Mention 628 630	We
+T12	Mention 755 757	We
+T13	Mention 934 936	We
+T14	Mention 476 479	Our
+T15	Mention 641 644	our
+T16	Mention 769 772	our
+*	Coreference T1 T2
+*	Coreference T3 T4 T7
+*	Coreference T5 T6
+*	Coreference T10 T9
+*	Coreference T8 T14 T11 T15 T12 T16 T13

@@ -1,0 +1,27 @@
+T1	Mention 106 145	Decentralized Markov Decision Processes
+T2	Mention 147 155	DEC-MDPs
+T3	Mention 161 284	a popular model of agent-coordination problems in domains with uncertainty and time constraints but very difficult to solve
+T4	Mention 361 369	DEC-MDPs
+T5	Mention 312 389	a state-of-the-art heuristic solution method for DEC-MDPs, called OC-DEC-MDP,
+T6	Mention 378 388	OC-DEC-MDP
+T7	Mention 441 449	DEC-MDPs
+T8	Mention 451 522	Our heuristic solution method, called Value Function Propagation (VFP),
+T9	Mention 489 515	Value Function Propagation
+T10	Mention 517 520	VFP
+T11	Mention 563 573	OC-DEC-MDP
+T12	Mention 582 584	it
+T13	Mention 595 605	OC-DEC-MDP
+T14	Mention 802 804	it
+T15	Mention 845 855	OC-DEC-MDP
+T16	Mention 897 899	it
+T17	Mention 953 963	OC-DEC-MDP
+T18	Mention 1136 1139	VFP
+T19	Mention 1145 1155	OC-DEC-MDP
+T20	Mention 301 303	we
+T21	Mention 965 967	We
+T22	Mention 451 454	Our
+T23	Mention 1074 1077	Our
+*	Coreference T1 T2 T3 T4 T7
+*	Coreference T5 T6 T11 T13 T15 T17 T19
+*	Coreference T9 T8 T10 T12 T14 T16 T18
+*	Coreference T20 T22 T21 T23

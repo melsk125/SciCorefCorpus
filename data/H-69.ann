@@ -1,0 +1,23 @@
+T1	Mention 65 86	a promising direction
+T2	Mention 46 61	Vertical search
+T3	Mention 90 92	it
+T4	Mention 205 295	the Web object-ranking problem, one of the key issues in building a vertical search engine
+T5	Mention 237 295	one of the key issues in building a vertical search engine
+T6	Mention 328 340	this problem
+T7	Mention 504 634	two score fusion methods that can automatically integrate as many Web communities (Web forums) with rating information as possible
+T9	Mention 570 585	Web communities
+T10	Mention 587 597	Web forums
+T11	Mention 636 663	The proposed fusion methods
+T12	Mention 817 823	forums
+T13	Mention 873 900	the proposed fusion methods
+T14	Mention 942 960	Web object ranking
+T15	Mention 1058 1081	the proposed algorithms
+T8	Mention 196 198	we
+T16	Mention 316 318	we
+T17	Mention 492 494	We
+T18	Mention 970 972	we
+*	Coreference T2 T1 T3
+*	Coreference T4 T5 T6 T14
+*	Coreference T7 T11 T13 T15
+*	Coreference T9 T10 T12
+*	Coreference T8 T16 T17 T18

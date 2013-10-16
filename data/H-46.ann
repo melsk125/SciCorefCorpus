@@ -1,0 +1,18 @@
+T1	Mention 606 620	a new test set
+T2	Mention 666 679	this test set
+T3	Mention 774 810	baseline expertise retrieval methods
+T4	Mention 414 442	a set of baseline approaches
+T5	Mention 822 838	the new test set
+T8	Mention 928 944	the new test set
+T9	Mention 1050 1062	the test set
+T10	Mention 121 139	the W3C collection
+T11	Mention 1156 1174	the W3C collection
+T12	Mention 1180 1198	current techniques
+T13	Mention 350 352	We
+T14	Mention 579 581	we
+T15	Mention 681 683	we
+T16	Mention 550 553	our
+*	Coreference T1 T2 T5 T8 T9
+*	Coreference T4 T3 T12
+*	Coreference T10 T11
+*	Coreference T13 T16 T14 T15

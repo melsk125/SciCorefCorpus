@@ -1,0 +1,23 @@
+T1	Mention 72 99	Implicit relevance feedback
+T2	Mention 101 104	IRF
+T3	Mention 109 237	the process by which a search system unobtrusively gathers evidence on searcher interests from their interaction with the system
+T5	Mention 239 242	IRF
+T6	Mention 246 300	a new method of gathering information on user interest
+T7	Mention 309 312	IRF
+T9	Mention 388 390	it
+T10	Mention 414 416	it
+T11	Mention 496 499	IRF
+T12	Mention 515 528	three factors
+T13	Mention 643 669	all three of these factors
+T14	Mention 699 702	IRF
+T4	Mention 180 188	searcher
+T15	Mention 204 209	their
+T16	Mention 130 145	a search system
+T17	Mention 227 237	the system
+T8	Mention 448 450	we
+T18	Mention 617 620	Our
+*	Coreference T3 T1 T2 T5 T6 T7 T9 T10 T11 T14
+*	Coreference T12 T13
+*	Coreference T4 T15
+*	Coreference T16 T17
+*	Coreference T8 T18

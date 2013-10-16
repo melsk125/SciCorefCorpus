@@ -1,0 +1,24 @@
+T1	Mention 102 185	the standard continuous limit-order mechanism that is used in modern equity markets
+T3	Mention 202 217	such mechanisms
+T4	Mention 258 377	the infliction of large changes on common measures of market activity by only small perturbations of the order sequence
+T5	Mention 237 377	butterfly effects -- the infliction of large changes on common measures of market activity by only small perturbations of the order sequence
+T6	Mention 312 318	market
+T7	Mention 431 441	the market
+T8	Mention 454 543	absolute traders (who determine their prices independent of the current order book state)
+T10	Mention 486 491	their
+T11	Mention 547 628	relative traders (who determine their prices relative to the current bid and ask)
+T13	Mention 579 584	their
+T14	Mention 876 927	INET, a large electronic exchange for NASDAQ stocks
+T15	Mention 882 927	a large electronic exchange for NASDAQ stocks
+T2	Mention 49 51	We
+T9	Mention 187 189	We
+T12	Mention 379 381	We
+T16	Mention 630 632	We
+T17	Mention 783 786	Our
+*	Coreference T1 T3
+*	Coreference T5 T4
+*	Coreference T6 T7
+*	Coreference T8 T10
+*	Coreference T11 T13
+*	Coreference T14 T15
+*	Coreference T2 T9 T12 T16 T17

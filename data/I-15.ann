@@ -1,0 +1,18 @@
+T3	Mention 326 345	The proposed method
+T4	Mention 223 324	a method for information searching and sharing that combines routing indices with token-based methods
+T6	Mention 354 360	agents
+T7	Mention 396 401	their
+T8	Mention 436 441	their
+T9	Mention 490 517	indices for routing queries
+T10	Mention 284 299	routing indices
+T11	Mention 645 651	agents
+T12	Mention 700 704	they
+T13	Mention 852 880	the network of acquaintances
+T14	Mention 614 651	static and dynamic networks of agents
+T1	Mention 203 213	This paper
+T2	Mention 555 564	the paper
+*	Coreference T4 T3
+*	Coreference T6 T7 T8 T11 T12
+*	Coreference T10 T9
+*	Coreference T14 T13
+*	Coreference T1 T2

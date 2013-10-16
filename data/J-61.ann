@@ -1,0 +1,12 @@
+T1	Mention 73 108	an iterative combinatorial exchange
+T2	Mention 110 113	ICE
+T3	Mention 116 128	The exchange
+T6	Mention 254 259	their
+T7	Mention 212 219	Bidders
+T8	Mention 228 250	lower and upper bounds
+T9	Mention 288 300	These bounds
+T10	Mention 489 501	the exchange
+T13	Mention 843 855	The exchange
+*	Coreference T1 T2 T3 T10 T13
+*	Coreference T7 T6
+*	Coreference T8 T9

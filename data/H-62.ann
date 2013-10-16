@@ -1,0 +1,13 @@
+T1	Mention 176 202	existing retrieval systems
+T2	Mention 211 215	they
+T3	Mention 454 480	the current search systems
+T5	Mention 838 843	UCAIR
+T7	Mention 1037 1053	our search agent
+T6	Mention 793 999	an intelligent client-side web search agent (UCAIR) that can perform eager implicit feedback, e.g., query expansion based on previous queries and immediate result reranking based on clickthrough information
+T8	Mention 527 529	we
+T9	Mention 664 666	We
+T10	Mention 782 784	We
+T11	Mention 1037 1040	our
+*	Coreference T1 T2 T3
+*	Coreference T7 T6 T5
+*	Coreference T8 T9 T10 T11

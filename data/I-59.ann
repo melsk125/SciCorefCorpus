@@ -1,0 +1,12 @@
+T1	Mention 181 236	The ability to preserve the privacy of all participants
+T2	Mention 240 318	an essential requirement of the underlying Information Filtering architectures
+T3	Mention 541 771	an approach for privacy-preserving Recommender Systems based on Multi-Agent System technology which enables applications to generate recommendations via various filtering techniques while preserving the privacy of all participants
+T5	Mention 805 817	our solution
+T6	Mention 873 886	this approach
+T4	Mention 523 525	We
+T7	Mention 773 775	We
+T8	Mention 805 808	our
+T9	Mention 844 846	we
+*	Coreference T1 T2
+*	Coreference T3 T5 T6
+*	Coreference T4 T7 T8 T9

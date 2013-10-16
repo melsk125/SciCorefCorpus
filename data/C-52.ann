@@ -1,0 +1,38 @@
+T11	Mention 475 490	This inaccuracy
+T12	Mention 513 515	it
+T13	Mention 536 547	all players
+T14	Mention 585 596	all players
+T19	Mention 792 806	the inaccuracy
+T21	Mention 1141 1155	This algorithm
+T24	Mention 991 1139	an algorithm for scheduling the sending of dead-reckoning vectors at a sender that strives to make this error equal at different receivers over time
+T25	Mention 1090 1100	this error
+T26	Mention 926 942	an error measure
+T27	Mention 1285 1424	a budget based algorithm that provides improved fairness without increasing the mean error thereby maintaining the accuracy of game playing
+T20	Mention 1451 1475	the scheduling algorithm
+T29	Mention 1480 1506	the budget based algorithm
+T30	Mention 1518 1565	BZFlag, a popular distributed multi-player game
+T31	Mention 1526 1565	a popular distributed multi-player game
+T32	Mention 1600 1616	these algorithms
+T33	Mention 1717 1740	the proposed algorithms
+T34	Mention 1749 1753	they
+T35	Mention 1840 1846	BZflag
+T1	Mention 109 131	dead-reckoning vectors
+T2	Mention 1034 1056	dead-reckoning vectors
+T3	Mention 67 98	a distributed multi-player game
+T4	Mention 1162 1170	the game
+T5	Mention 907 909	we
+T6	Mention 980 982	we
+T7	Mention 1426 1428	We
+T8	Mention 1274 1276	we
+T9	Mention 1567 1569	We
+T10	Mention 1777 1780	DRs
+*	Coreference T11 T12 T19
+*	Coreference T13 T14
+*	Coreference T24 T21 T20
+*	Coreference T26 T25
+*	Coreference T27 T29
+*	Coreference T30 T31 T35
+*	Coreference T32 T33 T34
+*	Coreference T1 T2 T10
+*	Coreference T3 T4
+*	Coreference T5 T6 T8 T7 T9

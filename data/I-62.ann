@@ -1,0 +1,11 @@
+T1	Mention 111 174	stochastic resource allocation problems known to be NP-Complete
+T2	Mention 187 227	this complex resource management problem
+T5	Mention 424 443	The Q-decomposition
+T6	Mention 229 255	a Q-decomposition approach
+T7	Mention 674 690	heuristic search
+T8	Mention 707 748	the bounded Real-time Dynamic Programming
+T9	Mention 750 762	bounded rtdp
+T10	Mention 773 785	Bounded rtdp
+*	Coreference T1 T2
+*	Coreference T6 T5
+*	Coreference T8 T9 T7 T10

@@ -1,0 +1,10 @@
+T1	Mention 100 117	lists of captions
+T2	Mention 250 264	these captions
+T3	Mention 504 526	search result captions
+T5	Mention 268 287	Web search behavior
+T6	Mention 757 783	users' Web search behavior
+T4	Mention 377 379	we
+T7	Mention 544 547	our
+*	Coreference T1 T2 T3
+*	Coreference T5 T6
+*	Coreference T4 T7

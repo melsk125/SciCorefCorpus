@@ -1,0 +1,27 @@
+T1	Mention 196 201	their
+T2	Mention 98 116	Human team members
+T3	Mention 272 365	a basis for developing realistic shared expectations among a team of Human-Agent-Pairs (HAPs)
+T4	Mention 227 256	the concept Shared Belief Map
+T5	Mention 239 256	Shared Belief Map
+T6	Mention 341 358	Human-Agent-Pairs
+T7	Mention 360 364	HAPs
+T8	Mention 388 406	shared belief maps
+T9	Mention 417 448	inter-agent information sharing
+T10	Mention 471 476	which
+T11	Mention 495 501	agents
+T12	Mention 561 566	their
+T13	Mention 728 757	The shared belief map concept
+T14	Mention 762 798	the cognitive/processing load models
+T15	Mention 598 629	HMM-based cognitive load models
+T16	Mention 824 861	a cognitive agent architecture SMMall
+T17	Mention 855 861	SMMall
+T18	Mention 914 925	the concept
+T19	Mention 927 937	the models
+T20	Mention 976 1009	shared mental models of HAP teams
+*	Coreference T2 T1
+*	Coreference T4 T5 T3 T8 T13 T18
+*	Coreference T6 T7
+*	Coreference T9 T10
+*	Coreference T11 T12
+*	Coreference T15 T14 T19 T20
+*	Coreference T16 T17

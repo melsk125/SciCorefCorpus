@@ -1,0 +1,20 @@
+T1	Mention 85 185	a two-sided economic search model in which agents are searching for beneficial pairwise partnerships
+T3	Mention 209 227	each of the agents
+T4	Mention 128 134	agents
+T5	Mention 253 273	several other agents
+T6	Mention 362 366	them
+T7	Mention 398 416	the proposed model
+T8	Mention 425 435	the agents
+T13	Mention 637 647	the agents
+T14	Mention 692 705	the new model
+T15	Mention 720 748	the proposed search strategy
+T16	Mention 668 705	a stable equilibrium in the new model
+T17	Mention 890 905	the equilibrium
+T20	Mention 985 995	the agents
+T2	Mention 601 603	We
+T9	Mention 906 908	we
+*	Coreference T1 T7 T14 T15
+*	Coreference T4 T3 T8 T13 T20
+*	Coreference T5 T6
+*	Coreference T16 T17
+*	Coreference T2 T9

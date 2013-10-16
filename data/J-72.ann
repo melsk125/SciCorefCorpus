@@ -1,0 +1,17 @@
+T3	Mention 315 351	The resulting elicitation algorithms
+T4	Mention 428 452	the resulting algorithms
+T5	Mention 233 252	learning algorithms
+T6	Mention 568 587	learning algorithms
+T9	Mention 89 123	the preference elicitation problem
+T10	Mention 280 302	preference elicitation
+T11	Mention 329 340	elicitation
+T1	Mention 55 57	We
+T2	Mention 220 222	We
+T7	Mention 392 394	We
+T8	Mention 666 668	we
+T12	Mention 484 487	Our
+T13	Mention 516 518	us
+*	Coreference T3 T4
+*	Coreference T5 T6
+*	Coreference T9 T10 T11
+*	Coreference T1 T2 T7 T8 T12 T13

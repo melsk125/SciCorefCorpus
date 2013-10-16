@@ -1,0 +1,19 @@
+T3	Mention 338 345	a query
+T4	Mention 360 363	its
+T5	Mention 421 430	the query
+T6	Mention 500 659	rare queries, which are the hardest from the point of view of machine learning, yet in aggregation account for a considerable fraction of search engine traffic
+T8	Mention 524 578	the hardest from the point of view of machine learning
+T9	Mention 696 711	our methodology
+T10	Mention 69 295	a methodology for building a practical robust query classification system that can identify thousands of query classes with reasonable accuracy, while dealing in realtime with the query volume of a commercial web search engine
+T11	Mention 807 831	the proposed methodology
+T12	Mention 878 890	rare queries
+T1	Mention 58 60	We
+T2	Mention 297 299	We
+T13	Mention 347 349	we
+T14	Mention 478 480	we
+T7	Mention 696 699	our
+T15	Mention 791 793	We
+*	Coreference T3 T4 T5
+*	Coreference T6 T8 T12
+*	Coreference T10 T9 T11
+*	Coreference T1 T2 T13 T14 T7 T15

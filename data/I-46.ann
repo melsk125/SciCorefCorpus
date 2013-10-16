@@ -1,0 +1,12 @@
+T1	Mention 39 191	a new class of representations that can be used for modeling (and model checking) temporal, strategic and epistemic properties of agents and their teams
+T3	Mention 169 175	agents
+T4	Mention 180 185	their
+T5	Mention 193 212	Our representations
+T6	Mention 295 299	they
+T7	Mention 455 483	this natural class of models
+T2	Mention 28 30	We
+T8	Mention 365 367	We
+T9	Mention 193 196	Our
+*	Coreference T1 T5 T6 T7
+*	Coreference T3 T4
+*	Coreference T2 T9 T8

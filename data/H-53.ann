@@ -1,0 +1,30 @@
+T1	Mention 252 254	it
+T2	Mention 57 65	stemming
+T3	Mention 273 292	this naive strategy
+T4	Mention 333 335	it
+T5	Mention 440 507	a context sensitive stemming method that addresses these two issues
+T7	Mention 536 548	our approach
+T8	Mention 756 768	a query term
+T9	Mention 709 712	its
+T10	Mention 792 801	the query
+T11	Mention 990 1002	our approach
+T12	Mention 1012 1049	a context sensitive document matching
+T13	Mention 1079 1105	This conservative strategy
+T14	Mention 1159 1161	it
+T15	Mention 1269 1290	our stemming approach
+T16	Mention 1427 1461	average Discounted Cumulative Gain
+T17	Mention 1463 1467	DCG5
+T6	Mention 429 431	we
+T18	Mention 621 623	we
+T19	Mention 678 680	We
+T20	Mention 1387 1389	we
+T21	Mention 536 539	our
+T22	Mention 1269 1272	our
+T23	Mention 1292 1295	our
+T24	Mention 990 993	our
+*	Coreference T2 T1 T3 T4
+*	Coreference T5 T7 T11 T15
+*	Coreference T9 T8 T10
+*	Coreference T12 T13 T14
+*	Coreference T16 T17
+*	Coreference T6 T21 T19 T18 T24 T22 T23 T20

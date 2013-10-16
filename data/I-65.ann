@@ -1,0 +1,27 @@
+T1	Mention 106 164	interactive partially observable Markov decision processes
+T2	Mention 166 174	I-POMDPs
+T5	Mention 302 340	interactive dynamic influence diagrams
+T6	Mention 342 348	I-DIDs
+T7	Mention 272 349	These graphical models called interactive dynamic influence diagrams (I-DIDs)
+T10	Mention 468 497	chance and decision variables
+T11	Mention 528 541	the variables
+T12	Mention 543 549	I-DIDs
+T13	Mention 561 626	DIDs, which may be viewed as graphical representations of POMDPs,
+T15	Mention 590 625	graphical representations of POMDPs
+T16	Mention 671 679	I-POMDPs
+T17	Mention 691 697	POMDPs
+T18	Mention 619 625	POMDPs
+T19	Mention 699 705	I-DIDs
+T20	Mention 743 751	an agent
+T21	Mention 762 771	the agent
+T24	Mention 886 892	I-DIDs
+T3	Mention 71 270	a new graphical representation for interactive partially observable Markov decision processes (I-POMDPs) that is significantly more transparent and semantically clear than the previous representation
+T4	Mention 60 62	We
+T8	Mention 874 876	we
+*	Coreference T1 T2 T16
+*	Coreference T5 T6 T7 T12 T19 T24 T3
+*	Coreference T10 T11
+*	Coreference T13 T15
+*	Coreference T18 T17
+*	Coreference T20 T21
+*	Coreference T4 T8

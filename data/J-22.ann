@@ -1,0 +1,20 @@
+T3	Mention 368 372	they
+T4	Mention 322 329	bidders
+T7	Mention 577 584	bidders
+T8	Mention 630 652	the auctioneer problem
+T9	Mention 179 310	the auctioneer problem of risklessly matching up wagers or, equivalently, finding arbitrage opportunities among the proposed wagers
+T10	Mention 667 681	Subset betting
+T11	Mention 986 1000	subset betting
+T13	Mention 689 696	traders
+T14	Mention 1116 1123	traders
+T1	Mention 24 26	We
+T2	Mention 168 170	We
+T5	Mention 511 513	We
+T6	Mention 1245 1247	We
+T12	Mention 1316 1318	We
+T15	Mention 1434 1436	We
+T16	Mention 1002 1004	we
+*	Coreference T4 T3 T7 T13 T14
+*	Coreference T9 T8
+*	Coreference T10 T11
+*	Coreference T1 T2 T5 T16 T6 T12 T15

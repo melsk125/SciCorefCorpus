@@ -1,0 +1,40 @@
+T1	Mention 231 253	combinatorial auctions
+T2	Mention 141 163	combinatorial auctions
+T3	Mention 271 288	The PAUSE auction
+T4	Mention 292 369	one of a few efforts to release the auctioneer from having to do all the work
+T5	Mention 324 338	the auctioneer
+T6	Mention 411 425	the auctioneer
+T7	Mention 428 430	It
+T8	Mention 434 627	an increasing price combinatorial auction that naturally distributes the problem of winner determination amongst the bidders in such a way that they have an incentive to perform the calculation
+T10	Mention 578 582	they
+T11	Mention 547 558	the bidders
+T12	Mention 629 631	It
+T13	Mention 700 711	the bidders
+T14	Mention 720 731	the bidders
+T15	Mention 794 799	PAUSE
+T16	Mention 822 833	the bidders
+T17	Mention 854 856	it
+T18	Mention 878 889	the bidders
+T19	Mention 987 1002	a PAUSE auction
+T20	Mention 972 983	the bidders
+T21	Mention 1004 1018	Our algorithms
+T22	Mention 937 1002	a couple of bidding algorithms for the bidders in a PAUSE auction
+T23	Mention 1064 1076	the bidder's
+T24	Mention 1092 1103	the problem
+T26	Mention 1249 1271	our bidding algorithms
+T25	Mention 1173 1175	it
+T27	Mention 1116 1124	run time
+T28	Mention 1281 1286	their
+T29	Mention 1348 1352	them
+T30	Mention 371 373	it
+T9	Mention 919 921	We
+T31	Mention 1238 1240	we
+T32	Mention 1004 1007	Our
+T33	Mention 1249 1252	our
+*	Coreference T2 T1 T24
+*	Coreference T3 T4 T7 T8 T12 T15 T17 T19 T30
+*	Coreference T5 T6
+*	Coreference T11 T10 T13 T14 T16 T18 T20 T23
+*	Coreference T22 T21 T26 T28 T29
+*	Coreference T27 T25
+*	Coreference T9 T32 T31 T33

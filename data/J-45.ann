@@ -1,0 +1,12 @@
+T1	Mention 242 254	our approach
+T2	Mention 81 101	Our proposed methods
+T3	Mention 333 353	several rule changes
+T4	Mention 409 421	the measures
+T5	Mention 228 230	We
+T6	Mention 697 699	we
+T7	Mention 81 84	Our
+T8	Mention 242 245	our
+T9	Mention 443 446	Our
+*	Coreference T2 T1
+*	Coreference T3 T4
+*	Coreference T7 T8 T9 T5 T6

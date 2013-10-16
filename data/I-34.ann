@@ -1,0 +1,48 @@
+T1	Mention 391 412	virtual organizations
+T2	Mention 263 284	virtual organizations
+T4	Mention 425 528	multi-agent systems, in which human and software agents interact to achieve individual and global goals
+T5	Mention 564 569	norms
+T6	Mention 244 249	norms
+T7	Mention 585 590	their
+T8	Mention 607 612	norms
+T9	Mention 628 634	agents
+T10	Mention 455 480	human and software agents
+T11	Mention 713 718	norms
+T12	Mention 729 734	norms
+T13	Mention 759 780	virtual organizations
+T14	Mention 1131 1152	our proposed solution
+T15	Mention 1023 1126	an approach, based on first-order unification, to detect and resolve such conflicts and inconsistencies
+T16	Mention 875 885	a conflict
+T17	Mention 1097 1106	conflicts
+T18	Mention 985 1001	an inconsistency
+T19	Mention 1111 1126	inconsistencies
+T20	Mention 1246 1256	a conflict
+T21	Mention 1260 1276	an inconsistency
+T22	Mention 1296 1308	Our approach
+T23	Mention 1396 1405	conflicts
+T24	Mention 1406 1421	inconsistencies
+T25	Mention 1371 1378	actions
+T26	Mention 1532 1539	actions
+T27	Mention 1578 1580	it
+T28	Mention 1470 1568	a useful notion of inter-agent (and inter-role) delegation of actions and norms associated to them
+T29	Mention 1592 1601	conflicts
+T30	Mention 1602 1617	inconsistencies
+T31	Mention 1661 1673	our approach
+T34	Mention 77 81	Norm
+T3	Mention 379 381	We
+T32	Mention 1010 1012	We
+T33	Mention 1154 1156	we
+T35	Mention 1455 1457	we
+T36	Mention 1647 1649	We
+T37	Mention 1131 1134	our
+T38	Mention 1296 1299	Our
+T39	Mention 1661 1664	our
+*	Coreference T2 T1 T4 T13
+*	Coreference T6 T5 T7 T8 T11 T12 T34
+*	Coreference T10 T9
+*	Coreference T15 T14 T22 T31
+*	Coreference T16 T17 T20 T23 T29
+*	Coreference T18 T19 T21 T24 T30
+*	Coreference T25 T26
+*	Coreference T28 T27
+*	Coreference T3 T32 T37 T33 T38 T35 T36 T39

@@ -1,0 +1,40 @@
+T1	Mention 54 69	Graphical games
+T2	Mention 256 260	they
+T3	Mention 576 588	this problem
+T4	Mention 350 453	the problem of finding Nash equilibria in a general degree-3 graphical game with two actions per player
+T5	Mention 632 699	graphical games with two actions per player on bounded-degree trees
+T6	Mention 701 713	This setting
+T7	Mention 738 863	Kearns, Littman and Singh, who proposed a dynamic programming-based algorithm that computes all Nash equilibria of such games
+T9	Mention 778 863	a dynamic programming-based algorithm that computes all Nash equilibria of such games
+T11	Mention 853 863	such games
+T12	Mention 885 900	their algorithm
+T13	Mention 885 890	their
+T14	Mention 1036 1050	this algorithm
+T15	Mention 1018 1109	a modification to this algorithm that can find a single Nash equilibrium in polynomial time
+T17	Mention 1124 1147	this modified algorithm
+T18	Mention 1225 1436	a new algorithm that is based on the ideas of Kearns et al. and computes all Nash equilibria in quadratic time if the input graph is a path, and in polynomial time if it is an arbitrary graph of maximum degree 2
+T22	Mention 1448 1461	our algorithm
+T23	Mention 1523 1538	arbitrary trees
+T24	Mention 1591 1599	the tree
+T25	Mention 1788 1801	our algorithm
+T28	Mention 92 176	a game-theoretic model of large-scale distributed networks of non-cooperative agents
+T29	Mention 300 307	players
+T30	Mention 197 204	players
+T8	Mention 1271 1284	Kearns et al.
+T10	Mention 605 607	we
+T16	Mention 1111 1113	We
+T19	Mention 1209 1211	We
+T20	Mention 1620 1622	We
+T21	Mention 1858 1860	we
+T26	Mention 1448 1451	our
+T27	Mention 1788 1791	our
+*	Coreference T1 T2 T28
+*	Coreference T4 T3
+*	Coreference T6 T5 T11
+*	Coreference T7 T13 T8
+*	Coreference T9 T12 T14
+*	Coreference T15 T17
+*	Coreference T18 T22 T25
+*	Coreference T23 T24
+*	Coreference T30 T29
+*	Coreference T26 T27 T10 T16 T19 T20 T21

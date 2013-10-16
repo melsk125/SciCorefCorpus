@@ -1,0 +1,24 @@
+T5	Mention 570 574	them
+T6	Mention 495 501	agents
+T7	Mention 459 487	A compound securities market
+T8	Mention 641 651	the market
+T9	Mention 779 786	agents'
+T10	Mention 866 894	a compound securities market
+T11	Mention 1282 1293	the problem
+T12	Mention 1000 1033	the auctioneer's matching problem
+T13	Mention 1064 1084	the matching problem
+T1	Mention 125 254	compound securities: financial instruments that pay off contingent on the outcomes of arbitrary statements in propositional logic
+T2	Mention 146 254	financial instruments that pay off contingent on the outcomes of arbitrary statements in propositional logic
+T3	Mention 461 480	compound securities
+T4	Mention 868 887	compound securities
+T14	Mention 87 89	We
+T15	Mention 827 829	We
+T16	Mention 974 976	We
+T17	Mention 1035 1037	We
+T18	Mention 1168 1170	We
+T19	Mention 1371 1373	We
+*	Coreference T6 T5 T9
+*	Coreference T7 T8 T10 T4
+*	Coreference T11 T12 T13
+*	Coreference T1 T2 T3
+*	Coreference T14 T15 T16 T17 T18 T19

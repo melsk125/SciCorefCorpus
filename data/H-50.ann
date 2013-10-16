@@ -1,0 +1,11 @@
+T1	Mention 284 312	the rank aggregation problem
+T2	Mention 326 345	data fusion problem
+T3	Mention 761 780	the proposed method
+T4	Mention 520 545	a rank aggregation method
+T5	Mention 892 912	the suggested method
+T6	Mention 272 274	we
+T7	Mention 509 511	we
+T8	Mention 748 750	We
+*	Coreference T1 T2
+*	Coreference T4 T3 T5
+*	Coreference T6 T7 T8

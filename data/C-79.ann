@@ -1,0 +1,9 @@
+T1	Mention 135 190	designing robust P2P system over mobile ad-hoc networks
+T2	Mention 192 202	The design
+T3	Mention 336 352	these primitives
+T4	Mention 215 329	simple functional primitives that allow routing at both P2P and network layers to be integrated to reduce overhead
+T6	Mention 354 363	the paper
+T7	Mention 88 98	This paper
+*	Coreference T1 T2
+*	Coreference T4 T3
+*	Coreference T7 T6

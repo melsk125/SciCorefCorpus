@@ -1,0 +1,25 @@
+T1	Mention 158 169	Advertisers
+T2	Mention 255 266	Advertisers
+T5	Mention 333 338	their
+T6	Mention 390 512	a family of ranking rules that contains those typically used to model Yahoo! and Google's auction designs as special cases
+T8	Mention 430 435	those
+T9	Mention 402 415	ranking rules
+T10	Mention 460 495	Yahoo! and Google's auction designs
+T11	Mention 549 554	these
+T12	Mention 812 822	our family
+T13	Mention 743 898	a simple approach to determine a revenue-optimal ranking rule within our family, taking into account effects on advertiser satisfaction and user experience
+T14	Mention 914 926	the approach
+T3	Mention 460 466	Yahoo!
+T4	Mention 990 996	Yahoo!
+T7	Mention 378 380	We
+T15	Mention 514 516	We
+T16	Mention 732 734	We
+T17	Mention 900 902	We
+T18	Mention 812 815	our
+*	Coreference T1 T2 T5
+*	Coreference T6 T12
+*	Coreference T9 T8
+*	Coreference T11 T10
+*	Coreference T13 T14
+*	Coreference T3 T4
+*	Coreference T7 T15 T16 T17 T18

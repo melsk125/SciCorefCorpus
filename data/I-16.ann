@@ -1,0 +1,43 @@
+T1	Mention 98 341	an advanced bidding agent that participates in first-price sealed bid auctions to allocate advertising space on BluScreen -- an experimental public advertisement system that detects users through the presence of their Bluetooth enabled devices
+T3	Mention 210 341	BluScreen -- an experimental public advertisement system that detects users through the presence of their Bluetooth enabled devices
+T4	Mention 223 341	an experimental public advertisement system that detects users through the presence of their Bluetooth enabled devices
+T6	Mention 280 285	users
+T7	Mention 310 315	their
+T8	Mention 343 360	Our bidding agent
+T9	Mention 474 476	it
+T10	Mention 456 468	the auctions
+T11	Mention 490 496	within
+T12	Mention 498 500	It
+T13	Mention 511 523	these models
+T14	Mention 372 398	build probabilistic models
+T15	Mention 554 557	its
+T16	Mention 439 450	the adverts
+T17	Mention 554 565	its adverts
+T18	Mention 608 626	this bidding agent
+T19	Mention 815 832	Our bidding agent
+T20	Mention 864 891	the simple bidding strategy
+T21	Mention 708 733	a simple bidding strategy
+T22	Mention 896 917	the random allocation
+T23	Mention 735 752	random allocation
+T24	Mention 955 957	it
+T25	Mention 976 987	its adverts
+T26	Mention 976 979	its
+T27	Mention 1011 1038	the simple bidding strategy
+T28	Mention 1050 1053	its
+T29	Mention 758 813	a centralised optimal allocation with perfect foresight
+T30	Mention 1092 1126	the centralised optimal allocation
+T33	Mention 1177 1179	it
+T2	Mention 87 89	we
+T5	Mention 575 577	We
+T31	Mention 343 346	Our
+T32	Mention 815 818	Our
+*	Coreference T1 T8 T9 T12 T15 T18 T19 T24 T26 T28 T33
+*	Coreference T3 T4
+*	Coreference T6 T7
+*	Coreference T10 T11
+*	Coreference T14 T13
+*	Coreference T17 T16 T25
+*	Coreference T21 T20 T27
+*	Coreference T23 T22
+*	Coreference T29 T30
+*	Coreference T2 T31 T5 T32

@@ -1,0 +1,8 @@
+T3	Mention 491 514	optimal pairwise trades
+T4	Mention 559 571	those trades
+T1	Mention 77 79	We
+T2	Mention 318 320	We
+T5	Mention 573 575	We
+T6	Mention 720 722	we
+*	Coreference T3 T4
+*	Coreference T1 T2 T5 T6

@@ -1,0 +1,19 @@
+T1	Mention 107 255	an argumentation framework for learning agents (AMAL) designed for two purposes: (1) for joint deliberation, and (2) for learning from communication
+T2	Mention 155 159	AMAL
+T3	Mention 257 275	The AMAL framework
+T4	Mention 481 496	learning agents
+T5	Mention 503 508	their
+T8	Mention 462 479	join deliberation
+T9	Mention 196 214	joint deliberation
+T10	Mention 708 735	learning from communication
+T11	Mention 228 255	learning from communication
+T12	Mention 806 809	its
+T13	Mention 737 745	an agent
+T6	Mention 91 93	we
+T7	Mention 579 581	We
+*	Coreference T1 T2 T3
+*	Coreference T4 T5
+*	Coreference T8 T9
+*	Coreference T11 T10
+*	Coreference T13 T12
+*	Coreference T6 T7

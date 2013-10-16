@@ -1,0 +1,30 @@
+T1	Mention 211 216	value
+T2	Mention 237 242	value
+T7	Mention 286 297	all parties
+T8	Mention 384 395	the parties
+T13	Mention 890 908	conflict theorists
+T14	Mention 125 143	conflict theorists
+T15	Mention 939 962	the negotiating parties
+T16	Mention 1009 1014	their
+T17	Mention 1230 1247	simple attributes
+T18	Mention 1155 1172	simple attributes
+T19	Mention 1249 1261	the mediator
+T20	Mention 917 927	a mediator
+T21	Mention 1498 1515	simple attributes
+T22	Mention 672 683	joint gains
+T23	Mention 1560 1571	joint gains
+T24	Mention 1608 1619	the parties
+T3	Mention 634 636	we
+T4	Mention 910 912	We
+T5	Mention 1094 1096	We
+T6	Mention 1213 1215	we
+T9	Mention 1315 1317	we
+T10	Mention 1517 1519	We
+*	Coreference T2 T1
+*	Coreference T8 T7
+*	Coreference T14 T13
+*	Coreference T15 T16 T24
+*	Coreference T18 T17 T21
+*	Coreference T20 T19
+*	Coreference T23 T22
+*	Coreference T3 T4 T5 T6 T9 T10

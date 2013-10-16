@@ -1,0 +1,24 @@
+T1	Mention 126 129	his
+T2	Mention 89 97	a player
+T3	Mention 190 193	his
+T4	Mention 366 368	he
+T5	Mention 297 305	a player
+T7	Mention 380 387	himself
+T8	Mention 575 614	these types of (conditional) commitment
+T9	Mention 619 624	their
+T10	Mention 685 708	conditional commitments
+T11	Mention 738 749	the players
+T12	Mention 755 760	their
+T13	Mention 801 1006	the notion of an extortion, which we define, for a given order of the players, as a profile that contains, for each player, an optimal commitment given the commitments of the players that committed earlier
+T15	Mention 774 797	Central to our analyses
+T6	Mention 539 541	We
+T14	Mention 710 712	we
+T16	Mention 835 837	we
+T17	Mention 1023 1025	we
+T18	Mention 785 788	our
+*	Coreference T8 T9 T10
+*	Coreference T11 T12
+*	Coreference T13 T15
+*	Coreference T2 T1 T3
+*	Coreference T5 T4 T7
+*	Coreference T6 T14 T16 T17 T18

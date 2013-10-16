@@ -1,0 +1,13 @@
+T3	Mention 246 250	they
+T6	Mention 107 128	probability estimates
+T7	Mention 427 452	the probability estimates
+T8	Mention 567 583	text classifiers
+T9	Mention 868 880	these models
+T10	Mention 624 634	new models
+T1	Mention 80 128	Text classifiers that give probability estimates
+T2	Mention 961 973	these models
+T4	Mention 465 467	We
+T5	Mention 825 827	we
+*	Coreference T6 T7 T8 T3 T1
+*	Coreference T10 T9 T2
+*	Coreference T4 T5

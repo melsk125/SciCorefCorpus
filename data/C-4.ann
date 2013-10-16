@@ -1,0 +1,35 @@
+T1	Mention 280 285	voice
+T2	Mention 204 209	voice
+T3	Mention 560 564	loss
+T4	Mention 435 450	the packet loss
+T8	Mention 910 945	low-compressing sample-based codecs
+T9	Mention 947 950	PCM
+T10	Mention 1078 1113	high-compressing frame-based codecs
+T11	Mention 1115 1120	G.729
+T12	Mention 1261 1275	coding schemes
+T13	Mention 957 973	loss concealment
+T14	Mention 1292 1308	loss concealment
+T15	Mention 1590 1601	packet loss
+T16	Mention 1760 1776	loss concealment
+T17	Mention 217 236	the loss of packets
+T18	Mention 516 528	some packets
+T19	Mention 568 572	they
+T5	Mention 654 656	We
+T6	Mention 893 895	we
+T7	Mention 1356 1375	sample-based codecs
+T20	Mention 1376 1378	we
+T21	Mention 1393 1404	concealment
+T22	Mention 1476 1478	We
+T23	Mention 1492 1601	mechanisms which differentiate between packets within a voice data flow to minimize the impact of packet loss
+T24	Mention 1616 1629	these methods
+T25	Mention 1633 1669	intra-flow loss recovery and control
+T26	Mention 1603 1605	We
+T27	Mention 2104 2106	We
+*	Coreference T1 T2
+*	Coreference T4 T3 T15 T17
+*	Coreference T8 T9 T7
+*	Coreference T10 T11 T12
+*	Coreference T14 T13 T16 T21
+*	Coreference T18 T19
+*	Coreference T5 T6 T20 T22 T26 T27
+*	Coreference T23 T24 T25

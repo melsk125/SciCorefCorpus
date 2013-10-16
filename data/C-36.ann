@@ -1,0 +1,11 @@
+T1	Mention 507 662	a secure multi-domain publish/subscribe infrastructure that supports and enforces fine-grained access control over the individual attributes of event types
+T3	Mention 387 398	the network
+T4	Mention 760 771	the network
+T5	Mention 966 978	our approach
+T6	Mention 1107 1133	publish/subscribe networks
+T2	Mention 773 775	We
+T7	Mention 966 969	our
+T8	Mention 953 955	We
+*	Coreference T1 T5
+*	Coreference T3 T4 T6
+*	Coreference T2 T8 T7

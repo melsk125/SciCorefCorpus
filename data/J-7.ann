@@ -1,0 +1,30 @@
+T3	Mention 230 280	a limited amount of compatibility with one another
+T4	Mention 656 677	limited compatibility
+T5	Mention 474 489	this phenomenon
+T6	Mention 782 797	this phenomenon
+T11	Mention 1111 1112	A
+T12	Mention 939 957	a new technology A
+T13	Mention 1038 1050	technology B
+T14	Mention 1117 1118	B
+T17	Mention 1185 1186	A
+T18	Mention 1194 1195	B
+T19	Mention 1234 1235	A
+T20	Mention 1240 1241	B
+T21	Mention 1278 1279	A
+T22	Mention 1306 1309	its
+T23	Mention 1330 1331	B
+T24	Mention 1342 1379	this additional cost of adopting both
+T25	Mention 1206 1219	an extra cost
+T26	Mention 1547 1585	the cost of adopting both technologies
+T7	Mention 956 957	A
+T8	Mention 1049 1050	B
+T1	Mention 625 627	we
+T2	Mention 1052 1054	We
+T9	Mention 1243 1245	We
+T10	Mention 1640 1642	We
+T15	Mention 825 828	Our
+*	Coreference T3 T4 T5 T6
+*	Coreference T11 T12 T17 T19 T21 T22 T7
+*	Coreference T13 T14 T18 T20 T23 T8
+*	Coreference T25 T24 T26
+*	Coreference T1 T2 T9 T10 T15

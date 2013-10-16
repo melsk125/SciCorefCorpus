@@ -1,0 +1,12 @@
+T1	Mention 455 570	a major obstacle, the idle time of faster servers having to wait for the slowest server to deliver the final block,
+T2	Mention 473 569	the idle time of faster servers having to wait for the slowest server to deliver the final block
+T3	Mention 679 758	a dynamic coallocation scheme, namely Recursive-Adjustment Co-Allocation scheme
+T4	Mention 717 758	Recursive-Adjustment Co-Allocation scheme
+T5	Mention 819 831	Our approach
+T6	Mention 840 890	the idle time spent waiting for the slowest server
+T7	Mention 668 670	we
+T8	Mention 819 822	Our
+T9	Mention 936 938	We
+*	Coreference T2 T1 T6
+*	Coreference T3 T4 T5
+*	Coreference T7 T8 T9

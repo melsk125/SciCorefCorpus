@@ -1,0 +1,33 @@
+T1	Mention 105 158	ι, a novel index for evaluation of point-distribution
+T2	Mention 108 158	a novel index for evaluation of point-distribution
+T3	Mention 160 161	ι
+T4	Mention 165 276	the minimum distance between each pair of points normalized by the average distance between each pair of points
+T5	Mention 390 391	ι
+T7	Mention 516 540	wireless sensor networks
+T8	Mention 542 546	WSNs
+T9	Mention 623 627	WSNs
+T10	Mention 339 340	ι
+T11	Mention 697 698	ι
+T12	Mention 585 627	a general sensor-grouping problem for WSNs
+T13	Mention 743 755	this problem
+T14	Mention 761 815	an algorithm called Maximizing-ι Node-Deduction (MIND)
+T15	Mention 781 808	Maximizing-ι Node-Deduction
+T16	Mention 810 814	MIND
+T17	Mention 848 852	MIND
+T20	Mention 977 978	ι
+T21	Mention 487 547	coverage-related problems in wireless sensor networks (WSNs)
+T22	Mention 982 1016	coverage-related problems for WSNs
+T23	Mention 1012 1016	WSNs
+T24	Mention 94 96	We
+T25	Mention 278 280	We
+T26	Mention 374 376	We
+T6	Mention 405 547	a good index to evaluate the distribution of the points, which can be employed in coverage-related problems in wireless sensor networks (WSNs)
+T27	Mention 572 574	we
+T28	Mention 665 667	We
+T18	Mention 916 918	we
+*	Coreference T1 T2 T3 T4 T5 T10 T11 T20 T6
+*	Coreference T7 T8 T9 T23
+*	Coreference T12 T13
+*	Coreference T14 T15 T16 T17
+*	Coreference T21 T22
+*	Coreference T24 T25 T26 T27 T28 T18

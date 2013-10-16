@@ -1,0 +1,16 @@
+T1	Mention 297 315	quality of service
+T2	Mention 317 320	QoS
+T3	Mention 144 192	distributed real-time and embedded (DRE) systems
+T4	Mention 456 467	DRE systems
+T5	Mention 523 572	the Hybrid Adaptive Resourcemanagement Middleware
+T6	Mention 574 579	HyARM
+T7	Mention 582 587	which
+T10	Mention 768 773	HyARM
+T13	Mention 880 885	HyARM
+T8	Mention 476 478	we
+T9	Mention 731 733	we
+T11	Mention 854 857	Our
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T5 T6 T7 T10 T13
+*	Coreference T8 T9 T11

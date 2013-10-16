@@ -1,0 +1,17 @@
+T3	Mention 334 346	recommenders
+T4	Mention 100 119	Recommender systems
+T7	Mention 629 823	three roles -- scouts, promoters, and connectors -- that capture how users receive recommendations, how items get recommended, and how ratings of these two types are themselves connected (resp.)
+T9	Mention 825 836	These roles
+T12	Mention 1016 1020	they
+T13	Mention 979 989	the system
+T16	Mention 1261 1271	the system
+T17	Mention 1315 1337	the three rating roles
+T18	Mention 1388 1408	a recommender system
+T19	Mention 1413 1416	its
+T1	Mention 362 364	We
+T2	Mention 616 618	we
+T5	Mention 1301 1303	We
+T6	Mention 505 507	us
+*	Coreference T4 T3 T13 T16 T18 T19
+*	Coreference T7 T9 T12 T17
+*	Coreference T1 T6 T2 T5

@@ -1,0 +1,13 @@
+T1	Mention 169 321	an online metrics collection strategy to facilitate application adaptation via object mobility using a mobile object framework and supporting middleware
+T2	Mention 323 335	The solution
+T5	Mention 548 560	the solution
+T6	Mention 441 448	metrics
+T7	Mention 662 669	metrics
+T9	Mention 722 762	the basis for implementation and testing
+T10	Mention 690 709	The MobJeX platform
+T11	Mention 531 560	A key feature of the solution
+T12	Mention 564 688	the specification of multiple configurable criteria to control the measurement and propagation of metrics through the system
+*	Coreference T1 T2 T5
+*	Coreference T6 T7
+*	Coreference T9 T10
+*	Coreference T11 T12

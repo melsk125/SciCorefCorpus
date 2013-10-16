@@ -1,0 +1,37 @@
+T1	Mention 135 150	relevant events
+T2	Mention 152 171	the relevant events
+T3	Mention 239 364	An important causality-related distributed computing problem, that we call the Immediate Predecessors Tracking (IPT) problem,
+T4	Mention 314 363	the Immediate Predecessors Tracking (IPT) problem
+T5	Mention 318 349	Immediate Predecessors Tracking
+T6	Mention 351 354	IPT
+T11	Mention 509 512	its
+T12	Mention 394 413	each relevant event
+T13	Mention 562 565	IPT
+T14	Mention 569 708	the on-the-fly computation of the transitive reduction (i.e., Hasse diagram) of the causality relation defined by a distributed computation
+T15	Mention 631 644	Hasse diagram
+T16	Mention 603 623	transitive reduction
+T17	Mention 731 746	the IPT problem
+T18	Mention 710 720	This paper
+T19	Mention 748 750	it
+T20	Mention 760 883	a family of protocols that provides each relevant event with a timestamp that exactly identifies its immediate predecessors
+T22	Mention 857 860	its
+T23	Mention 796 815	each relevant event
+T24	Mention 885 895	The family
+T25	Mention 910 1054	a general condition that allows application messages to piggyback control information whose size can be smaller than n (the number of processes)
+T27	Mention 942 962	application messages
+T28	Mention 996 1001	whose
+T29	Mention 1027 1028	n
+T30	Mention 1030 1053	the number of processes
+T31	Mention 1071 1082	this family
+T33	Mention 1150 1171	the general condition
+T36	Mention 176 236	a subset of the primitive events produced by the computation
+*	Coreference T1 T2 T36
+*	Coreference T5 T6 T3 T4 T13 T14 T17
+*	Coreference T12 T11
+*	Coreference T16 T15
+*	Coreference T18 T19
+*	Coreference T20 T24 T31
+*	Coreference T23 T22
+*	Coreference T25 T33
+*	Coreference T27 T28
+*	Coreference T29 T30

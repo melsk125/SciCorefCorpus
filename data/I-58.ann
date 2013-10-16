@@ -1,0 +1,41 @@
+T1	Mention 109 202	security, commonly defined as the ability to deal with intentional threats from other agents,
+T2	Mention 206 222	a critical issue
+T3	Mention 139 201	the ability to deal with intentional threats from other agents
+T4	Mention 246 303	domains where these threats come from unknown adversaries
+T6	Mention 260 273	these threats
+T7	Mention 164 201	intentional threats from other agents
+T8	Mention 305 318	These domains
+T10	Mention 403 413	such games
+T11	Mention 337 351	Bayesian games
+T14	Mention 528 531	its
+T15	Mention 481 490	one agent
+T16	Mention 568 573	their
+T17	Mention 528 543	its adversaries
+T18	Mention 604 613	the agent
+T19	Mention 737 763	optimal strategy selection
+T20	Mention 721 763	this problem of optimal strategy selection
+T21	Mention 801 874	a heuristic called ASAP, with three key advantages to address the problem
+T22	Mention 820 824	ASAP
+T23	Mention 863 874	the problem
+T24	Mention 883 887	ASAP
+T25	Mention 977 979	it
+T28	Mention 1076 1078	it
+T31	Mention 1164 1166	it
+T32	Mention 1300 1328	Mixed Integer Linear Program
+T33	Mention 1330 1334	MILP
+T34	Mention 1355 1359	ASAP
+T5	Mention 436 588	the case in multiagent security domains that one agent can commit to a mixed strategy which its adversaries observe before choosing their own strategies
+T9	Mention 593 602	this case
+T12	Mention 790 792	we
+T13	Mention 1276 1278	We
+*	Coreference T1 T2 T3
+*	Coreference T4 T8
+*	Coreference T7 T6
+*	Coreference T11 T10
+*	Coreference T15 T14 T18
+*	Coreference T17 T16
+*	Coreference T20 T19 T23
+*	Coreference T21 T22 T24 T25 T28 T31 T34
+*	Coreference T32 T33
+*	Coreference T5 T9
+*	Coreference T12 T13

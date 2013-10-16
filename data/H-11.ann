@@ -1,0 +1,38 @@
+T1	Mention 67 146	a powerful technique to enhance ContentBased Image Retrieval (CBIR) performance
+T2	Mention 45 63	Relevance feedback
+T3	Mention 99 127	ContentBased Image Retrieval
+T4	Mention 129 133	CBIR
+T5	Mention 227 243	the CBIR systems
+T6	Mention 245 253	The user
+T7	Mention 160 168	the user
+T8	Mention 557 561	they
+T9	Mention 467 483	unlabeled images
+T10	Mention 631 743	a novel active learning algorithm, called Laplacian Optimal Design (LOD), for relevance feedback image retrieval
+T11	Mention 673 697	Laplacian Optimal Design
+T12	Mention 699 702	LOD
+T13	Mention 745 758	Our algorithm
+T16	Mention 979 989	two images
+T17	Mention 1033 1038	their
+T18	Mention 1438 1459	the proposed approach
+T19	Mention 709 743	relevance feedback image retrieval
+T20	Mention 1489 1523	relevance feedback image retrieval
+T21	Mention 1155 1170	the image space
+T22	Mention 930 945	the image space
+T23	Mention 620 622	we
+T14	Mention 961 963	we
+T15	Mention 745 748	Our
+T24	Mention 1212 1214	We
+T25	Mention 1195 1200	graph
+T26	Mention 1100 1124	a nearest neighbor graph
+T27	Mention 1302 1305	our
+T28	Mention 1351 1353	us
+*	Coreference T2 T1
+*	Coreference T3 T4 T5
+*	Coreference T7 T6
+*	Coreference T9 T8
+*	Coreference T10 T11 T12 T13 T18
+*	Coreference T16 T17
+*	Coreference T19 T20
+*	Coreference T22 T21
+*	Coreference T26 T25
+*	Coreference T23 T15 T14 T24 T27 T28

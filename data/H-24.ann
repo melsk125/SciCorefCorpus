@@ -1,0 +1,23 @@
+T1	Mention 162 167	their
+T2	Mention 97 139	all users of commercial Web search engines
+T4	Mention 267 281	this knowledge
+T5	Mention 293 301	everyone
+T6	Mention 350 378	advanced search engine users
+T8	Mention 428 456	how these user groups search
+T9	Mention 206 247	those users with greater search expertise
+T10	Mention 583 612	users we classify as advanced
+T7	Mention 384 405	those not so advanced
+T11	Mention 666 698	those classified as non-advanced
+T12	Mention 739 753	advanced users
+T13	Mention 781 786	their
+T14	Mention 805 810	their
+T15	Mention 846 880	searchers of all experience levels
+T16	Mention 317 319	we
+T17	Mention 589 591	we
+T18	Mention 623 628	their
+T19	Mention 700 703	Our
+*	Coreference T2 T1 T5 T15
+*	Coreference T4 T8
+*	Coreference T9 T6 T10 T12 T13 T14 T18
+*	Coreference T7 T11
+*	Coreference T16 T17 T19

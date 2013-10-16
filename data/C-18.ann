@@ -1,0 +1,37 @@
+T1	Mention 79 90	The Slammer
+T2	Mention 111 156	the fastest computer worm in recorded history
+T3	Mention 92 97	which
+T4	Mention 275 291	the Slammer worm
+T5	Mention 345 351	itself
+T6	Mention 254 297	the main action that the Slammer worm takes
+T7	Mention 301 351	a relatively unsophisticated replication of itself
+T8	Mention 353 355	it
+T9	Mention 531 546	such strategies
+T10	Mention 418 458	Most proposed countermeasures strategies
+T13	Mention 770 785	such techniques
+T14	Mention 844 958	a new generation of worms called Swarm Worms, whose behavior is predicated on the concept of emergent intelligence
+T16	Mention 960 981	Emergent Intelligence
+T17	Mention 937 958	emergent intelligence
+T18	Mention 1284 1295	Swarm Worms
+T19	Mention 1455 1498	one such swarm worm, called the ZachiK worm
+T20	Mention 1483 1498	the ZachiK worm
+T21	Mention 1518 1524	ZachiK
+T23	Mention 40 78	Malware Exhibiting Swarm-Like Behavior
+T11	Mention 648 655	Slammer
+T12	Mention 660 663	our
+T22	Mention 670 672	we
+T24	Mention 824 826	we
+T15	Mention 985 1205	the behavior of systems, very much like biological systems such as ants or bees, where simple local interactions of autonomous members, with simple primitive actions, gives rise to complex and intelligent global behavior
+T25	Mention 1226 1228	we
+T26	Mention 1390 1392	we
+T27	Mention 1500 1502	We
+T28	Mention 1554 1635	a rate 2 orders of magnitude faster than similar worms without swarm capabilities
+T29	Mention 1429 1498	the propagation speeds of one such swarm worm, called the ZachiK worm
+*	Coreference T1 T2 T3 T4 T5 T8 T11
+*	Coreference T6 T7
+*	Coreference T9 T10 T13
+*	Coreference T14 T18 T23
+*	Coreference T17 T16 T15
+*	Coreference T19 T20 T21
+*	Coreference T12 T22 T24 T25 T26 T27
+*	Coreference T29 T28

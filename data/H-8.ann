@@ -1,0 +1,20 @@
+T1	Mention 80 99	relevance judgments
+T2	Mention 231 240	judgments
+T3	Mention 248 263	these judgments
+T4	Mention 328 332	they
+T5	Mention 437 446	judgments
+T8	Mention 726 737	this method
+T9	Mention 481 509	an evaluation of new systems
+T10	Mention 951 976	evaluation of new systems
+T11	Mention 373 384	new systems
+T12	Mention 498 509	new systems
+T13	Mention 965 976	new systems
+T6	Mention 598 718	a method for augmenting a set of relevance judgments with relevance estimates that require no additional assessor effort
+T7	Mention 400 402	we
+T14	Mention 582 584	We
+T15	Mention 843 845	we
+*	Coreference T1 T2 T3 T4 T5
+*	Coreference T10 T9
+*	Coreference T11 T12 T13
+*	Coreference T6 T8
+*	Coreference T7 T14 T15

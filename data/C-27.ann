@@ -1,0 +1,23 @@
+T1	Mention 306 351	a novel localization system, called Spotlight
+T2	Mention 342 351	Spotlight
+T3	Mention 353 363	Our system
+T4	Mention 483 495	sensor nodes
+T5	Mention 606 622	the sensor nodes
+T6	Mention 698 708	our system
+T7	Mention 1149 1174	the wireless sensor nodes
+T8	Mention 1035 1039	this
+T9	Mention 1043 1208	the first report of a sub-meter localization error, obtained in an outdoor environment, without equipping the wireless sensor nodes with specialized ranging hardware
+T10	Mention 1063 1093	a sub-meter localization error
+T11	Mention 826 851	a 20cm localization error
+T12	Mention 253 255	we
+T13	Mention 353 356	Our
+T14	Mention 497 499	We
+T15	Mention 667 669	We
+T16	Mention 698 701	our
+T17	Mention 1020 1023	our
+T18	Mention 816 818	we
+*	Coreference T1 T2 T3 T6
+*	Coreference T5 T4 T7
+*	Coreference T8 T9
+*	Coreference T11 T10
+*	Coreference T12 T13 T14 T15 T16 T17 T18

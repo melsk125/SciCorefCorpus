@@ -1,0 +1,12 @@
+T1	Mention 333 344	the network
+T2	Mention 440 451	the network
+T3	Mention 333 376	the network's primitive system of contracts
+T4	Mention 688 710	the contracting system
+T7	Mention 428 430	we
+T8	Mention 560 562	we
+T9	Mention 725 727	we
+T10	Mention 852 855	Our
+T5	Mention 905 907	we
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T7 T8 T9 T10 T5

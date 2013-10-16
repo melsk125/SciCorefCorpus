@@ -1,0 +1,13 @@
+T3	Mention 156 160	Jobs
+T4	Mention 65 78	A set of jobs
+T5	Mention 218 223	their
+T6	Mention 239 247	The jobs
+T7	Mention 254 259	their
+T8	Mention 390 400	Our axioms
+T9	Mention 373 388	fairness axioms
+T10	Mention 438 442	jobs
+T1	Mention 313 315	We
+T2	Mention 390 393	Our
+*	Coreference T4 T3 T5 T6 T7 T10
+*	Coreference T9 T8
+*	Coreference T1 T2

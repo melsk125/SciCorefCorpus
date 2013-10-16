@@ -1,0 +1,17 @@
+T3	Mention 312 342	cross-lingual query suggestion
+T4	Mention 344 348	CLQS
+T5	Mention 478 514	cross-language information retrieval
+T6	Mention 516 520	CLIR
+T7	Mention 655 659	CLQS
+T8	Mention 1014 1039	the resulting CLQS system
+T9	Mention 1138 1156	the resulting CLQS
+T10	Mention 1272 1313	the traditional query translation methods
+T11	Mention 611 650	existing query translation technologies
+T1	Mention 296 298	we
+T2	Mention 380 382	we
+T12	Mention 661 663	we
+*	Coreference T3 T4 T7
+*	Coreference T5 T6
+*	Coreference T8 T9
+*	Coreference T11 T10
+*	Coreference T1 T2 T12

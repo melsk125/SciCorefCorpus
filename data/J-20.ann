@@ -1,0 +1,50 @@
+T1	Mention 134 139	their
+T2	Mention 114 120	agents
+T3	Mention 184 189	their
+T4	Mention 228 244	cycles of agents
+T5	Mention 302 311	the cycle
+T7	Mention 332 495	the upcoming national kidney-exchange market, where patients with kidney disease can obtain compatible donors by swapping their own willing but incompatible donors
+T9	Mention 454 459	their
+T10	Mention 384 412	patients with kidney disease
+T11	Mention 571 582	this market
+T12	Mention 891 898	a cycle
+T13	Mention 797 804	a cycle
+T14	Mention 695 715	The clearing problem
+T15	Mention 1045 1099	the clearing problem with this cycle-length constraint
+T16	Mention 1120 1122	it
+T17	Mention 1134 1203	one of the main challenges in establishing a national kidney exchange
+T19	Mention 1364 1372	the task
+T20	Mention 1440 1506	techniques that dramatically improve both runtime and memory usage
+T22	Mention 1525 1542	column generation
+T23	Mention 1400 1417	column generation
+T24	Mention 1574 1595	constraint generation
+T25	Mention 1374 1395	constraint generation
+T26	Mention 1597 1610	Our algorithm
+T27	Mention 1694 1707	Our algorithm
+T28	Mention 1752 1821	the Alliance for Paired Donation, one of the leading kidney exchanges
+T29	Mention 1786 1821	one of the leading kidney exchanges
+T30	Mention 1216 1291	the first algorithm capable of clearing these markets on a nationwide scale
+T31	Mention 1893 1910	our optimizations
+T6	Mention 1726 1821	the clearing algorithm of the Alliance for Paired Donation, one of the leading kidney exchanges
+T8	Mention 313 315	We
+T18	Mention 1031 1033	We
+T21	Mention 1205 1207	We
+T32	Mention 1337 1339	We
+T33	Mention 1429 1431	we
+T34	Mention 1508 1510	We
+T35	Mention 1597 1600	Our
+T36	Mention 1694 1697	Our
+T37	Mention 1893 1896	our
+*	Coreference T2 T1 T3
+*	Coreference T4 T5
+*	Coreference T7 T11
+*	Coreference T10 T9
+*	Coreference T13 T12
+*	Coreference T14 T15 T16
+*	Coreference T17 T19
+*	Coreference T23 T22
+*	Coreference T25 T24
+*	Coreference T28 T29
+*	Coreference T20 T31
+*	Coreference T26 T27 T30 T6
+*	Coreference T18 T21 T8 T32 T33 T34 T35 T36 T37

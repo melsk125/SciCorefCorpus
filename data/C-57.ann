@@ -1,0 +1,33 @@
+T1	Mention 77 283	a new class of games, congestion games with load-dependent failures (CGLFs), which generalizes the well-known class of congestion games, by incorporating the issue of resource failures into congestion games
+T2	Mention 99 144	congestion games with load-dependent failures
+T3	Mention 146 151	CGLFs
+T5	Mention 172 212	the well-known class of congestion games
+T6	Mention 267 283	congestion games
+T7	Mention 290 294	CGLF
+T8	Mention 494 497	his
+T9	Mention 463 466	his
+T10	Mention 397 407	Each agent
+T11	Mention 526 534	an agent
+T12	Mention 561 564	his
+T13	Mention 649 651	he
+T14	Mention 658 663	CGLFs
+T15	Mention 511 534	The utility of an agent
+T16	Mention 538 656	the difference between his benefit from successful task completion and the sum of the costs over the resources he uses
+T17	Mention 692 694	It
+T18	Mention 808 824	congestion games
+T19	Mention 698 824	the first model to incorporate failures into congestion settings, which results in a strict generalization of congestion games
+T20	Mention 839 841	it
+T21	Mention 845 1018	the first model to consider load-dependent failures in such framework, where the failure probability of each resource depends on the number of agents selecting this resource
+T22	Mention 949 962	each resource
+T23	Mention 1005 1018	this resource
+T24	Mention 1042 1047	CGLFs
+T4	Mention 67 69	We
+T25	Mention 1033 1035	we
+T26	Mention 1144 1147	our
+*	Coreference T1 T2 T3 T7 T14 T17 T19 T20 T21 T24
+*	Coreference T5 T6 T18
+*	Coreference T10 T9 T8
+*	Coreference T11 T12 T13
+*	Coreference T15 T16
+*	Coreference T22 T23
+*	Coreference T4 T25 T26

@@ -1,0 +1,30 @@
+T1	Mention 52 103	Agents that must reach agreements with other agents
+T3	Mention 91 103	other agents
+T4	Mention 205 211	others
+T5	Mention 256 261	their
+T6	Mention 307 327	judgment aggregation
+T7	Mention 493 513	judgment aggregation
+T8	Mention 582 731	a modal logic that is intended to support reasoning about judgment aggregation scenarios (and hence, as a special case, about preference aggregation)
+T10	Mention 733 753	the logical language
+T11	Mention 781 807	judgment aggregation rules
+T12	Mention 859 869	such rules
+T13	Mention 884 893	the logic
+T16	Mention 1116 1125	the logic
+T17	Mention 1127 1136	The logic
+T18	Mention 1191 1327	a general framework for comparing the logical properties of different types of aggregation -- including classical preference aggregation
+T19	Mention 1295 1327	classical preference aggregation
+T20	Mention 537 569	classical preference aggregation
+T21	Mention 708 730	preference aggregation
+T2	Mention 129 134	their
+T9	Mention 640 660	judgment aggregation
+T22	Mention 781 801	judgment aggregation
+T14	Mention 571 573	We
+T15	Mention 809 811	We
+T23	Mention 871 873	We
+*	Coreference T1 T5 T2
+*	Coreference T3 T4
+*	Coreference T6 T7 T9 T22
+*	Coreference T8 T10 T13 T16 T17 T18
+*	Coreference T11 T12
+*	Coreference T20 T21 T19
+*	Coreference T14 T15 T23

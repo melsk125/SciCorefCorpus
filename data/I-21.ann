@@ -1,0 +1,20 @@
+T3	Mention 354 360	agents
+T4	Mention 118 124	agents
+T5	Mention 441 447	agents
+T6	Mention 449 464	Local behaviour
+T7	Mention 331 360	the local behaviour of agents
+T10	Mention 736 751	Local behaviour
+T13	Mention 1057 1074	the effectiveness
+T14	Mention 1176 1194	this effectiveness
+T15	Mention 700 715	market barriers
+T16	Mention 1226 1241	market barriers
+T1	Mention 85 87	We
+T2	Mention 866 868	We
+T8	Mention 1046 1048	We
+T9	Mention 194 197	Our
+T11	Mention 1026 1029	our
+*	Coreference T4 T3 T5
+*	Coreference T7 T6 T10
+*	Coreference T13 T14
+*	Coreference T15 T16
+*	Coreference T1 T9 T2 T11 T8

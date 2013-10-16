@@ -1,0 +1,29 @@
+T3	Mention 698 723	an algorithm, GameShrink,
+T4	Mention 712 722	GameShrink
+T5	Mention 785 788	Its
+T6	Mention 382 489	a multi-player sequential game of imperfect information with observable actions and an ordered signal space
+T7	Mention 740 748	the game
+T8	Mention 846 857	a structure
+T9	Mention 866 881	the signal tree
+T10	Mention 883 885	It
+T11	Mention 818 819	n
+T12	Mention 823 842	the number of nodes
+T13	Mention 973 983	GameShrink
+T14	Mention 904 917	the game tree
+T15	Mention 1039 1052	the game tree
+T16	Mention 1060 1070	GameShrink
+T17	Mention 1275 1285	GameShrink
+T1	Mention 268 270	we
+T2	Mention 491 493	we
+T18	Mention 687 689	We
+T19	Mention 1072 1074	we
+T20	Mention 1219 1221	We
+T21	Mention 1317 1319	we
+T22	Mention 858 860	we
+T23	Mention 755 758	our
+*	Coreference T3 T4 T5 T13 T16 T17
+*	Coreference T6 T7
+*	Coreference T8 T9
+*	Coreference T11 T12 T10
+*	Coreference T14 T15
+*	Coreference T1 T2 T18 T22 T19 T20 T21 T23

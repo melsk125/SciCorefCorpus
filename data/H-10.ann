@@ -1,0 +1,20 @@
+T1	Mention 54 73	document clustering
+T2	Mention 121 271	an important and fundamental technique for unsupervised document organization, automatic topic extraction, and fast information retrieval or filtering
+T3	Mention 299 359	a novel method for clustering documents using regularization
+T4	Mention 421 431	our method
+T5	Mention 612 625	our algorithm
+T6	Mention 626 673	Clustering with Local and Global Regularization
+T7	Mention 675 679	CLGR
+T10	Mention 969 973	CLGR
+T11	Mention 368 419	traditional globally regularized clustering methods
+T12	Mention 979 1018	traditional document clustering methods
+T13	Mention 288 290	we
+T14	Mention 421 424	our
+T15	Mention 604 606	we
+T16	Mention 612 615	our
+T17	Mention 682 684	We
+T8	Mention 877 880	our
+*	Coreference T1 T2
+*	Coreference T5 T6 T7 T10 T3 T4
+*	Coreference T11 T12
+*	Coreference T13 T14 T15 T16 T17 T8

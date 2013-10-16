@@ -1,0 +1,16 @@
+T1	Mention 158 244	the data structure called the best response policy, which was proposed by Kearns et al
+T2	Mention 184 208	the best response policy
+T6	Mention 719 771	a Nash equilibrium that maximizes the social welfare
+T8	Mention 680 715	Another attractive solution concept
+T12	Mention 859 871	this problem
+T13	Mention 811 821	the latter
+T11	Mention 973 987	an equilibrium
+T3	Mention 50 60	This paper
+T16	Mention 431 441	this paper
+T17	Mention 443 445	we
+T18	Mention 773 775	We
+T19	Mention 837 839	we
+*	Coreference T1 T2
+*	Coreference T6 T8 T13 T12 T11
+*	Coreference T3 T16
+*	Coreference T17 T18 T19

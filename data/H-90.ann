@@ -1,0 +1,17 @@
+T1	Mention 509 555	several context-sensitive retrieval algorithms
+T2	Mention 826 836	our models
+T3	Mention 747 796	a test collection with search context information
+T4	Mention 843 856	this test set
+T5	Mention 331 360	implicit feedback information
+T6	Mention 893 910	implicit feedback
+T7	Mention 630 656	clicked document summaries
+T8	Mention 923 953	the clicked document summaries
+T9	Mention 307 309	we
+T10	Mention 498 500	We
+T11	Mention 713 715	We
+T12	Mention 826 829	our
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T5 T6
+*	Coreference T7 T8
+*	Coreference T9 T10 T11 T12

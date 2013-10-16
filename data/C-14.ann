@@ -1,0 +1,13 @@
+T5	Mention 244 276	an associated cost of deployment
+T6	Mention 465 487	the cost of deployment
+T9	Mention 278 288	This paper
+T10	Mention 445 447	It
+T1	Mention 217 226	detection
+T2	Mention 528 537	detection
+T3	Mention 31 47	Target Detection
+T4	Mention 325 338	path exposure
+T7	Mention 342 383	a measure of the goodness of a deployment
+*	Coreference T6 T5
+*	Coreference T1 T2 T3
+*	Coreference T9 T10
+*	Coreference T4 T7

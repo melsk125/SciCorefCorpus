@@ -1,0 +1,16 @@
+T3	Mention 144 151	sensors
+T4	Mention 172 182	each other
+T5	Mention 376 434	an innovative Hierarchical Hypercube model -- H(k,u,m,v,n)
+T6	Mention 422 434	H(k,u,m,v,n)
+T7	Mention 509 525	the H(k,u,m,v,n)
+T8	Mention 572 590	H(k,u,m,v,n) model
+T9	Mention 592 695	a new general framework for pairwise key predistribution and a new pairwise key establishment algorithm
+T10	Mention 710 715	which
+T11	Mention 737 741	KDC 
+T12	Mention 742 765	Key Distribution Center
+T13	Mention 836 891	the newly proposed pairwise key establishment algorithm
+T14	Mention 970 987	the new algorithm
+*	Coreference T3 T4
+*	Coreference T5 T6 T7 T8
+*	Coreference T9 T10 T13 T14
+*	Coreference T11 T12

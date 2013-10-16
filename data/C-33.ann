@@ -1,0 +1,24 @@
+T1	Mention 110 158	a challenging problem in context-aware computing
+T4	Mention 239 258	context information
+T5	Mention 301 375	a novel approach based on negotiation with rewards to solving such problem
+T6	Mention 363 375	such problem
+T7	Mention 377 406	Distributed context providers
+T8	Mention 422 432	each other
+T9	Mention 459 466	context
+T10	Mention 519 531	our approach
+T11	Mention 610 622	our approach
+T12	Mention 637 639	it
+T13	Mention 703 715	the proceeds
+T14	Mention 489 497	proceeds
+T2	Mention 290 292	we
+T3	Mention 519 522	our
+T15	Mention 593 595	We
+T16	Mention 610 613	our
+T17	Mention 475 479	they
+T18	Mention 533 535	we
+*	Coreference T1 T6
+*	Coreference T4 T9
+*	Coreference T7 T8 T17
+*	Coreference T5 T10 T11 T12
+*	Coreference T14 T13
+*	Coreference T2 T3 T15 T16 T18

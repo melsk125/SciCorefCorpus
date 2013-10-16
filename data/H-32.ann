@@ -1,0 +1,19 @@
+T1	Mention 181 256	the use of linguistic or syntactic patterns to identify informative nuggets
+T2	Mention 258 262	This
+T3	Mention 192 224	linguistic or syntactic patterns
+T4	Mention 282 286	they
+T5	Mention 106 128	definitional sentences
+T6	Mention 326 347	a definitional nugget
+T7	Mention 490 502	such a model
+T8	Mention 425 447	a Human Interest Model
+T9	Mention 615 624	our model
+T10	Mention 630 676	current definitional question answering models
+T11	Mention 72 165	Current approaches to identifying definitional sentences in the context of Question Answering
+T12	Mention 591 593	We
+T13	Mention 615 618	our
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T5 T6
+*	Coreference T8 T7 T9
+*	Coreference T11 T10
+*	Coreference T12 T13

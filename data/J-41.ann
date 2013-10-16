@@ -1,0 +1,37 @@
+T1	Mention 112 214	sponsored search, a form of advertising where merchants pay for placement alongside web search results
+T2	Mention 130 214	a form of advertising where merchants pay for placement alongside web search results
+T6	Mention 300 310	a merchant
+T7	Mention 333 336	his
+T8	Mention 486 497	rank by bid
+T9	Mention 499 502	RBB
+T10	Mention 508 523	rank by revenue
+T11	Mention 525 528	RBR
+T14	Mention 922 925	RBB
+T15	Mention 930 933	RBR
+T16	Mention 1031 1034	RBB
+T17	Mention 1065 1068	RBR
+T18	Mention 1079 1082	RBR
+T19	Mention 1104 1107	RBB
+T20	Mention 1156 1159	RBB
+T21	Mention 1164 1167	RBR
+T22	Mention 1340 1343	RBB
+T23	Mention 1347 1350	RBR
+T24	Mention 1388 1433	a multitude of equilibria with second pricing
+T25	Mention 1486 1501	such equilibria
+T26	Mention 1466 1482	(economic) value
+T27	Mention 1507 1516	the value
+T3	Mention 396 398	we
+T4	Mention 638 640	We
+T5	Mention 776 778	We
+T12	Mention 984 986	We
+T13	Mention 1116 1118	We
+T28	Mention 1273 1275	we
+T29	Mention 1352 1354	We
+T30	Mention 1439 1441	we
+*	Coreference T1 T2
+*	Coreference T6 T7
+*	Coreference T8 T9 T14 T16 T19 T20 T22
+*	Coreference T10 T11 T15 T17 T18 T21 T23
+*	Coreference T24 T25
+*	Coreference T27 T26
+*	Coreference T3 T4 T5 T12 T13 T28 T29 T30

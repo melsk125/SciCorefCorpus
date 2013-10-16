@@ -1,0 +1,12 @@
+T1	Mention 239 369	a middleware layer called Ganesh that reduces the volume of data transmitted without semantic interpretation of queries or results
+T2	Mention 265 271	Ganesh
+T4	Mention 371 373	It
+T5	Mention 485 499	These benefits
+T6	Mention 383 397	this reduction
+T7	Mention 610 616	Ganesh
+T8	Mention 854 856	it
+T3	Mention 227 229	We
+T9	Mention 830 833	our
+*	Coreference T1 T2 T4 T7 T8
+*	Coreference T6 T5
+*	Coreference T3 T9

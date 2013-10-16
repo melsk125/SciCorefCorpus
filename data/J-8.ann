@@ -1,0 +1,23 @@
+T3	Mention 145 147	he
+T4	Mention 111 122	each player
+T9	Mention 223 244	fair connection games
+T10	Mention 937 958	fair connection games
+T11	Mention 1021 1046	any fair connection games
+T12	Mention 1219 1231	same setting
+T13	Mention 1125 1126	n
+T14	Mention 1130 1151	the number of players
+T18	Mention 982 1004	the strong equilibrium
+T21	Mention 359 379	a strong equilibrium
+T1	Mention 65 67	we
+T2	Mention 297 299	We
+T5	Mention 571 573	we
+T6	Mention 706 708	we
+T7	Mention 858 860	we
+T8	Mention 1005 1007	we
+T15	Mention 1330 1332	we
+T16	Mention 492 495	Our
+*	Coreference T4 T3
+*	Coreference T9 T10 T11 T12
+*	Coreference T13 T14
+*	Coreference T18 T21
+*	Coreference T1 T2 T5 T6 T7 T8 T15 T16

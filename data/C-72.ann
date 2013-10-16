@@ -1,0 +1,28 @@
+T1	Mention 56 85	Wireless radios of the future
+T2	Mention 189 200	Such radios
+T3	Mention 300 305	their
+T4	Mention 355 371	RF spectrum data
+T5	Mention 441 450	such data
+T6	Mention 332 410	the problem of sharing RF spectrum data among a collection of wireless devices
+T8	Mention 512 524	this problem
+T9	Mention 582 659	GUESS, a novel incremental gossiping approach to coordinated spectral sensing
+T10	Mention 589 659	a novel incremental gossiping approach to coordinated spectral sensing
+T11	Mention 661 663	It
+T13	Mention 985 997	our approach
+T14	Mention 1006 1022	network overhead
+T15	Mention 676 693	protocol overhead
+T16	Mention 1086 1109	information convergence
+T17	Mention 885 908	information convergence
+T18	Mention 222 232	each other
+T7	Mention 320 322	We
+T19	Mention 485 487	it
+T20	Mention 571 573	We
+T21	Mention 910 912	We
+T22	Mention 985 988	our
+*	Coreference T1 T2 T3 T18
+*	Coreference T4 T5 T19
+*	Coreference T6 T8
+*	Coreference T9 T10 T11 T13
+*	Coreference T15 T14
+*	Coreference T17 T16
+*	Coreference T7 T20 T21 T22

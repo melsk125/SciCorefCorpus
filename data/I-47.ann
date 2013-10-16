@@ -1,0 +1,14 @@
+T3	Mention 319 345	these tools and frameworks
+T5	Mention 728 866	a connector-based model of multi-agent interactions which attempts to identify the essential structure underlying multi-agent interactions
+T7	Mention 842 866	multi-agent interactions
+T8	Mention 755 779	multi-agent interactions
+T9	Mention 905 915	this model
+T12	Mention 1003 1021	The proposed model
+T1	Mention 257 310	several programming frameworks and software platforms
+T2	Mention 527 537	this paper
+T4	Mention 709 718	the paper
+T6	Mention 881 890	the paper
+*	Coreference T3 T1
+*	Coreference T5 T9 T12
+*	Coreference T8 T7
+*	Coreference T2 T4 T6

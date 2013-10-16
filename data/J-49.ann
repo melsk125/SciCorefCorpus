@@ -1,0 +1,24 @@
+T1	Mention 123 142	information markets
+T2	Mention 545 564	information markets
+T5	Mention 263 301	2003 US National Football League games
+T6	Mention 398 413	the same events
+T7	Mention 669 688	information markets
+T9	Mention 515 533	pooled predictions
+T10	Mention 724 749	pooled expert assessments
+T11	Mention 764 789	pooled expert predictions
+T12	Mention 826 865	a robust and efficient pooling function
+T13	Mention 804 822	arithmetic average
+T14	Mention 877 883	expert
+T15	Mention 909 914	their
+T16	Mention 1143 1162	information markets
+T3	Mention 78 80	we
+T4	Mention 170 172	We
+T8	Mention 415 417	We
+T17	Mention 791 793	we
+T18	Mention 604 607	Our
+*	Coreference T1 T2 T7 T16
+*	Coreference T5 T6
+*	Coreference T9 T10 T11
+*	Coreference T13 T12
+*	Coreference T15 T14
+*	Coreference T3 T4 T8 T17 T18

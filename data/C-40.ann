@@ -1,0 +1,41 @@
+T1	Mention 64 109	Newly emerging game-based application systems
+T2	Mention 223 227	They
+T5	Mention 334 345	the systems
+T6	Mention 390 394	they
+T9	Mention 139 162	3D virtual environments
+T10	Mention 467 485	the virtual worlds
+T11	Mention 668 672	them
+T12	Mention 609 623	moving objects
+T13	Mention 686 689	her
+T14	Mention 549 557	the user
+T15	Mention 724 728	them
+T16	Mention 761 773	such systems
+T17	Mention 775 855	the determination of the set of objects that are visible from a user's viewpoint
+T18	Mention 859 931	one of the primary factors that affect server throughput and scalability
+T19	Mention 947 1026	performing real-time visibility tests in extremely dynamic virtual environments
+T20	Mention 1030 1053	a very challenging task
+T21	Mention 1280 1297	the virtual space
+T22	Mention 1498 1527	this kind of new environments
+T23	Mention 1249 1276	the moving geometry objects
+T24	Mention 1571 1712	an efficient spatial index structure that minimizes unexpected object popping and supports highly scalable real-time visibility determination
+T25	Mention 1756 1770	this structure
+T26	Mention 1783 1802	the index structure
+T27	Mention 1923 1935	our approach
+T28	Mention 1962 1996	next-generation virtual frameworks
+T29	Mention 169 183	multiple users
+T30	Mention 198 208	each other
+T3	Mention 315 324	the users
+T4	Mention 1138 1140	We
+T7	Mention 1242 1244	we
+T8	Mention 1714 1716	We
+T31	Mention 1913 1915	We
+T32	Mention 1923 1926	our
+*	Coreference T1 T2 T5 T6 T16
+*	Coreference T9 T10 T21 T22 T28
+*	Coreference T12 T11 T15 T23
+*	Coreference T14 T13
+*	Coreference T17 T18
+*	Coreference T19 T20
+*	Coreference T24 T25 T26 T27
+*	Coreference T29 T30 T3
+*	Coreference T7 T4 T8 T31 T32

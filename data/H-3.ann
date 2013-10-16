@@ -1,0 +1,25 @@
+T3	Mention 60 105	an element that specifies an information need
+T4	Mention 46 56	User query
+T5	Mention 111 113	it
+T8	Mention 421 429	the user
+T9	Mention 364 370	a user
+T10	Mention 528 548	context around query
+T11	Mention 575 585	The former
+T12	Mention 661 671	the latter
+T13	Mention 553 573	context within query
+T14	Mention 615 622	a query
+T15	Mention 703 712	the query
+T17	Mention 682 787	context words within the query, which is particularly useful for the selection of relevant term relations
+T18	Mention 946 965	the context factors
+T19	Mention 804 825	both types of context
+T20	Mention 464 487	query-specific contexts
+T1	Mention 446 448	we
+T2	Mention 596 653	the environment of a query such as the domain of interest
+T6	Mention 884 887	Our
+*	Coreference T4 T3 T5
+*	Coreference T9 T8
+*	Coreference T10 T11 T2
+*	Coreference T13 T12 T17
+*	Coreference T14 T15
+*	Coreference T19 T18 T20
+*	Coreference T1 T6

@@ -1,0 +1,29 @@
+T1	Mention 63 94	Personal Information Management
+T2	Mention 96 99	PIM
+T3	Mention 104 202	a rapidly growing area of research concerned with how people store, manage and re-find information
+T4	Mention 217 229	PIM research
+T5	Mention 352 356	This
+T6	Mention 204 229	A feature of PIM research
+T7	Mention 466 482	The difficulties
+T8	Mention 409 464	the difficulties involved in performing PIM evaluations
+T9	Mention 496 502	people
+T10	Mention 615 621	people
+T11	Mention 158 164	people
+T12	Mention 449 464	PIM evaluations
+T13	Mention 742 757	PIM evaluations
+T14	Mention 780 798	these difficulties
+T15	Mention 908 955	tasks that require users to re-find information
+T16	Mention 594 644	the tasks that cause people to re-find information
+T17	Mention 280 285	users
+T18	Mention 927 932	users
+T19	Mention 721 723	we
+T20	Mention 819 821	we
+T21	Mention 1054 1056	we
+T22	Mention 1110 1113	our
+*	Coreference T1 T2 T3 T4
+*	Coreference T6 T5
+*	Coreference T8 T7 T14
+*	Coreference T9 T10 T11 T17 T18
+*	Coreference T13 T12
+*	Coreference T16 T15
+*	Coreference T19 T20 T21 T22

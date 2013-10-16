@@ -1,0 +1,17 @@
+T1	Mention 88 212	a unified and general framework for argumentation-based negotiation, in which the role of argumentation is formally analyzed
+T3	Mention 214 227	The framework
+T4	Mention 124 155	argumentation-based negotiation
+T5	Mention 271 305	an argumentation-based negotiation
+T6	Mention 307 309	It
+T7	Mention 342 344	it
+T8	Mention 321 333	an agreement
+T9	Mention 392 394	it
+T10	Mention 416 420	this
+T11	Mention 477 479	It
+T12	Mention 507 517	concession
+T13	Mention 567 570	one
+T14	Mention 587 589	it
+*	Coreference T1 T3 T6 T11
+*	Coreference T4 T5
+*	Coreference T8 T7 T9 T10
+*	Coreference T12 T13 T14

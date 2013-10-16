@@ -1,0 +1,10 @@
+T1	Mention 347 357	our system
+T2	Mention 74 173	an implemented system for supporting group interaction in mobile distributed computing environments
+T4	Mention 469 474	users
+T5	Mention 514 518	them
+T10	Mention 63 65	we
+T11	Mention 311 313	We
+T12	Mention 347 350	our
+*	Coreference T1 T2
+*	Coreference T4 T5
+*	Coreference T10 T11 T12

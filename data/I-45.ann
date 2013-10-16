@@ -1,0 +1,16 @@
+T1	Mention 154 159	their
+T2	Mention 101 148	message-centric approaches to agent interaction
+T5	Mention 438 471	the commitment machines framework
+T6	Mention 391 436	one approach for modelling agent interactions
+T7	Mention 473 487	This framework
+T8	Mention 507 519	interactions
+T9	Mention 418 436	agent interactions
+T12	Mention 918 1015	two issues that arise when distributing commitment machines (turn management and race conditions)
+T14	Mention 1033 1047	these problems
+T3	Mention 379 381	we
+T4	Mention 607 609	We
+*	Coreference T2 T1
+*	Coreference T6 T5 T7
+*	Coreference T8 T9
+*	Coreference T12 T14
+*	Coreference T3 T4

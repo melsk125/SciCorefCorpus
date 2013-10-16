@@ -1,0 +1,38 @@
+T1	Mention 115 154	a myriad of smart sensors and actuators
+T2	Mention 185 190	their
+T3	Mention 240 242	it
+T4	Mention 174 203	aspects of their environments
+T5	Mention 361 373	such systems
+T6	Mention 464 479	the environment
+T7	Mention 185 203	their environments
+T8	Mention 883 895	such systems
+T9	Mention 1009 1025	these components
+T10	Mention 908 1003	components which comprise mechanical components, hardware and software and a network interface,
+T12	Mention 1095 1099	They
+T13	Mention 1260 1277	network interface
+T14	Mention 985 1002	network interface
+T15	Mention 1341 1362	these building blocks
+T16	Mention 1439 1463	a component-based system
+T17	Mention 1578 1588	the system
+T18	Mention 1590 1592	It
+T19	Mention 1364 1373	The paper
+T20	Mention 1658 1693	The generic event architecture GEAR
+T21	Mention 1689 1693	GEAR
+T22	Mention 1708 1713	which
+T23	Mention 1960 1965	which
+T24	Mention 1921 1946	An appropriate middleware
+T25	Mention 2079 2083	This
+T28	Mention 2117 2131	event channels
+T30	Mention 2142 2180	abstractions of the underlying network
+T31	Mention 2222 2226	They
+T11	Mention 1184 1208	the physical environment
+*	Coreference T1 T2 T5 T8
+*	Coreference T4 T3
+*	Coreference T7 T6 T11
+*	Coreference T10 T9 T12 T15
+*	Coreference T14 T13
+*	Coreference T16 T17
+*	Coreference T19 T18
+*	Coreference T20 T21 T22
+*	Coreference T24 T23 T25
+*	Coreference T28 T30 T31

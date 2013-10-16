@@ -1,0 +1,40 @@
+T3	Mention 272 292	Push based broadcast
+T4	Mention 431 448	Push based scheme
+T5	Mention 367 377	the server
+T6	Mention 419 429	the server
+T7	Mention 381 390	the users
+T8	Mention 401 410	the users
+T9	Mention 344 348	data
+T10	Mention 221 225	data
+T11	Mention 493 501	the data
+T12	Mention 524 527	its
+T15	Mention 664 701	Two of the important indexing schemes
+T16	Mention 781 794	these schemes
+T17	Mention 836 859	location dependent data
+T18	Mention 861 864	LDD
+T20	Mention 903 921	data dissemination
+T21	Mention 40 58	Data dissemination
+T22	Mention 966 969	LDD
+T23	Mention 973 1010	our project DAta in Your Space (DAYS)
+T24	Mention 985 1003	DAta in Your Space
+T25	Mention 1005 1009	DAYS
+T26	Mention 1065 1076	this scheme
+T27	Mention 1024 1049	a scheme for indexing LDD
+T28	Mention 1094 1097	LDD
+T29	Mention 1046 1049	LDD
+T30	Mention 1163 1190	the above mentioned schemes
+T1	Mention 938 940	we
+T2	Mention 1051 1053	We
+T13	Mention 1192 1194	We
+T14	Mention 973 976	our
+T19	Mention 1201 1204	our
+*	Coreference T3 T4
+*	Coreference T7 T8
+*	Coreference T5 T6
+*	Coreference T10 T9 T11 T12
+*	Coreference T15 T16 T30
+*	Coreference T17 T18 T22 T29 T28
+*	Coreference T21 T20
+*	Coreference T23 T24 T25
+*	Coreference T27 T26
+*	Coreference T1 T14 T2 T13 T19

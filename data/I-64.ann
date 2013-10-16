@@ -1,0 +1,19 @@
+T1	Mention 74 131	an important basis for coordination in multiagent systems
+T2	Mention 56 69	Organizations
+T3	Mention 300 401	environmental features including problem characteristics, available resources, and agent capabilities
+T4	Mention 434 462	the environmental conditions
+T5	Mention 775 780	these
+T6	Mention 706 744	certain characteristics and conditions
+T7	Mention 856 882	Organizational-Self Design
+T8	Mention 884 887	OSD
+T9	Mention 910 984	an approach for constructing suitable organizational structures at runtime
+T10	Mention 996 1021	the existing OSD approach
+T11	Mention 986 988	We
+T12	Mention 1166 1168	We
+T13	Mention 1183 1186	our
+T14	Mention 1244 1247	our
+*	Coreference T2 T1
+*	Coreference T3 T4
+*	Coreference T6 T5
+*	Coreference T7 T8 T9 T10
+*	Coreference T11 T12 T13 T14

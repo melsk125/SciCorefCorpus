@@ -1,0 +1,10 @@
+T1	Mention 59 71	E-mail users
+T2	Mention 115 120	their
+T3	Mention 439 449	a new task
+T4	Mention 451 482	automated action-item detection
+T5	Mention 162 167	email
+T7	Mention 661 682	action-item detection
+T6	Mention 59 65	E-mail
+*	Coreference T1 T2
+*	Coreference T3 T4 T7
+*	Coreference T6 T5

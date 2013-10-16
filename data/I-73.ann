@@ -1,0 +1,19 @@
+T1	Mention 195 198	its
+T2	Mention 106 114	open MAS
+T3	Mention 270 274	them
+T4	Mention 148 155	agents'
+T5	Mention 306 312	agents
+T6	Mention 432 439	agents'
+T7	Mention 478 524	the use of an ontology to deal with this issue
+T8	Mention 540 549	this idea
+T9	Mention 621 634	this ontology
+T10	Mention 489 500	an ontology
+T11	Mention 636 645	This data
+T12	Mention 679 699	heterogeneous agents
+T13	Mention 467 469	we
+T14	Mention 526 528	We
+*	Coreference T2 T1
+*	Coreference T4 T3 T5 T6 T12
+*	Coreference T7 T8
+*	Coreference T10 T9 T11
+*	Coreference T13 T14

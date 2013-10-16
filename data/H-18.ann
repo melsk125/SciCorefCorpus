@@ -1,0 +1,43 @@
+T1	Mention 508 526	mutual information
+T2	Mention 528 530	MI
+T3	Mention 536 563	weighted mutual information
+T4	Mention 565 568	WMI
+T5	Mention 595 597	MI
+T6	Mention 578 614	a combination of MI and term weights
+T7	Mention 674 676	MI
+T8	Mention 681 684	WMI
+T9	Mention 687 699	Our approach
+T10	Mention 391 614	a novel unsupervised method for shared topic detection and topic segmentation of multiple similar documents based on mutual information (MI) and weighted mutual information (WMI) that is a combination of MI and term weights
+T11	Mention 742 744	It
+T12	Mention 845 847	It
+T13	Mention 961 972	Our methods
+T14	Mention 121 139	topic segmentation
+T15	Mention 450 468	topic segmentation
+T16	Mention 1032 1044	segmentation
+T17	Mention 602 614	term weights
+T18	Mention 1086 1098	term weights
+T19	Mention 1184 1197	our algorithm
+T20	Mention 864 892	single-document segmentation
+T21	Mention 1226 1254	single-document segmentation
+T22	Mention 423 445	shared topic detection
+T23	Mention 1256 1278	shared topic detection
+T24	Mention 914 959	the multi-document segmentation and alignment
+T25	Mention 1284 1311	multi-document segmentation
+T26	Mention 1403 1421	topic segmentation
+T27	Mention 1433 1436	WMI
+T28	Mention 1463 1465	MI
+T29	Mention 1474 1501	multi-document segmentation
+T30	Mention 378 380	we
+T31	Mention 687 690	Our
+T32	Mention 961 964	Our
+T33	Mention 1149 1152	Our
+T34	Mention 1184 1187	our
+*	Coreference T1 T2 T5 T7 T28
+*	Coreference T3 T4 T6 T8 T27
+*	Coreference T10 T9 T11 T12 T13 T19
+*	Coreference T14 T15 T16 T26
+*	Coreference T17 T18
+*	Coreference T20 T21
+*	Coreference T22 T23
+*	Coreference T24 T25 T29
+*	Coreference T30 T31 T32 T33 T34

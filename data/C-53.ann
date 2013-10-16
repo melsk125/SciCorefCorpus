@@ -1,0 +1,21 @@
+T1	Mention 97 111	Dead-Reckoning
+T2	Mention 113 115	DR
+T3	Mention 120 215	an effective method to maintain consistency for Continuous Distributed Multiplayer Games (CDMG)
+T4	Mention 168 208	Continuous Distributed Multiplayer Games
+T5	Mention 210 214	CDMG
+T6	Mention 223 225	DR
+T7	Mention 309 311	it
+T8	Mention 356 358	DR
+T9	Mention 413 416	its
+T10	Mention 499 501	DR
+T11	Mention 538 540	it
+T12	Mention 601 730	a method named Globally Synchronized DR with Local Lag (GS-DR-LL), which combines local lag and Globally Synchronized DR (GS-DR),
+T13	Mention 616 655	Globally Synchronized DR with Local Lag
+T14	Mention 657 665	GS-DR-LL
+T16	Mention 697 721	Globally Synchronized DR
+T17	Mention 723 728	GS-DR
+T18	Mention 779 787	GS-DR-LL
+*	Coreference T1 T2 T3 T6 T7 T8 T9 T10 T11
+*	Coreference T4 T5
+*	Coreference T12 T13 T14 T18
+*	Coreference T16 T17

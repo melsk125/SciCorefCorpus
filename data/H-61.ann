@@ -1,0 +1,25 @@
+T1	Mention 330 361	associating ads with a Web page
+T2	Mention 192 230	the association of ads with a Web page
+T3	Mention 378 406	content-targeted advertising
+T4	Mention 705 716	the problem
+T5	Mention 678 692	ten strategies
+T6	Mention 730 735	their
+T7	Mention 751 762	Our methods
+T10	Mention 838 849	the problem
+T13	Mention 478 502	the text of the Web page
+T14	Mention 1062 1086	the text of the Web page
+T15	Mention 1202 1207	These
+T16	Mention 1212 1225	first results
+T17	Mention 1227 1231	They
+T8	Mention 866 869	AAK
+T9	Mention 874 890	ads and keywords
+T11	Mention 306 308	we
+T12	Mention 445 447	We
+T18	Mention 460 462	we
+T19	Mention 667 669	we
+T20	Mention 751 754	Our
+*	Coreference T2 T1 T3 T4 T10 T8 T9
+*	Coreference T5 T6 T7
+*	Coreference T13 T14
+*	Coreference T15 T16 T17
+*	Coreference T11 T12 T18 T19 T20

@@ -1,0 +1,24 @@
+T1	Mention 128 241	a global bidding agent that participates in multiple, simultaneous second-price auctions with perfect substitutes
+T5	Mention 394 411	the global bidder
+T6	Mention 489 506	the local bidders
+T7	Mention 275 292	all other bidders
+T8	Mention 726 739	local bidders
+T9	Mention 758 769	this number
+T10	Mention 712 739	the number of local bidders
+T13	Mention 1250 1330	an important determinant for the way in which a global bidder affects efficiency
+T14	Mention 1196 1246	that information about the number of local bidders
+T17	Mention 1296 1311	a global bidder
+T2	Mention 261 338	a model where all other bidders are local and participate in a single auction
+T3	Mention 344 353	this case
+T4	Mention 87 89	We
+T11	Mention 243 245	We
+T12	Mention 355 357	we
+T15	Mention 589 591	we
+T16	Mention 981 983	we
+T18	Mention 1138 1140	we
+*	Coreference T1 T5 T17
+*	Coreference T7 T6 T8
+*	Coreference T10 T9
+*	Coreference T14 T13
+*	Coreference T2 T3
+*	Coreference T4 T11 T12 T15 T16 T18

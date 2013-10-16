@@ -1,0 +1,27 @@
+T1	Mention 124 155	regularized logistic regression
+T2	Mention 157 159	LR
+T3	Mention 233 265	the Topic Detection and Tracking
+T4	Mention 267 270	TDT
+T5	Mention 282 312	the Text Retrieval Conferences
+T6	Mention 314 318	TREC
+T7	Mention 477 479	LR
+T8	Mention 525 530	T11SU
+T9	Mention 532 555	a TREC utility function
+T10	Mention 165 184	incremental Rocchio
+T11	Mention 563 570	Rocchio
+T12	Mention 596 667	Ctrk (the TDT tracking cost), a high-recall oriented objective function
+T13	Mention 602 623	the TDT tracking cost
+T14	Mention 626 667	a high-recall oriented objective function
+T15	Mention 1091 1121	relevance feedback information
+T16	Mention 812 830	Relevance feedback
+T17	Mention 320 322	we
+T18	Mention 463 465	We
+T19	Mention 741 743	we
+*	Coreference T1 T2 T7
+*	Coreference T3 T4
+*	Coreference T5 T6
+*	Coreference T8 T9
+*	Coreference T10 T11
+*	Coreference T13 T12 T14
+*	Coreference T16 T15
+*	Coreference T17 T18 T19

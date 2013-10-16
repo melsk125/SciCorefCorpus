@@ -1,0 +1,15 @@
+T1	Mention 341 356	Time of Arrival
+T2	Mention 358 361	ToA
+T3	Mention 655 671	Angle of Arrival
+T4	Mention 673 676	AoA
+T5	Mention 106 165	a wireless sensor network-based mobile countersniper system
+T6	Mention 756 766	The system
+T7	Mention 87 96	The paper
+T8	Mention 648 651	ToA
+T9	Mention 837 846	The paper
+T10	Mention 860 866	system
+T11	Mention 962 968	system
+*	Coreference T1 T2 T8
+*	Coreference T3 T4
+*	Coreference T5 T6 T10 T11
+*	Coreference T7 T9

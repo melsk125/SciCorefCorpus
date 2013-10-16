@@ -1,0 +1,23 @@
+T1	Mention 305 324	standard middleware
+T2	Mention 208 230	traditional middleware
+T3	Mention 368 473	ad-hoc environments, in which not even the intermittent availability of a backbone network can be assumed
+T5	Mention 562 579	such environments
+T6	Mention 87 106	mobile environments
+T7	Mention 886 1018	EMMA (Epidemic Messaging Middleware for ad-hoc networks), an adaptation of Java Message Service (JMS) for mobile ad-hoc environments
+T8	Mention 892 941	Epidemic Messaging Middleware for ad-hoc networks
+T9	Mention 961 981	Java Message Service
+T10	Mention 983 986	JMS
+T11	Mention 944 1018	an adaptation of Java Message Service (JMS) for mobile ad-hoc environments
+T12	Mention 992 1018	mobile ad-hoc environments
+T13	Mention 1176 1201	the asynchronous paradigm
+T14	Mention 672 713	an asynchronous paradigm of communication
+T15	Mention 1205 1217	this setting
+T4	Mention 818 820	we
+T16	Mention 1020 1022	We
+T17	Mention 829 832	our
+*	Coreference T2 T1
+*	Coreference T6 T5 T3 T12 T15
+*	Coreference T7 T8 T11
+*	Coreference T9 T10
+*	Coreference T14 T13
+*	Coreference T4 T16 T17

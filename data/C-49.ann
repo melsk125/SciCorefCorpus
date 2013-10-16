@@ -1,0 +1,14 @@
+T1	Mention 91 112	mobile ad-hoc network
+T2	Mention 114 119	MANET
+T3	Mention 248 270	mobile ad-hoc networks
+T4	Mention 539 541	We
+T5	Mention 740 743	our
+T6	Mention 775 777	We
+T7	Mention 792 807	direct delivery
+T8	Mention 669 684	direct-delivery
+T9	Mention 686 694	epidemic
+T10	Mention 812 820	epidemic
+*	Coreference T1 T2 T3
+*	Coreference T4 T5 T6
+*	Coreference T7 T8
+*	Coreference T9 T10

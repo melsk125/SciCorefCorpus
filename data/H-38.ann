@@ -1,0 +1,43 @@
+T1	Mention 127 136	Web pages
+T2	Mention 157 166	Web pages
+T3	Mention 281 300	a ranking algorithm
+T4	Mention 308 321	DiffusionRank
+T5	Mention 323 336	DiffusionRank
+T8	Mention 479 488	heat flow
+T9	Mention 576 585	heat flow
+T10	Mention 667 680	DiffusionRank
+T11	Mention 714 722	PageRank
+T12	Mention 60 82	the PageRank algorithm
+T13	Mention 728 760	the heat diffusion coefficient γ
+T14	Mention 759 760	γ
+T16	Mention 804 817	DiffusionRank
+T17	Mention 819 827	PageRank
+T15	Mention 879 892	DiffusionRank
+T18	Mention 848 865	anti-manipulation
+T19	Mention 924 941	anti-manipulation
+T20	Mention 597 638	the structure of the underlying Web graph
+T21	Mention 963 980	the web structure
+T22	Mention 1018 1019	γ
+T23	Mention 1023 1179	an interesting factor that can control the balance between the ability of preserving the original Web and the ability of reducing the effect of manipulation
+T24	Mention 1223 1236	DiffusionRank
+T25	Mention 1269 1290	the link manipulation
+T26	Mention 1167 1179	manipulation
+T27	Mention 1302 1315	DiffusionRank
+T28	Mention 452 459	the Web
+T29	Mention 1368 1375	the Web
+T30	Mention 1387 1400	the Web graph
+T31	Mention 629 638	Web graph
+T32	Mention 1482 1509	the DiffusionRank algorithm
+T33	Mention 270 272	we
+T6	Mention 654 656	we
+*	Coreference T1 T2
+*	Coreference T3 T4 T5 T10 T16 T15 T24 T27 T32
+*	Coreference T8 T9
+*	Coreference T12 T11 T17
+*	Coreference T13 T14 T22 T23
+*	Coreference T18 T19
+*	Coreference T20 T21
+*	Coreference T26 T25
+*	Coreference T28 T29
+*	Coreference T31 T30
+*	Coreference T33 T6

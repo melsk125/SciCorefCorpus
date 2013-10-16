@@ -1,0 +1,19 @@
+T1	Mention 60 79	New Event Detection
+T2	Mention 81 84	NED
+T3	Mention 443 455	the NED task
+T4	Mention 589 597	NED task
+T9	Mention 947 973	Linguistic Data Consortium
+T10	Mention 975 978	LDC
+T11	Mention 415 430	a new NED model
+T12	Mention 1013 1031	the proposed model
+T13	Mention 1076 1084	NED task
+T5	Mention 311 314	NED
+T6	Mention 404 406	we
+T14	Mention 421 424	NED
+T7	Mention 655 658	NED
+T8	Mention 692 694	we
+T15	Mention 799 801	we
+*	Coreference T1 T2 T3 T4 T13 T5 T14 T7
+*	Coreference T9 T10
+*	Coreference T11 T12
+*	Coreference T6 T8 T15

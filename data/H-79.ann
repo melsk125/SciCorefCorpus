@@ -1,0 +1,16 @@
+T1	Mention 103 111	PageRank
+T2	Mention 156 164	PageRank
+T3	Mention 268 276	PageRank
+T4	Mention 435 444	Web pages
+T5	Mention 212 221	Web pages
+T8	Mention 453 499	RankNet, a ranking machine learning algorithm,
+T9	Mention 462 498	a ranking machine learning algorithm
+T13	Mention 680 688	PageRank
+T6	Mention 223 225	We
+T7	Mention 236 238	we
+T10	Mention 347 349	We
+T11	Mention 446 448	We
+*	Coreference T1 T2 T3 T13
+*	Coreference T5 T4
+*	Coreference T8 T9
+*	Coreference T6 T7 T10 T11

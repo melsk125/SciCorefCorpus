@@ -1,0 +1,28 @@
+T1	Mention 42 129	Information markets, which are designed specifically to aggregate traders' information,
+T3	Mention 224 243	information markets
+T4	Mention 406 425	information markets
+T5	Mention 455 558	a new abstract betting game, the projection game, that serves as a useful model for information markets
+T6	Mention 427 451	Our central contribution
+T7	Mention 484 503	the projection game
+T9	Mention 539 558	information markets
+T10	Mention 580 589	this game
+T11	Mention 725 744	The projection game
+T14	Mention 889 891	it
+T15	Mention 624 650	dynamic parimutuel markets
+T16	Mention 936 965	the dynamic parimutuel market
+T17	Mention 1004 1023	the projection game
+T18	Mention 1087 1089	it
+T19	Mention 986 1023	a special form of the projection game
+T20	Mention 1182 1191	the model
+T2	Mention 330 332	We
+T8	Mention 560 562	We
+T12	Mention 882 884	We
+T13	Mention 967 969	We
+T21	Mention 1148 1150	we
+T22	Mention 1236 1238	we
+T23	Mention 427 430	Our
+*	Coreference T1 T3 T4 T9
+*	Coreference T6 T5 T7 T10 T11 T14 T17 T20
+*	Coreference T15 T16
+*	Coreference T19 T18
+*	Coreference T2 T23 T8 T12 T13 T21 T22

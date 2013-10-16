@@ -1,0 +1,16 @@
+T1	Mention 379 400	caching posting lists
+T2	Mention 254 275	caching posting lists
+T3	Mention 435 456	caching query answers
+T4	Mention 228 249	caching query results
+T7	Mention 54 56	we
+T8	Mention 141 143	We
+T9	Mention 317 319	we
+T10	Mention 359 361	we
+T11	Mention 458 460	We
+T5	Mention 558 560	We
+T6	Mention 681 683	we
+T12	Mention 854 857	Our
+T13	Mention 775 778	our
+*	Coreference T2 T1
+*	Coreference T4 T3
+*	Coreference T7 T8 T9 T10 T11 T5 T6 T13 T12

@@ -1,0 +1,14 @@
+T1	Mention 183 187	this
+T2	Mention 191 218	the selfish caching problem
+T3	Mention 77 136	replication of resources by server nodes that act selfishly
+T4	Mention 395 471	the price of anarchy, which is the relative cost of the lack of coordination
+T6	Mention 426 471	the relative cost of the lack of coordination
+T7	Mention 473 493	The price of anarchy
+T8	Mention 571 573	it
+T9	Mention 66 68	We
+T10	Mention 171 173	We
+T11	Mention 223 226	our
+T12	Mention 324 326	We
+*	Coreference T1 T2 T3
+*	Coreference T4 T6 T7 T8
+*	Coreference T9 T10 T11 T12

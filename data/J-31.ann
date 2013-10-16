@@ -1,0 +1,21 @@
+T1	Mention 111 181	the assumption that the players choose their strategies simultaneously
+T3	Mention 131 142	the players
+T4	Mention 150 155	their
+T5	Mention 192 202	this model
+T6	Mention 231 244	many settings
+T7	Mention 331 342	Such models
+T8	Mention 442 453	such models
+T9	Mention 508 562	the model where strategies are selected simultaneously
+T11	Mention 650 667	leadership models
+T12	Mention 986 1002	positive results
+T13	Mention 1004 1024	efficient algorithms
+T14	Mention 1030 1046	negative results
+T15	Mention 1048 1067	NP-hardness results
+T2	Mention 800 802	we
+T10	Mention 973 975	We
+*	Coreference T1 T5 T9
+*	Coreference T4 T3
+*	Coreference T6 T7 T8 T11
+*	Coreference T12 T13
+*	Coreference T14 T15
+*	Coreference T2 T10

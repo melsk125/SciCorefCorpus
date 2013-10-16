@@ -1,0 +1,30 @@
+T1	Mention 57 82	Internet search companies
+T2	Mention 176 243	previous work on the auction process and its game-theoretic aspects
+T3	Mention 193 212	the auction process
+T4	Mention 217 220	its
+T5	Mention 253 255	it
+T6	Mention 267 287	the Internet company
+T7	Mention 315 502	the advertisers, who must solve a complex optimization problem to decide how to place bids on keywords to maximize their return (the number of user clicks on their ads) for a given budget
+T9	Mention 430 442	their return
+T10	Mention 444 482	the number of user clicks on their ads
+T11	Mention 430 435	their
+T12	Mention 473 478	their
+T13	Mention 513 531	the entire process
+T14	Mention 347 502	a complex optimization problem to decide how to place bids on keywords to maximize their return (the number of user clicks on their ads) for a given budget
+T15	Mention 542 574	this budget optimization problem
+T20	Mention 876 899	such uniform strategies
+T21	Mention 1010 1041	the budget optimization problem
+T8	Mention 672 731	two uniform strategies that bid equally on all the keywords
+T16	Mention 303 305	we
+T17	Mention 504 506	We
+T18	Mention 609 611	we
+T19	Mention 928 930	We
+T22	Mention 842 845	our
+*	Coreference T3 T4 T13
+*	Coreference T2 T5
+*	Coreference T1 T6
+*	Coreference T7 T11 T12
+*	Coreference T9 T10
+*	Coreference T14 T15 T21
+*	Coreference T20 T8
+*	Coreference T16 T17 T18 T19 T22

@@ -1,0 +1,38 @@
+T1	Mention 128 137	CONFLEX-G
+T2	Mention 141 231	the grid-enabled version of a molecular conformational space search program called CONFLEX
+T3	Mention 169 231	a molecular conformational space search program called CONFLEX
+T4	Mention 224 231	CONFLEX
+T5	Mention 253 262	CONFLEX-G
+T6	Mention 269 301	a grid RPC system called OmniRPC
+T7	Mention 294 301	OmniRPC
+T8	Mention 347 356	CONFLEX-G
+T9	Mention 488 497	CONFLEX-G
+T10	Mention 467 486	large bio-molecules
+T11	Mention 528 541	the molecules
+T12	Mention 360 424	a grid testbed of several geographically distributed PC clusters
+T13	Mention 637 645	the grid
+T14	Mention 647 654	OmniRPC
+T15	Mention 664 740	a restricted persistence model to support the parametric search applications
+T16	Mention 745 755	this model
+T17	Mention 805 819	the RPC module
+T18	Mention 821 831	the module
+T19	Mention 762 790	the initialization procedure
+T20	Mention 898 926	the initialization procedure
+T21	Mention 1008 1017	CONFLEX-G
+T22	Mention 1019 1028	CONFLEX-G
+T23	Mention 1177 1185	the grid
+T24	Mention 1222 1231	CONFLEX-G
+T25	Mention 1280 1297	the 1BL1 molecule
+T26	Mention 1305 1317	the molecule
+T29	Mention 233 235	We
+T30	Mention 318 320	we
+*	Coreference T1 T2 T5 T8 T9 T21 T22 T24
+*	Coreference T3 T4
+*	Coreference T6 T7 T14
+*	Coreference T11 T10
+*	Coreference T12 T13 T23
+*	Coreference T15 T16
+*	Coreference T17 T18
+*	Coreference T19 T20
+*	Coreference T25 T26
+*	Coreference T29 T30

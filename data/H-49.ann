@@ -1,0 +1,16 @@
+T1	Mention 53 96	Evaluation of information retrieval systems
+T2	Mention 100 146	one of the core tasks in information retrieval
+T3	Mention 359 384	the evaluation of systems
+T4	Mention 630 675	One common shortcoming of previous techniques
+T5	Mention 679 739	the assumption of uncorrelated document scores and judgments
+T6	Mention 1102 1142	the spatial analysis of retrieval scores
+T7	Mention 1197 1217	These new predictors
+T8	Mention 829 866	techniques from spatial data analysis
+T10	Mention 915 917	We
+T11	Mention 1082 1084	we
+T12	Mention 1299 1301	We
+T13	Mention 551 554	Our
+*	Coreference T1 T2 T3
+*	Coreference T4 T5
+*	Coreference T7 T6 T8
+*	Coreference T13 T10 T11 T12

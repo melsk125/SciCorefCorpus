@@ -1,0 +1,36 @@
+T3	Mention 330 335	their
+T4	Mention 270 274	they
+T5	Mention 71 100	individual buyers and sellers
+T6	Mention 408 547	a game in which buyers, sellers, and traders engage in trade on a graph that represents the access each buyer and seller has to the traders
+T10	Mention 536 547	the traders
+T11	Mention 445 452	traders
+T12	Mention 512 517	buyer
+T13	Mention 424 430	buyers
+T14	Mention 522 528	seller
+T15	Mention 432 439	sellers
+T16	Mention 552 562	this model
+T17	Mention 564 571	traders
+T18	Mention 607 613	buyers
+T19	Mention 618 625	sellers
+T20	Mention 677 695	the resulting game
+T21	Mention 1016 1027	the traders
+T22	Mention 1071 1079	a trader
+T23	Mention 1125 1127	it
+T24	Mention 1038 1058	the underlying graph
+T25	Mention 1159 1180	the network structure
+T26	Mention 1269 1276	traders
+T1	Mention 646 650	they
+T2	Mention 377 379	We
+T7	Mention 664 666	We
+T8	Mention 833 835	We
+T9	Mention 976 978	we
+T27	Mention 1278 1281	Our
+T28	Mention 1369 1372	our
+*	Coreference T3 T4 T5
+*	Coreference T6 T16 T20
+*	Coreference T11 T10 T17 T1
+*	Coreference T13 T12 T18
+*	Coreference T15 T14 T19
+*	Coreference T21 T22 T23 T26
+*	Coreference T24 T25
+*	Coreference T2 T7 T8 T9 T27 T28

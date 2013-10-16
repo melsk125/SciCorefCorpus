@@ -1,0 +1,28 @@
+T1	Mention 114 166	Ensemble Kalman filter data assimilation methodology
+T2	Mention 170 248	a popular approach for hydrocarbon reservoir simulations in energy exploration
+T3	Mention 268 334	an ensemble of geological models and production data of oil fields
+T4	Mention 471 483	the ensemble
+T5	Mention 461 467	models
+T6	Mention 283 300	geological models
+T7	Mention 436 453	these simulations
+T8	Mention 630 651	reservoir simulations
+T9	Mention 776 812	the TIGRE Grid computing environment
+T10	Mention 932 949	TIGRE environment
+T13	Mention 715 771	the ensemble Kalman filter data assimilation methodology
+T14	Mention 1103 1159	the ensemble Kalman Filter data assimilation methodology
+T11	Mention 578 585	ECLIPSE
+T12	Mention 390 423	The Schlumberger ECLIPSE software
+T15	Mention 193 226	hydrocarbon reservoir simulations
+T16	Mention 193 214	hydrocarbon reservoir
+T17	Mention 379 388	oil wells
+T18	Mention 1049 1051	we
+T19	Mention 694 696	We
+T20	Mention 1074 1077	our
+*	Coreference T1 T2 T13 T14
+*	Coreference T3 T4
+*	Coreference T6 T5
+*	Coreference T7 T8 T15
+*	Coreference T9 T10
+*	Coreference T12 T11
+*	Coreference T16 T17
+*	Coreference T18 T19 T20

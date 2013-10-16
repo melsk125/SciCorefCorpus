@@ -1,0 +1,37 @@
+T1	Mention 34 136	a model of normative systems in which agents are assumed to have multiple goals of increasing priority
+T3	Mention 216 226	this model
+T4	Mention 231 272	the underlying model of normative systems
+T5	Mention 362 380	A normative system
+T10	Mention 476 496	the normative system
+T11	Mention 556 658	Computation Tree Logic (CTL), a widely used logic for representing the properties of Kripke structures
+T12	Mention 580 583	CTL
+T13	Mention 586 658	a widely used logic for representing the properties of Kripke structures
+T15	Mention 529 584	a hierarchy of formulae of Computation Tree Logic (CTL)
+T16	Mention 699 712	the hierarchy
+T14	Mention 730 739	the agent
+T17	Mention 509 517	an agent
+T18	Mention 776 789	the hierarchy
+T19	Mention 797 808	this scheme
+T22	Mention 885 919	our Kripke-based normative systems
+T23	Mention 923 1011	games, in which agents must determine whether to comply with the normative system or not
+T25	Mention 984 1004	the normative system
+T26	Mention 1112 1153	these Kripke-based normative system games
+T2	Mention 255 272	normative systems
+T6	Mention 281 298	Kripke structures
+T7	Mention 408 428	the Kripke structure
+T8	Mention 396 496	a subset of the Kripke structure, which contains the arcs that are forbidden by the normative system
+T9	Mention 23 25	We
+T20	Mention 274 276	we
+T21	Mention 498 500	We
+T24	Mention 810 812	we
+T27	Mention 1013 1015	We
+T28	Mention 1168 1170	we
+T29	Mention 885 888	our
+*	Coreference T1 T3 T4
+*	Coreference T5 T10 T22 T25 T2 T8
+*	Coreference T11 T12 T13
+*	Coreference T15 T16 T18 T19
+*	Coreference T17 T14
+*	Coreference T23 T26
+*	Coreference T7 T6
+*	Coreference T9 T20 T21 T24 T29 T27 T28

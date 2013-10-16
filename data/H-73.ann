@@ -1,0 +1,16 @@
+T1	Mention 82 174	a unified utility framework for resource selection of distributed text information retrieval
+T2	Mention 176 194	This new framework
+T3	Mention 362 380	resource selection
+T4	Mention 508 521	the selection
+T5	Mention 241 271	the probabilities of relevance
+T6	Mention 325 360	the estimated relevance information
+T7	Mention 685 698	the selection
+T8	Mention 787 801	This new model
+T9	Mention 114 132	resource selection
+T10	Mention 136 174	distributed text information retrieval
+T11	Mention 838 871	distributed information retrieval
+T12	Mention 901 903	it
+*	Coreference T1 T2 T8 T12
+*	Coreference T3 T4 T7 T9
+*	Coreference T5 T6
+*	Coreference T11 T10

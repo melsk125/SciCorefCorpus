@@ -1,0 +1,9 @@
+T1	Mention 107 111	DIDS
+T2	Mention 113 151	Distributed Intrusion Detection System
+T3	Mention 182 186	IDSs
+T4	Mention 188 215	Intrusion Detection Systems
+T5	Mention 248 264	this integration
+T6	Mention 299 315	this integration
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T5 T6

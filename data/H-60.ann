@@ -1,0 +1,10 @@
+T1	Mention 171 201	the inverse document frequency
+T2	Mention 203 206	idf
+T3	Mention 473 486	The framework
+T4	Mention 423 471	a Poisson-based probability of being informative
+T5	Mention 209 211	We
+T6	Mention 410 412	we
+T7	Mention 235 238	idf
+*	Coreference T1 T2 T7
+*	Coreference T4 T3
+*	Coreference T6 T5

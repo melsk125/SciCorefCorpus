@@ -1,0 +1,31 @@
+T1	Mention 78 111	a proxy-based gaming architecture
+T2	Mention 144 161	this architecture
+T5	Mention 250 280	The proposed game architecture
+T6	Mention 334 346	game proxies
+T7	Mention 363 384	communication proxies
+T8	Mention 293 466	distributed game clients that connect to game proxies (referred to as communication proxies) which forward game related messages from the clients to one or more game servers
+T9	Mention 427 438	the clients
+T13	Mention 623 648	the proposed architecture
+T14	Mention 594 619	the communication proxies
+T15	Mention 657 716	clients that are in proximity to it in the physical network
+T19	Mention 827 831	they
+T20	Mention 810 839	the clients that they support
+T22	Mention 847 864	this architecture
+T23	Mention 690 692	it
+T26	Mention 877 1072	an authority assignment mechanism that divides the authority for deciding the outcome of different actions/events that occur within the game between client and servers on a per action/event basis
+T30	Mention 1174 1188	this mechanism
+T31	Mention 1192 1244	a massively multi-player online game called RPGQuest
+T32	Mention 1236 1244	RPGQuest
+T33	Mention 1329 1354	the communication proxies
+T34	Mention 1358 1362	they
+T35	Mention 67 69	We
+T3	Mention 866 868	we
+T4	Mention 1074 1076	We
+T10	Mention 1259 1261	we
+*	Coreference T6 T7 T14 T19 T23 T33 T34
+*	Coreference T8 T9
+*	Coreference T20 T15
+*	Coreference T22 T13 T1 T2 T5
+*	Coreference T26 T30
+*	Coreference T31 T32
+*	Coreference T35 T3 T4 T10

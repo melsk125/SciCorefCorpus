@@ -1,0 +1,12 @@
+T1	Mention 173 189	such Web queries
+T2	Mention 67 88	short keyword queries
+T3	Mention 203 207	them
+T4	Mention 341 587	five broad techniques for generating the additional query keywords by analyzing user data at increasing granularity levels, ranging from term and compound level analysis up to global co-occurrence statistics, as well as to using external thesauri
+T5	Mention 667 683	these approaches
+T6	Mention 151 153	we
+T7	Mention 328 330	We
+T8	Mention 589 592	Our
+T9	Mention 825 827	we
+*	Coreference T2 T1 T3
+*	Coreference T4 T5
+*	Coreference T6 T7 T8 T9

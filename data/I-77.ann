@@ -1,0 +1,29 @@
+T1	Mention 95 110	five dimensions
+T2	Mention 171 176	LOGIC
+T3	Mention 74 79	their
+T4	Mention 28 50	Successful negotiators
+T5	Mention 221 237	these dimensions
+T6	Mention 269 277	intimacy
+T7	Mention 279 298	degree of closeness
+T8	Mention 304 311	balance
+T9	Mention 313 331	degree of fairness
+T10	Mention 334 346	The intimacy
+T11	Mention 350 554	a pair of matrices that evaluate both an agent's contribution to the relationship and its opponent's contribution each from an information view and from a utilitarian view across the five LOGIC dimensions
+T13	Mention 436 439	its
+T14	Mention 388 396	an agent
+T15	Mention 529 554	the five LOGIC dimensions
+T16	Mention 556 567	The balance
+T17	Mention 571 608	the difference between these matrices
+T18	Mention 594 608	these matrices
+T19	Mention 644 751	a target intimacy for each relationship that an agent would like the relationship to move towards in future
+T21	Mention 689 697	an agent
+T24	Mention 877 888	the Options
+T25	Mention 788 853	a set of Options that are in-line with the current intimacy level
+T26	Mention 1011 1030	the target intimacy
+*	Coreference T1 T2 T5 T15
+*	Coreference T4 T3
+*	Coreference T7 T6 T10 T11 T18
+*	Coreference T8 T9 T16 T17
+*	Coreference T14 T13 T21
+*	Coreference T19 T26
+*	Coreference T25 T24

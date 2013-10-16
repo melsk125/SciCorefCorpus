@@ -1,0 +1,9 @@
+T1	Mention 113 233	an adaptive task allocation framework to perform BLAST searches in a grid environment against sequence database segments
+T2	Mention 235 270	The framework, called PackageBLAST,
+T3	Mention 257 269	PackageBLAST
+T4	Mention 0 12	PackageBLAST
+T5	Mention 102 104	we
+T6	Mention 364 366	we
+T7	Mention 514 517	Our
+*	Coreference T1 T2 T4 T3
+*	Coreference T5 T6 T7

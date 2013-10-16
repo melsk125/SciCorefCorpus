@@ -1,0 +1,36 @@
+T3	Mention 428 439	such models
+T4	Mention 357 395	a performance model for an application
+T5	Mention 523 541	performance models
+T6	Mention 381 395	an application
+T7	Mention 552 566	an application
+T8	Mention 644 684	the statistics about the application run
+T9	Mention 726 742	these statistics
+T10	Mention 665 684	the application run
+T11	Mention 599 618	the application run
+T12	Mention 791 812	the application needs
+T13	Mention 696 720	application requirements
+T14	Mention 489 541	an approach that does not require performance models
+T15	Mention 814 827	This approach
+T16	Mention 1000 1012	our approach
+T17	Mention 1050 1058	the Grid
+T18	Mention 39 44	Grids
+T19	Mention 30 38	the Grid
+T1	Mention 474 476	we
+T2	Mention 543 545	We
+T20	Mention 603 614	application
+T21	Mention 620 622	we
+T22	Mention 669 680	application
+T23	Mention 696 707	application
+T24	Mention 795 806	application
+T25	Mention 835 837	us
+T26	Mention 750 752	we
+T27	Mention 988 990	We
+T28	Mention 1000 1003	our
+*	Coreference T3 T4 T5
+*	Coreference T6 T7 T20 T22
+*	Coreference T8 T9
+*	Coreference T11 T10 T23 T24
+*	Coreference T13 T12
+*	Coreference T14 T15 T16
+*	Coreference T18 T17 T19
+*	Coreference T2 T1 T21 T26 T25 T27 T28

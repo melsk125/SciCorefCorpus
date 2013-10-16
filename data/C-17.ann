@@ -1,0 +1,21 @@
+T3	Mention 483 517	a Virtual Conferencing Environment
+T4	Mention 519 522	VCE
+T5	Mention 525 535	The system
+T6	Mention 436 523	an audio service framework designed to provide a Virtual Conferencing Environment (VCE)
+T7	Mention 649 662	The framework
+T8	Mention 960 981	the proposed solution
+T9	Mention 51 85	a Virtual Conferencing Environment
+T10	Mention 1114 1131	Conference Server
+T11	Mention 1133 1135	CS
+T12	Mention 675 693	Conference Servers
+T1	Mention 258 260	we
+T2	Mention 424 426	we
+T13	Mention 828 924	a recent quantifier called "Loudness Number" that helps mimic a physical face-to-face conference
+T14	Mention 856 871	Loudness Number
+T15	Mention 926 928	We
+T16	Mention 1062 1064	we
+*	Coreference T3 T4 T9
+*	Coreference T6 T5 T7 T8
+*	Coreference T10 T11 T12
+*	Coreference T1 T2 T15 T16
+*	Coreference T14 T13

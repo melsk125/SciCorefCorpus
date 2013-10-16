@@ -1,0 +1,21 @@
+T1	Mention 215 311	the risk or variance associated with either the individual document models, or their combination
+T2	Mention 179 213	an important statistical dimension
+T3	Mention 371 396	the output feedback model
+T4	Mention 460 478	the feedback model
+T5	Mention 885 895	robustness
+T6	Mention 897 919	worst-case performance
+T9	Mention 1064 1099	the original strong baseline method
+T10	Mention 322 350	the baseline feedback method
+T11	Mention 354 365	a black box
+T12	Mention 400 417	a random variable
+T13	Mention 599 601	We
+T14	Mention 419 421	we
+T15	Mention 736 738	We
+T7	Mention 977 987	The result
+T8	Mention 991 1099	a meta-feedback algorithm that is both more robust and more precise than the original strong baseline method
+*	Coreference T2 T1
+*	Coreference T3 T4 T12
+*	Coreference T5 T6
+*	Coreference T10 T9 T11
+*	Coreference T7 T8
+*	Coreference T14 T13 T15

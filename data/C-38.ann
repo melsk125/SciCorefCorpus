@@ -1,0 +1,17 @@
+T1	Mention 87 209	a simple and scalable framework for architecting peer-to-peer overlays called Peer-to-peer Receiverdriven Overlay (or PRO)
+T2	Mention 165 200	Peer-to-peer Receiverdriven Overlay
+T3	Mention 205 208	PRO
+T4	Mention 211 214	PRO
+T5	Mention 274 277	its
+T6	Mention 438 441	PRO
+T9	Mention 563 574	the overlay
+T10	Mention 684 695	the overlay
+T11	Mention 482 495	each receiver
+T12	Mention 708 711	its
+T13	Mention 500 518	participating peer
+T16	Mention 846 859	each receiver
+T7	Mention 737 756	Participating peers
+T8	Mention 907 910	its
+*	Coreference T11 T12 T13 T16 T7 T8
+*	Coreference T9 T10
+*	Coreference T1 T2 T3 T4 T5 T6

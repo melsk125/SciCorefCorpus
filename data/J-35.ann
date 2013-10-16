@@ -1,0 +1,9 @@
+T3	Mention 286 311	the total amount of money
+T4	Mention 450 475	the total amount of money
+T5	Mention 152 262	a scrip system, a mechanism that admits a reasonable Nash equilibrium that reduces free riding can be obtained
+T6	Mention 651 664	scrip systems
+T7	Mention 168 262	a mechanism that admits a reasonable Nash equilibrium that reduces free riding can be obtained
+T8	Mention 313 318	scrip
+T9	Mention 154 159	scrip
+*	Coreference T5 T6 T7
+*	Coreference T9 T8 T3 T4

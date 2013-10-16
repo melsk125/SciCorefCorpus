@@ -1,0 +1,22 @@
+T1	Mention 53 82	Ontologies building from text
+T2	Mention 92 161	a time-consuming task which justifies the growth of Ontology Learning
+T4	Mention 180 186	Dynamo
+T5	Mention 163 186	Our system named Dynamo
+T6	Mention 144 161	Ontology Learning
+T7	Mention 205 216	this domain
+T8	Mention 324 393	a distributed hierarchical clustering algorithm, core of our approach
+T9	Mention 395 397	It
+T10	Mention 490 492	it
+T11	Mention 597 607	our system
+T12	Mention 381 393	our approach
+T3	Mention 313 315	we
+T13	Mention 470 472	We
+T14	Mention 572 574	we
+T15	Mention 163 166	Our
+T16	Mention 381 384	our
+T17	Mention 597 600	our
+*	Coreference T1 T2
+*	Coreference T5 T4 T11 T12
+*	Coreference T6 T7
+*	Coreference T8 T9 T10
+*	Coreference T3 T13 T14 T15 T16 T17

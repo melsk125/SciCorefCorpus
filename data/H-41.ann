@@ -1,0 +1,10 @@
+T1	Mention 108 112	HITS
+T2	Mention 790 794	HITS
+T3	Mention 898 921	the link-based features
+T4	Mention 1092 1111	link-based features
+T5	Mention 267 269	We
+T6	Mention 776 778	We
+T7	Mention 979 981	we
+*	Coreference T1 T2
+*	Coreference T3 T4
+*	Coreference T5 T6 T7

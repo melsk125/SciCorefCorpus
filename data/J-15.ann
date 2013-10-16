@@ -1,0 +1,15 @@
+T1	Mention 306 430	some structure that can be usefully exploited to streamline communication and simplify operation of a multiattribute auction
+T3	Mention 443 459	such a structure
+T4	Mention 508 598	a cardinal utility representation based on an underlying order over preference differences
+T5	Mention 466 598	the theory of measurable value functions, a cardinal utility representation based on an underlying order over preference differences
+T6	Mention 576 598	preference differences
+T7	Mention 655 671	such differences
+T10	Mention 820 955	an iterative auction mechanism that maintains prices on local clusters of attributes rather than the full space of joint configurations
+T12	Mention 1049 1062	the mechanism
+T2	Mention 432 434	We
+T8	Mention 807 809	We
+*	Coreference T1 T3
+*	Coreference T5 T4
+*	Coreference T6 T7
+*	Coreference T10 T12
+*	Coreference T2 T8

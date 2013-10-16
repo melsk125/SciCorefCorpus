@@ -1,0 +1,31 @@
+T1	Mention 73 91	The world wide web
+T2	Mention 171 189	This huge database
+T3	Mention 101 169	rich textual contents that are interconnected via complex hyperlinks
+T5	Mention 488 499	the content
+T6	Mention 667 685	the link structure
+T7	Mention 504 522	the link structure
+T8	Mention 689 712	the content information
+T9	Mention 640 653	a few methods
+T10	Mention 722 726	them
+T11	Mention 771 794	the content information
+T12	Mention 827 845	the link structure
+T13	Mention 744 765	authority information
+T14	Mention 859 877	authority features
+T15	Mention 1009 1336	an algorithm that exploits both the content and linkage information, by carrying out a joint factorization on both the linkage adjacency matrix and the document-term matrix, and derives a new representation for web pages in a low-dimensional factor space, without explicitly separating them as content, hub or authority factors
+T17	Mention 1041 1052	the content
+T18	Mention 1057 1076	linkage information
+T19	Mention 1303 1310	content
+T20	Mention 851 854	hub
+T21	Mention 1312 1315	hub
+T22	Mention 1319 1336	authority factors
+T23	Mention 1195 1229	a new representation for web pages
+T24	Mention 1381 1420	the compact representation of web pages
+T25	Mention 1442 1461	the proposed method
+*	Coreference T1 T2
+*	Coreference T3 T5 T8 T11 T17 T19
+*	Coreference T7 T6 T12 T18
+*	Coreference T9 T10
+*	Coreference T13 T14 T22
+*	Coreference T15 T25
+*	Coreference T21 T20
+*	Coreference T23 T24

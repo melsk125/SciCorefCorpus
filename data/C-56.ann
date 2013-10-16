@@ -1,0 +1,4 @@
+T3	Mention 329 334	grids
+T4	Mention 60 64	Grid
+T5	Mention 68 223	an emerging infrastructure used to share resources among virtual organizations in a seamless manner and to provide breakthrough computing power at low cost
+*	Coreference T4 T3 T5
